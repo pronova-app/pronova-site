@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pronova — Kullanım Şartları (Telif Hakları)</title>
-  <meta name="description" content="Pronova uygulaması telif hakları ve kullanım lisansı şartları." />
+  <title>Pronova — Gizlilik Politikası</title>
+  <meta name="description" content="Pronova uygulaması gizlilik politikası. Toplanan veriler, reklamlar ve kullanıcı hakları." />
   <meta name="theme-color" content="#F97316" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -108,6 +108,7 @@
       transition: all 0.25s ease;
       border: 1px solid transparent;
       white-space: nowrap;
+      cursor: pointer;
     }
     .btn-secondary {
       background: transparent;
@@ -212,79 +213,36 @@
       font-weight: 500;
     }
 
-    .back-home {
-      margin-top: 48px;
-      padding-top: 32px;
-      border-top: 1px solid var(--hairline);
+    .contact-box {
+      background: var(--accent-soft);
+      border: 1px solid var(--hairline);
+      border-radius: 16px;
+      padding: 22px 24px;
+      margin: 8px 0 0;
+    }
+    .contact-box .mail {
+      font-weight: 800;
+      font-size: 18px;
+      color: var(--primary);
+    }
+    .contact-box .sub {
+      color: var(--muted);
+      font-size: 14px;
+      margin-top: 4px;
+      margin-bottom: 0;
     }
 
-    
     .footer {
       background: var(--surface);
       border-top: 1px solid var(--hairline);
       padding: 72px 0 36px;
     }
-    .footer-grid {
-      display: grid;
-      grid-template-columns: 1.4fr 1fr 1fr 1fr;
-      gap: 48px;
-      margin-bottom: 48px;
-    }
-    .footer-brand p {
-      margin-top: 16px;
-      color: var(--muted);
-      font-size: 14px;
-      max-width: 32ch;
-    }
-    .footer h5 {
-      font-family: var(--font-body);
-      font-weight: 600;
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      color: var(--muted-2);
-      margin: 0 0 18px;
-    }
-    .footer ul {
-      list-style: none;
-      padding: 0; margin: 0;
-      display: grid; gap: 12px;
-    }
-    .footer a { font-size: 14px; color: var(--ink-2); transition: color 0.2s; }
-    .footer a:hover { color: var(--primary); }
     .footer-base {
       display: flex; justify-content: space-between; align-items: center;
       padding-top: 28px;
       border-top: 1px solid var(--hairline);
       font-size: 13px;
       color: var(--muted-2);
-    }
-    @media (max-width: 720px) {
-      .footer-grid { grid-template-columns: 1fr 1fr; gap: 36px; }
-      .footer-brand { grid-column: 1 / -1; }
-      .footer-base { flex-direction: column; gap: 12px; text-align: center; }
-    }
-
-    .reveal {
-      opacity: 0;
-      transform: translateY(28px);
-      transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
-                  transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
-    }
-    .reveal.in {
-      opacity: 1;
-      transform: translateY(0);
-    }
-    .reveal.delay-1 { transition-delay: 0.08s; }
-    .reveal.delay-2 { transition-delay: 0.16s; }
-    .reveal.delay-3 { transition-delay: 0.24s; }
-    .reveal.delay-4 { transition-delay: 0.32s; }
-
-    @media (prefers-reduced-motion: reduce) {
-      .reveal { opacity: 1; transform: none; transition: none; }
-      .strip-track { animation: none; }
-      .float-card { animation: none; }
-      .phone, .phone:hover { transform: none; }
     }
 
     @media (max-width: 720px) {
@@ -318,78 +276,53 @@
 
   <section class="hero">
     <div class="container">
-      <span class="eyebrow">Yasal / Telif Hakları</span>
-      <h1>Kullanım Şartları</h1>
+      <span class="eyebrow">Yasal / Gizlilik</span>
+      <h1>Gizlilik Politikası</h1>
     </div>
   </section>
 
   <div class="container">
     <div class="legal-content">
       <div class="last-updated">
-        Son güncelleme: 6 Mayıs 2026
+        Son güncelleme: 7 Haziran 2026
       </div>
 
       <div class="copyright-notice">
-        <strong>Pronova</strong> bir üyelik veya veri toplama sistemi içermez. Bu uygulama, tamamen telif hakkı saklı içeriklerden oluşmaktadır. Aşağıdaki şartlar, uygulama içindeki tüm materyallerin kullanımını düzenler.
+        <strong>Pronova</strong> gizliliğinize önem verir. Bu politika, uygulamayı kullandığınızda hangi verilerin işlendiğini, nasıl ve neden işlendiğini açıklar.
       </div>
 
-      <p><strong>Pronova</strong> ("Uygulama", "biz" veya "Pronova") olarak, tüm denemeler, sorular, çözüm açıklamaları, görsel tasarım, metinler, logolar ve uygulama içindeki diğer tüm materyaller ("İçerik") üzerinde <strong>tüm telif hakları ve fikri mülkiyet hakları</strong> saklıdır. Bu Kullanım Şartları, uygulamamızı indiren ve kullanan herkes için geçerlidir.</p>
+      <p><strong>Pronova</strong> ("Uygulama", "biz"), YDS, YÖKDİL ve YDT dil sınavlarına hazırlık için deneme sınavları sunan bir mobil uygulamadır. Uygulama kendi sunucularında hesap, üyelik veya kişisel veri tutmaz. Ancak reklam gösterimi için üçüncü taraf bir hizmet olan <strong>Google AdMob</strong> kullanır ve bu hizmet bazı verileri toplayabilir. Bu politika, özellikle bu reklam hizmeti aracılığıyla işlenen verileri kapsar.</p>
 
-      <h2>1. Telif Hakkı Sahipliği</h2>
-      <p>Pronova uygulamasında yer alan tüm içerik (başta olmak üzere: YDS, YÖKDİL ve YDT denemeleri, sorular, cevap anahtarları, detaylı çözüm metinleri, kelime listeleri, dilbilgisi notları, görsel arayüz, simgeler, tipografi, ekran düzenleri, yazılım kodu ve veritabanı yapısı) <strong>Pronova Eğitim Teknolojileri'ne</strong> aittir ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile uluslararası telif hukuku kapsamında korunmaktadır.</p>
-      <p>Uygulama içinde kullanılan üçüncü taraf açık kaynak bileşenler (varsa) ilgili lisanslarına tabidir. Bunun dışında kalan hiçbir içerik kamu malı değildir.</p>
+      <h2>1. Cihazınızda Saklanan Veriler</h2>
+      <p>Çözdüğünüz sorular, doğru/yanlış sayıları, günlük ilerleme ve gün serisi gibi tüm uygulama içi istatistikler <strong>yalnızca cihazınızda</strong> saklanır. Bu bilgiler bize gönderilmez, sunucularımızda tutulmaz ve üçüncü taraflarla paylaşılmaz. Uygulamayı silerseniz bu veriler de cihazınızdan kaldırılır.</p>
 
-      <h2>2. Kullanıcıya Verilen Sınırlı Lisans</h2>
-      <p><strong>Üyelik veya veri kaydı gerekmeyen</strong> bu uygulamayı indirerek, size <strong>kişisel, ticari olmayan, devredilemez ve geri alınabilir</strong> bir lisans verilmiş olur. Bu lisans kapsamında şunları <strong>yapabilirsiniz:</strong></p>
+      <h2>2. Reklamlar ve Google AdMob</h2>
+      <p>Uygulamamız, ücretsiz kalabilmek için Google AdMob aracılığıyla reklam gösterir. AdMob, reklamları sunmak ve ölçmek amacıyla aşağıdaki türde verileri toplayabilir:</p>
       <ul>
-        <li>Uygulamayı kendi kişisel cihazınıza indirip, yalnızca <strong>bireysel dil sınavı hazırlık amacıyla</strong> kullanmak,</li>
-        <li>Denemeleri çözmek, çözümleri okumak, ilerlemenizi cihazınız üzerinde takip etmek (bu veriler yalnızca cihazda kalır, bize iletilmez),</li>
-        <li>Uygulamayı çevrimdışı olarak kullanmak.</li>
+        <li>Reklam tanımlayıcısı (iOS'ta IDFA / cihaz reklam kimliği),</li>
+        <li>Cihaz bilgileri (model, işletim sistemi sürümü, dil ve ülke ayarı),</li>
+        <li>IP adresi ve buna bağlı yaklaşık (genel) konum,</li>
+        <li>Reklam etkileşimi ve uygulama kullanım verileri.</li>
       </ul>
+      <p>Bu veriler Google tarafından kendi gizlilik politikası kapsamında işlenir. Google'ın verileri nasıl kullandığını <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a> adresinde inceleyebilirsiniz. Google'ın iş ortaklarıyla veri kullanımı için ayrıca <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Google iş ortağı siteleri</a> sayfasına bakabilirsiniz.</p>
 
-      <h2>3. Kesinlikle Yasaklanan Eylemler</h2>
-      <p>Aşağıdaki fiiller, telif hakkı ihlali olarak değerlendirilir ve hukuki ve cezai yaptırımlara tabidir:</p>
-      <ul>
-        <li><strong>Kopyalama ve Dağıtma:</strong> Uygulama içindeki hiçbir soruyu, çözüm metnini veya görseli —kısmen veya tamamen— ekran görüntüsü alarak, kopyala-yapıştır yaparak, PDF/Word/Excel gibi dosya formatlarına aktararak, yazılı veya dijital ortamda üçüncü kişilerle paylaşmak, satmak veya dağıtmak.</li>
-        <li><strong>Yeniden Yayınlama:</strong> Pronova içeriğini (denemeler, sorular, çözümler) herhangi bir web sitesinde, sosyal medya hesabında, forumda, YouTube videosunda, e-kitapta veya basılı materyalde izinsiz olarak yayınlamak.</li>
-        <li><strong>Tersine Mühendislik ve Kırma:</strong> Uygulamanın kaynak kodunu, veritabanı yapısını veya güvenlik önlemlerini analiz etmek, dekompile etmek, deşifre etmek veya korumalarını aşmak.</li>
-        <li><strong>Türev Eser Oluşturma:</strong> Soruları değiştirerek, yeniden düzenleyerek veya uyarlayarak yeni bir deneme seti veya eğitim materyali oluşturmak.</li>
-        <li><strong>Otomatik Erişim (Bot/Script):</strong> Herhangi bir otomatik araç (bot, crawler, scraper) kullanarak uygulamadaki sorulara veya çözümlere toplu olarak erişmek veya veri çekmek.</li>
-      </ul>
+      <h2>3. İzleme İzni (App Tracking Transparency)</h2>
+      <p>Apple cihazlarında, size daha alakalı (kişiselleştirilmiş) reklam gösterebilmek için reklam tanımlayıcınıza erişim izni isteyebiliriz. Uygulama açıldığında karşınıza çıkan izin penceresinde bu isteği <strong>reddedebilirsiniz</strong>. İzin vermeseniz de uygulama tam olarak çalışmaya devam eder; yalnızca gösterilen reklamlar kişiselleştirilmemiş olur.</p>
 
-      <h2>4. İhlallerin Sonuçları</h2>
-      <p>Bu Kullanım Şartları'nı ihlal ettiğinizi tespit edersek, yasal yollara başvurma hakkımız saklıdır. Telif hakkı ihlalleri:</p>
-      <ul>
-        <li>5846 sayılı Fikir ve Sanat Eserleri Kanunu'na göre <strong>hapis cezası</strong> ve <strong>adli para cezası</strong> gerektirebilir,</li>
-        <li>Tazminat davalarına konu olabilir (maddi ve manevi tazminat),</li>
-        <li>İnternet servis sağlayıcıları veya platformlar (App Store / Google Play) nezdinde şikayet edilerek uygulamaya erişiminizin engellenmesine yol açabilir.</li>
-      </ul>
-      <p>Herhangi bir ihlal durumunda, fesih bildirimi yapmaksızın lisansınızı <strong>derhal feshetme</strong> ve uygulamayı sizin için kullanılamaz hale getirme hakkımızı saklı tutarız.</p>
+      <h2>4. Verilerin Paylaşımı</h2>
+      <p>Biz doğrudan herhangi bir kişisel veri toplamadığımız için sizin adınıza veri satışı veya paylaşımı yapmayız. Reklam hizmeti kapsamında toplanan veriler yalnızca Google AdMob ve onun reklam iş ortakları tarafından, reklam sunumu amacıyla işlenir. Yasal bir zorunluluk olması hâlinde yetkili mercilerle paylaşım yapılabilir.</p>
 
-      <h2>5. Kullanıcı Verisi Yoktur (Önemli Not)</h2>
-      <p>Pronova, <strong>herhangi bir üyelik sistemi, hesap oluşturma, e-posta toplama, şifre saklama veya kişisel veri işleme faaliyeti içermez.</strong> Uygulama içindeki ilerleme bilgileri (çözülen sorular, doğru/yanlış sayıları, gün serisi vb.) yalnızca sizin cihazınızda (local storage) saklanır. Bu veriler bize iletilmez, sunucularımızda tutulmaz, üçüncü taraflarla paylaşılmaz. Bu nedenle, KVKK veya GDPR kapsamında bir "veri sorumlusu" değiliz.</p>
+      <h2>5. Çocukların Gizliliği</h2>
+      <p>Pronova, akademik dil sınavlarına yönelik bir uygulamadır ve 13 yaşın altındaki çocuklara yönelik değildir. Bilerek 13 yaş altı kullanıcılardan veri toplamayız. Bir çocuğun verisinin işlendiğini düşünüyorsanız bizimle iletişime geçin.</p>
 
-      <h2>6. Adil Kullanım (Fair Use) Sınırı</h2>
-      <p>Telif hukukunda <strong>“adil kullanım” (teftiş, eleştiri, eğitim amaçlı kısa alıntı)</strong> gibi istisnalar mevcuttur. Ancak bu istisnalar:</p>
-      <ul>
-        <li>Uygulamanın özünü oluşturan deneme sorularının veya çözümlerinin kopyalanarak başka bir platformda yayınlanmasını,</li>
-        <li>Ticari veya eğitim kurumu içi kitapçık haline getirilmesini,</li>
-        <li>Sosyal medyada “bir soru paylaşma” adı altında telifli içeriğin herkese açık şekilde dağıtılmasını <strong>kapsamaz</strong>.</li>
-      </ul>
-      <p>Adil kullanım sınırlarını aşan her durumda telif hakkı ihlali oluşur.</p>
+      <h2>6. Veri Güvenliği ve Saklama</h2>
+      <p>Uygulama içi ilerleme verileriniz cihazınızda saklandığı için güvenliği büyük ölçüde cihazınızın güvenliğine bağlıdır. Reklam hizmeti kapsamında işlenen veriler ise Google'ın güvenlik ve saklama standartlarına tabidir.</p>
 
-      <h2>7. Uygulama İçeriğinin Korunması</h2>
-      <p>Pronova'daki sorular ve çözümler, uzman eğitim kadrosu tarafından aylar süren bir emekle hazırlanmış, özgün ve sınav formatlarına uygun şekilde tasarlanmıştır. Bu içeriklerin izinsiz kullanımı, hem emeğin çalınması hem de Pronova'nın ticari varlığına doğrudan zarar verir. Bu nedenle telif ihlallerini tespit etmek için periyodik olarak dijital izleme yapılmakta ve ihlal durumunda yasal süreç başlatılmaktadır.</p>
+      <h2>7. Haklarınız (KVKK / GDPR)</h2>
+      <p>Bulunduğunuz ülkenin veri koruma mevzuatı (Türkiye'de KVKK, Avrupa Birliği'nde GDPR) kapsamında; işlenen verilere erişme, düzeltilmesini veya silinmesini talep etme ve kişiselleştirilmiş reklam tercihlerinizi değiştirme haklarına sahipsiniz. Reklam kişiselleştirmesini cihazınızın gizlilik/reklam ayarlarından veya uygulamadaki izin penceresinden yönetebilirsiniz.</p>
 
-      <h2>8. Üçüncü Taraf Bağlantıları ve Açık Kaynak</h2>
-      <p>Uygulamamız, üçüncü taraf hizmetlere (örneğin fontlar için Google Fonts) bağlantılar veya açık kaynak kütüphaneler kullanabilir. Bu kütüphaneler kendi lisanslarına tabidir (<i>MIT, Apache 2.0, vb.</i>). Ancak bu durum, Pronova'ya ait telifli içeriğin haklarını değiştirmez veya devretmez.</p>
-
-      <h2>9. Değişiklikler</h2>
-      <p>Bu Kullanım Şartları'nı zaman zaman güncelleme hakkımız saklıdır. Değişiklikler uygulama içinde veya web sitemizde yayınlandığı tarihten itibaren geçerlidir. Uygulamayı kullanmaya devam etmeniz, güncellenmiş şartları kabul ettiğiniz anlamına gelir.</p>
-
-      <h2>10. İletişim ve Telif İhlali Bildirimi</h2>
-      <p>Bu şartlarla ilgili sorularınız veya bir telif hakkı ihlali tespit etmeniz durumunda bize ulaşabilirsiniz.</p>
-      <p>Üçüncü şahıslar tarafından Pronova içeriğinin izinsiz kullanıldığını görürseniz, lütfen bize bildirin.</p>
+      <h2>8. Değişiklikler</h2>
+      <p>Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler bu sayfada yayımlandığı tarihte yürürlüğe girer. Güncel sürümü düzenli olarak kontrol etmenizi öneririz.</p>
     </div>
   </div>
 
