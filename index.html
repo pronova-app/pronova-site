@@ -1344,10 +1344,18 @@
 
       if (os === 'desktop') return;
 
+      const storeUrl = STORE_LINKS[os];
+
+      // 0) Sayfa #indir hash'iyle açıldıysa → anında mağazaya
+      if (window.location.hash === '#indir') {
+        window.location.replace(storeUrl);
+        return; // sonraki init'lere gerek yok, zaten redirect oluyor
+      }
+
       // 1) Nav "İndir" butonu → doğrudan mağazaya
       const navBtn = document.getElementById('navDownloadBtn');
       if (navBtn) {
-        navBtn.href = STORE_LINKS[os];
+        navBtn.href = storeUrl;
         navBtn.target = '_blank';
         navBtn.rel = 'noopener';
       }
@@ -1355,7 +1363,7 @@
       // 2) Hero'daki "Uygulamayı indir" → mağazaya
       const heroBtn = document.querySelector('.hero-actions a[href="#indir"]');
       if (heroBtn) {
-        heroBtn.href = STORE_LINKS[os];
+        heroBtn.href = storeUrl;
         heroBtn.target = '_blank';
         heroBtn.rel = 'noopener';
       }
@@ -1373,6 +1381,21 @@
           ctaAndroid.classList.add('btn-primary');
         }
       }
+
+      // 4) Sayfa içinde #indir'e giden diğer linkler (footer, vs.) tıklanınca da redirect
+      document.querySelectorAll('a[href="#indir"]').forEach((a) => {
+        a.addEventListener('click', (e) => {
+          e.preventDefault();
+          window.location.href = storeUrl;
+        });
+      });
+
+      // 5) Hash sonradan #indir'e değişirse (örn. bir link tıklandı) yakala
+      window.addEventListener('hashchange', () => {
+        if (window.location.hash === '#indir') {
+          window.location.replace(storeUrl);
+        }
+      });
     })();
 
     const nav = document.getElementById('nav');
