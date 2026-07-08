@@ -981,7 +981,7 @@
         <a href="#vitrin">Vitrin</a>
       </nav>
       <div class="nav-cta">
-        <a href="#indir" class="btn btn-primary">
+        <a href="#indir" class="btn btn-primary" id="navDownloadBtn">
           İndir
           <svg class="btn-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
             <path d="M5 12h14M13 6l6 6-6 6"/>
@@ -1269,10 +1269,10 @@
         Pronova'yı bugün indir, ilk denemeni 5 dakika içinde çözmeye başla.
       </p>
       <div class="cta-actions reveal delay-3">
-        <a href="https://apps.apple.com/app/id6779178032" class="btn btn-primary">
+        <a href="https://apps.apple.com/app/id6779178032" class="btn btn-primary" id="ctaIos">
           App Store'dan İndir
         </a>
-        <a href="GOOGLE_PLAY_LINKINIZ" class="btn btn-secondary">
+        <a href="https://play.google.com/store/apps/details?id=com.spinel.learnova" class="btn btn-secondary" id="ctaAndroid">
           Google Play'den indir
         </a>
       </div>
@@ -1301,8 +1301,8 @@
         <div>
           <h5>İndir</h5>
           <ul>
-            <li><a href="https://apps.apple.com/app/id6779178032">App Store</a></li>
-            <li><a href="#">Google Play</a></li>
+            <li><a href="https://apps.apple.com/app/id6779178032" id="footerIos">App Store</a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.spinel.learnova" id="footerAndroid">Google Play</a></li>
           </ul>
         </div>
         <div>
@@ -1323,6 +1323,57 @@
 
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
+
+    /* ============== Mobile OS detection & store redirect ============== */
+    (function () {
+      const STORE_LINKS = {
+        ios: 'https://apps.apple.com/app/id6779178032',
+        android: 'https://play.google.com/store/apps/details?id=com.spinel.learnova'
+      };
+
+      const ua = navigator.userAgent || navigator.vendor || '';
+      let os = 'desktop';
+      if (/android/i.test(ua)) {
+        os = 'android';
+      } else if (
+        /iPad|iPhone|iPod/.test(ua) ||
+        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)
+      ) {
+        os = 'ios';
+      }
+
+      if (os === 'desktop') return;
+
+      // 1) Nav "İndir" butonu → doğrudan mağazaya
+      const navBtn = document.getElementById('navDownloadBtn');
+      if (navBtn) {
+        navBtn.href = STORE_LINKS[os];
+        navBtn.target = '_blank';
+        navBtn.rel = 'noopener';
+      }
+
+      // 2) Hero'daki "Uygulamayı indir" → mağazaya
+      const heroBtn = document.querySelector('.hero-actions a[href="#indir"]');
+      if (heroBtn) {
+        heroBtn.href = STORE_LINKS[os];
+        heroBtn.target = '_blank';
+        heroBtn.rel = 'noopener';
+      }
+
+      // 3) CTA bölümündeki karşı platform butonunu gizle, kalanı primary yap
+      const ctaIos = document.getElementById('ctaIos');
+      const ctaAndroid = document.getElementById('ctaAndroid');
+      if (os === 'ios' && ctaAndroid) {
+        ctaAndroid.style.display = 'none';
+      }
+      if (os === 'android') {
+        if (ctaIos) ctaIos.style.display = 'none';
+        if (ctaAndroid) {
+          ctaAndroid.classList.remove('btn-secondary');
+          ctaAndroid.classList.add('btn-primary');
+        }
+      }
+    })();
 
     const nav = document.getElementById('nav');
     const onScroll = () => {
