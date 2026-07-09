@@ -693,6 +693,168 @@
     }
 
     /* ====================================
+       WHAT'S NEW SECTION
+       ==================================== */
+    .whats-new {
+      background: linear-gradient(180deg, var(--bg) 0%, var(--accent-light) 100%);
+      border-top: 1px solid var(--hairline);
+      border-bottom: 1px solid var(--hairline);
+      padding: 96px 0;
+      position: relative;
+      overflow: hidden;
+      z-index: 2;
+    }
+    .whats-new-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 16px;
+      background: var(--surface);
+      border: 1px solid var(--primary);
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--primary);
+      margin-bottom: 24px;
+    }
+    .whats-new-badge::before {
+      content: "";
+      width: 8px; height: 8px;
+      background: var(--primary);
+      border-radius: 50%;
+      box-shadow: 0 0 0 4px rgba(249,115,22,0.2);
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.15); opacity: 0.7; }
+    }
+
+    .highlight-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-top: 32px;
+    }
+    .highlight-card {
+      background: var(--surface);
+      border: 1px solid var(--hairline);
+      border-radius: var(--radius-lg);
+      padding: 40px 36px 0;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      min-height: 500px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .highlight-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 30px 60px -30px rgba(28,28,30,0.2);
+    }
+    .highlight-card .hl-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 5px 10px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--primary-dark);
+      align-self: flex-start;
+    }
+    .highlight-card h3 {
+      margin-top: 20px;
+      font-family: var(--font-display);
+      font-size: 30px;
+      font-weight: 500;
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+    }
+    .highlight-card p {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.6;
+      max-width: 42ch;
+    }
+    .highlight-card .hl-image {
+      margin-top: 32px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 200px;
+      border-radius: 32px;
+      padding: 7px;
+      background: linear-gradient(160deg, #1c1c1e, #3a3a3c);
+      box-shadow:
+        0 40px 80px -30px rgba(28,28,30,0.35),
+        inset 0 0 0 1px rgba(255,255,255,0.05);
+      position: relative;
+      transform: translateY(20px);
+      transition: transform 0.5s ease;
+    }
+    .highlight-card:hover .hl-image { transform: translateY(10px); }
+    .highlight-card .hl-image .phone-screen {
+      border-radius: 26px;
+      aspect-ratio: 9 / 19.5;
+    }
+
+    .mini-features {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-top: 24px;
+    }
+    .mini-feature {
+      background: var(--surface);
+      border: 1px solid var(--hairline);
+      border-radius: var(--radius);
+      padding: 24px 22px;
+      transition: all 0.25s ease;
+    }
+    .mini-feature:hover {
+      border-color: var(--primary);
+      transform: translateY(-3px);
+      box-shadow: 0 18px 40px -20px rgba(249,115,22,0.2);
+    }
+    .mini-feature .mf-icon {
+      width: 42px; height: 42px;
+      border-radius: 12px;
+      background: var(--accent-soft);
+      color: var(--primary);
+      display: grid; place-items: center;
+      margin-bottom: 16px;
+    }
+    .mini-feature .mf-icon svg { width: 22px; height: 22px; }
+    .mini-feature h4 {
+      font-family: var(--font-display);
+      font-weight: 500;
+      font-size: 17px;
+      letter-spacing: -0.01em;
+    }
+    .mini-feature p {
+      margin: 8px 0 0;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    @media (max-width: 880px) {
+      .highlight-grid { grid-template-columns: 1fr; }
+      .mini-features { grid-template-columns: 1fr 1fr; }
+      .highlight-card { min-height: auto; padding: 32px 28px 0; }
+      .highlight-card .hl-image { width: 180px; }
+    }
+    @media (max-width: 480px) {
+      .mini-features { grid-template-columns: 1fr; }
+    }
+
+    /* ====================================
        SHOWCASE CAROUSEL — warm peach theme
        ==================================== */
     .showcase {
@@ -975,6 +1137,7 @@
                     Pronova
         </a>
       <nav class="nav-links">
+        <a href="#yenilikler">Yenilikler</a>
         <a href="#kategoriler">Kategoriler</a>
         <a href="#ozellikler">Özellikler</a>
         <a href="#soru-tipleri">Soru Tipleri</a>
@@ -1064,6 +1227,87 @@
         <div class="stat">
           <div class="stat-value">B2–C1</div>
           <div class="stat-label">Hedef seviye aralığı</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="whats-new" id="yenilikler">
+    <div class="container">
+      <div class="section-head reveal" style="max-width: 800px; margin-bottom: 48px;">
+        <span class="whats-new-badge">Yeni Güncelleme</span>
+        <h2 class="display-2">Daha pratik, daha <span class="italic ink-orange">anlaşılır</span>, daha verimli.</h2>
+        <p class="lead">Bu güncellemeyle Pronova'ya yepyeni çalışma özellikleri eklendi. Artık sınavları çevrimdışı çözebilir, kelime defterinle çalışabilir ve zorlandığın soruları saklayabilirsin.</p>
+      </div>
+
+      <div class="highlight-grid">
+        <article class="highlight-card reveal">
+          <span class="hl-tag">PDF Desteği</span>
+          <h3>Sınavlarını PDF olarak yanına al.</h3>
+          <p>Her denemeyi PDF olarak indir; internetsiz ortamda, tabletinde ya da yazıcıdan çıkararak defterinle birlikte çalış. Sınavın tam formatı, cevap anahtarıyla birlikte.</p>
+          <div class="hl-image">
+            <div class="phone-screen">
+              <img src="images/screen-pdf.png" alt="PDF indirme ekranı" />
+            </div>
+          </div>
+        </article>
+
+        <article class="highlight-card reveal delay-1">
+          <span class="hl-tag">Kelime Defteri</span>
+          <h3>Bilmediğin kelime? Dokun, öğren, tekrar et.</h3>
+          <p>Sorulardaki önemli kelimelere dokunarak anlamını gör. Beğendiklerini favorilere ekle, kelime defterinde biriktir ve düzenli tekrarla kalıcı hale getir.</p>
+          <div class="hl-image">
+            <div class="phone-screen">
+              <img src="images/screen_vocabulary.png" alt="Kelime defteri ekranı" />
+            </div>
+          </div>
+        </article>
+      </div>
+
+      <div class="mini-features">
+        <div class="mini-feature reveal">
+          <div class="mf-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M5 12.55a11 11 0 0 1 14.08 0"/>
+              <path d="M1.42 9a16 16 0 0 1 21.16 0"/>
+              <path d="M8.53 16.11a6 6 0 0 1 6.95 0"/>
+              <line x1="12" y1="20" x2="12.01" y2="20"/>
+              <line x1="3" y1="3" x2="21" y2="21" stroke-dasharray="0"/>
+            </svg>
+          </div>
+          <h4>Çevrimdışı çalışma</h4>
+          <p>İnternet olmadan da tüm sınavları çözmeye devam et.</p>
+        </div>
+
+        <div class="mini-feature reveal delay-1">
+          <div class="mf-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+          </div>
+          <h4>Favori kelimeler</h4>
+          <p>Beğendiğin kelimeleri kaydet, kelime defterinde tekrarla.</p>
+        </div>
+
+        <div class="mini-feature reveal delay-2">
+          <div class="mf-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+            </svg>
+          </div>
+          <h4>Zor soruları sakla</h4>
+          <p>Zorlandığın soruları kaydet, istediğin an geri dön ve tekrar çöz.</p>
+        </div>
+
+        <div class="mini-feature reveal delay-3">
+          <div class="mf-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"/>
+              <polyline points="12 6 12 12 16 14"/>
+            </svg>
+          </div>
+          <h4>Sade deneyim</h4>
+          <p>Daha düzenli arayüz, daha hızlı akış, dikkat dağıtmayan tasarım.</p>
         </div>
       </div>
     </div>
@@ -1245,8 +1489,16 @@
             <div class="showcase-tag"><small>04 / SORU</small><strong>Çözüm</strong></div>
           </div>
           <div class="showcase-card">
+            <div class="phone-screen"><img src="images/screen_vocabulary.png" alt="Kelime defteri" /></div>
+            <div class="showcase-tag"><small>05 / YENİ</small><strong>Kelime Defteri</strong></div>
+          </div>
+          <div class="showcase-card">
+            <div class="phone-screen"><img src="images/screen-pdf.png" alt="PDF indirme" /></div>
+            <div class="showcase-tag"><small>06 / YENİ</small><strong>PDF İndirme</strong></div>
+          </div>
+          <div class="showcase-card">
             <div class="phone-screen"><img src="images/screen-stats.png" alt="İstatistikler" /></div>
-            <div class="showcase-tag"><small>05 / TAKİP</small><strong>İstatistikler</strong></div>
+            <div class="showcase-tag"><small>07 / TAKİP</small><strong>İstatistikler</strong></div>
           </div>
         </div>
 
@@ -1292,6 +1544,7 @@
         <div>
           <h5>Ürün</h5>
           <ul>
+            <li><a href="#yenilikler">Yenilikler</a></li>
             <li><a href="#kategoriler">Kategoriler</a></li>
             <li><a href="#ozellikler">Özellikler</a></li>
             <li><a href="#soru-tipleri">Soru Tipleri</a></li>
