@@ -9,6 +9,7 @@ assert content['schemaVersion'] == 1
 assert content['lessons'], 'En az bir ders gerekli'
 ids = set()
 for lesson in content['lessons']:
+    assert lesson.get('level','B1') in ('A2','B1'), 'Geçersiz seviye'
     assert lesson['id'] not in ids, 'Ders kimlikleri benzersiz olmalı'
     ids.add(lesson['id'])
     assert lesson['sections'] and lesson['quiz']
