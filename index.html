@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Pronova — YDS, YÖKDİL ve YDT için yeni nesil hazırlık</title>
   <meta name="description" content="YDS, YÖKDİL ve YDT için kategori bazlı denemeler, detaylı çözümler ve gerçek zamanlı ilerleme takibi. Yabancı dil sınavlarında zirveye taşıyan yol arkadaşın." />
-  <meta name="theme-color" content="#F97316" />
+  <meta name="theme-color" content="#6155F5" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -13,11 +13,11 @@
 
   <style>
     :root {
-      --primary: #F97316;
-      --primary-dark: #EA580C;
-      --primary-light: #FB923C;
-      --accent-light: #FFF7ED;
-      --accent-soft: #FEF3E8;
+      --primary: #6155F5;
+      --primary-dark: #4F42DF;
+      --primary-light: #9189FF;
+      --accent-light: #F4F2FF;
+      --accent-soft: #EFECFF;
 
       --bg: #FAF7F2;
       --bg-2: #F2F2F7;
@@ -157,7 +157,7 @@
     .btn-primary:hover {
       background: var(--primary);
       transform: translateY(-2px);
-      box-shadow: 0 12px 28px -10px rgba(249,115,22,0.55);
+      box-shadow: 0 12px 28px -10px rgba(97,85,245,0.55);
     }
     .btn-secondary {
       background: transparent;
@@ -207,7 +207,7 @@
       flex-shrink: 0;
       border-radius: 9px;
       overflow: hidden;
-      box-shadow: 0 4px 12px -2px rgba(249,115,22,0.35);
+      box-shadow: 0 4px 12px -2px rgba(97,85,245,0.35);
     }
     .logo-mark svg { width: 100%; height: 100%; display: block; }
     .nav-links {
@@ -267,7 +267,7 @@
       content: "";
       position: absolute;
       inset: 10% -10% 10% -10%;
-      background: radial-gradient(60% 50% at 50% 50%, rgba(249,115,22,0.18), transparent 70%);
+      background: radial-gradient(60% 50% at 50% 50%, rgba(97,85,245,0.18), transparent 70%);
       filter: blur(20px);
       z-index: 0;
     }
@@ -279,7 +279,7 @@
       background: linear-gradient(160deg, #1c1c1e, #3a3a3c);
       box-shadow:
         0 60px 120px -40px rgba(28,28,30,0.4),
-        0 30px 60px -30px rgba(249,115,22,0.25),
+        0 30px 60px -30px rgba(97,85,245,0.25),
         inset 0 0 0 1px rgba(255,255,255,0.05);
       z-index: 1;
       transform: rotate(-2deg);
@@ -622,7 +622,7 @@
     .anno-dot {
       width: 8px; height: 8px; border-radius: 50%;
       background: var(--primary);
-      box-shadow: 0 0 0 4px rgba(249,115,22,0.18);
+      box-shadow: 0 0 0 4px rgba(97,85,245,0.18);
     }
     .anno-dot.green { background: var(--success); box-shadow: 0 0 0 4px rgba(52,199,89,0.18); }
     .anno-dot.blue { background: var(--blue); box-shadow: 0 0 0 4px rgba(59,130,246,0.18); }
@@ -658,7 +658,7 @@
     .qtype:hover {
       border-color: var(--primary);
       transform: translateY(-3px);
-      box-shadow: 0 18px 40px -20px rgba(249,115,22,0.25);
+      box-shadow: 0 18px 40px -20px rgba(97,85,245,0.25);
     }
     .qtype-num {
       font-family: var(--font-mono);
@@ -724,7 +724,7 @@
       width: 8px; height: 8px;
       background: var(--primary);
       border-radius: 50%;
-      box-shadow: 0 0 0 4px rgba(249,115,22,0.2);
+      box-shadow: 0 0 0 4px rgba(97,85,245,0.2);
       animation: pulse 2s ease-in-out infinite;
     }
     @keyframes pulse {
@@ -820,7 +820,7 @@
     .mini-feature:hover {
       border-color: var(--primary);
       transform: translateY(-3px);
-      box-shadow: 0 18px 40px -20px rgba(249,115,22,0.2);
+      box-shadow: 0 18px 40px -20px rgba(97,85,245,0.2);
     }
     .mini-feature .mf-icon {
       width: 42px; height: 42px;
@@ -860,7 +860,7 @@
     .showcase {
       background:
         radial-gradient(80% 60% at 80% 0%, rgba(251,146,60,0.18), transparent 60%),
-        radial-gradient(60% 50% at 0% 100%, rgba(249,115,22,0.10), transparent 60%),
+        radial-gradient(60% 50% at 0% 100%, rgba(97,85,245,0.10), transparent 60%),
         var(--showcase-bg);
       color: var(--ink);
       padding: 120px 0 96px;
@@ -1118,6 +1118,23 @@
       .float-card { animation: none; }
       .phone, .phone:hover { transform: none; }
     }
+
+/* Pronova · spacious, centered product design */
+:root{--bg:#fff;--surface-soft:#f8f8fa;--hairline:#e9e9ed;--max:1200px;--ink:#202124;--muted:#83838d}
+body::before{display:none}body{background:#fff}h1,h2,h3,h4{font-weight:700;letter-spacing:-.045em}.italic{font-style:normal;font-weight:inherit}
+.nav,.nav.scrolled{background:rgba(255,255,255,.94);border-color:#f1f1f4}.nav-inner{height:84px}.logo{font-size:27px;font-weight:800}.logo-mark{box-shadow:none}.nav-links{gap:28px}.nav-links a:first-child,.nav-links a:nth-child(4){display:none}
+.btn{font-weight:600;padding:13px 24px}.btn-primary{background:var(--primary)}.btn-primary:hover{background:var(--primary-dark);box-shadow:none}.btn-secondary{border-color:#dedee4}.btn:hover{transform:none}
+.hero{padding:100px 0 84px}.hero-grid{display:block}.hero-copy{text-align:center;max-width:840px;margin:auto}.hero-copy h1{font-size:clamp(42px,5.5vw,72px);font-weight:750;line-height:1.12;margin-top:22px}.eyebrow{font-size:11px;font-weight:700;letter-spacing:.15em}.eyebrow:before{display:none}.hero-copy .lead{max-width:590px;margin:24px auto 0;font-size:18px;line-height:1.7}.hero-actions{justify-content:center;margin-top:30px}.hero-meta{justify-content:center;margin-top:22px;font-size:12px}.dots{display:none}
+.study-pills{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;max-width:850px;margin:45px auto 0}.study-pills a{padding:10px 18px;border:1px solid #e0e0e6;border-radius:13px;font-size:13px;transition:.2s}.study-pills a:hover{border-color:var(--primary);color:var(--primary);background:#F4F2FF}
+.stats{padding:0 0 90px}.stats-grid{border:0;gap:12px}.stat{background:#f8f8fa;border:0;border-radius:16px;text-align:center;padding:28px 15px}.stat-value{font-size:40px;font-weight:700}.stat-label{font-size:12px}.stat-value sup{font-size:.45em}
+.section{padding:85px 0}.section-head{max-width:700px;text-align:center;margin:0 auto 52px}.section-head h2{margin-top:16px}.display-2{font-size:clamp(32px,4vw,48px);font-weight:700}.section-head .lead{font-size:17px;margin-top:20px}.cats{border:0;background:#fff}.cat{border:0;border-radius:20px;padding:32px;background:#f8f8fa}.cat h3{font-size:27px;font-weight:700}.cat:hover{box-shadow:none}.cat-art{display:none}.cat-stats{border-top:1px solid #e6e6eb}.cat-stats strong{font-weight:700}
+.feature{border:0;padding:35px 0 65px;gap:70px}.feature-text .feature-num{font-size:13px;font-weight:700;letter-spacing:.15em}.feature-text h3{font-size:36px;font-weight:700;line-height:1.2}.feature-text p{font-size:16px}.feature-visual{min-height:520px;border-radius:24px;background:radial-gradient(ellipse at 15% 20%,#D8EDFF,transparent 60%),radial-gradient(ellipse at 90% 85%,#B4A4FF,transparent 70%),linear-gradient(120deg,#E9F1FF,#E9E0FF)}.feature-visual.tinted-blue{background:radial-gradient(at 0% 20%,#cdefff,transparent 60%),linear-gradient(135deg,#eeedff,#d7c4ff)}.feature-visual.tinted-pink{background:radial-gradient(at 10% 0%,#E0EFFF,transparent 60%),linear-gradient(135deg,#F0EEFF,#DACBFF)}.feature-visual:before{display:none}.phone-sm{width:215px;padding:6px;border-radius:30px;box-shadow:0 25px 50px -20px #3335}.phone-sm .phone-screen{border-radius:24px}.anno{font-size:11px;padding:10px 13px}.feature-visual .anno-1{left:16px}.feature-visual .anno-2{right:16px}
+.showcase{background:#f8f8fa;padding:80px 0}.showcase-card{box-shadow:none}.showcase .section-head{margin:auto!important}.showcase-tag strong{font-weight:700}.cta{padding:100px 0;background:#fff}.cta .display-1{font-size:clamp(36px,5vw,60px);font-weight:700}.footer{background:#fafafa;border-top:1px solid #eee}.footer-brand .logo{font-size:25px}.footer-base{font-size:12px}
+a:focus-visible,button:focus-visible{outline:3px solid #A9A2FF;outline-offset:5px}
+@media(max-width:880px){.hero{padding:65px 0}.hero-copy h1{font-size:50px}.feature{gap:30px}.feature-visual{min-height:480px}.feature.reverse .feature-visual{order:2}.feature.reverse .feature-text{order:1}.section{padding:55px 0}.stats{padding-bottom:35px}.nav-inner{height:72px}}
+@media(max-width:560px){.container{padding:0 20px}.hero-copy h1{font-size:43px}.hero-copy .lead{font-size:16px}.hero-meta{font-size:10px}.study-pills{margin-top:30px;gap:8px}.study-pills a{font-size:11px;padding:9px 12px}.stats-grid{grid-template-columns:repeat(2,1fr)}.stat{border:0!important;padding:22px 10px}.stat-value{font-size:32px}.feature-text h3{font-size:30px}.hero-actions .btn{font-size:13px;padding:12px 18px}.nav-links{display:none}.logo{font-size:23px}.logo-mark{width:30px;height:30px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.reveal{opacity:1!important;transform:none!important}}
+
   </style>
 </head>
 <body>
@@ -1127,20 +1144,20 @@
         <a href="#" class="logo">
           <span class="logo-mark" aria-hidden="true">
             <svg viewBox="0 0 108 108" xmlns="http://www.w3.org/2000/svg">
-              <rect width="108" height="108" rx="24" fill="#F97316"/>
+              <rect width="108" height="108" rx="24" fill="#6155F5"/>
               <path fill="#FFFFFF" d="M30,36 Q30,28 38,28 L70,28 Q78,28 78,36 L78,68 Q78,76 70,76 L60,76 L54,86 L48,76 L38,76 Q30,76 30,68 Z"/>
-              <path fill="#FF8C42" d="M40,44 Q40,40 44,40 Q48,40 48,44 L48,52 Q48,58 42,60 L40,58 Q44,56 44,52 L44,50 Q40,50 40,44 Z"/>
-              <path fill="#FF8C42" d="M54,44 Q54,40 58,40 Q62,40 62,44 L62,52 Q62,58 56,60 L54,58 Q58,56 58,52 L58,50 Q54,50 54,44 Z"/>
-              <line x1="38" y1="66" x2="70" y2="66" stroke="#FFB380" stroke-width="3" stroke-linecap="round"/>
+              <path fill="#9189FF" d="M40,44 Q40,40 44,40 Q48,40 48,44 L48,52 Q48,58 42,60 L40,58 Q44,56 44,52 L44,50 Q40,50 40,44 Z"/>
+              <path fill="#9189FF" d="M54,44 Q54,40 58,40 Q62,40 62,44 L62,52 Q62,58 56,60 L54,58 Q58,56 58,52 L58,50 Q54,50 54,44 Z"/>
+              <line x1="38" y1="66" x2="70" y2="66" stroke="#C4BEFF" stroke-width="3" stroke-linecap="round"/>
             </svg>
           </span>
                     Pronova
         </a>
       <nav class="nav-links">
-        <a href="#yenilikler">Yenilikler</a>
+        <a href="#ozellikler">Keşfet</a>
         <a href="#kategoriler">Kategoriler</a>
         <a href="#ozellikler">Özellikler</a>
-        <a href="#soru-tipleri">Soru Tipleri</a>
+        <a href="#kategoriler">Denemeler</a>
         <a href="#vitrin">Vitrin</a>
       </nav>
       <div class="nav-cta">
@@ -1160,10 +1177,10 @@
         <div class="hero-copy">
           <span class="eyebrow reveal">YDS · YÖKDİL · YDT</span>
           <h1 class="display-1 reveal delay-1">
-            Yabancı dil sınavlarına hazırlığın <span class="italic ink-orange">yeni</span> yolu.
+            Daha çok öğren.<br><span class="ink-orange">Hedefine yaklaş.</span>
           </h1>
           <p class="lead reveal delay-2">
-            Pronova; kategori bazlı denemeler, her sorunun ardından gelen detaylı çözümler ve gerçek zamanlı ilerleme takibi ile seni gerçek sınav formatında çalıştırır. Hazırlığını dağınık kaynaklardan değil, tek bir yerden yönet.
+            YDS, YÖKDİL ve YDT hazırlığın tek bir yerde. Gerçek sınav formatında çalış, detaylı çözümlerle öğren, ilerlemeni takip et.
           </p>
           <div class="hero-actions reveal delay-3">
             <a href="#indir" class="btn btn-primary">
@@ -1178,33 +1195,10 @@
           </div>
         </div>
 
-        <div class="phone-stage reveal delay-2">
-          <div class="float-card fc-1">
-            <div class="fc-icon orange">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="3"/></svg>
-            </div>
-            <div class="fc-text">
-              <small>Hedef</small>
-              <strong>%85 başarı</strong>
-            </div>
-          </div>
-
-          <div class="phone">
-            <div class="phone-screen">
-              <img src="images/screen-home.png" alt="Pronova ana ekran: kategoriler" />
-            </div>
-          </div>
-
-          <div class="float-card fc-2">
-            <div class="fc-icon green">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13.5 2L4 14h7l-1 8 9.5-12h-7l1-8z"/></svg>
-            </div>
-            <div class="fc-text">
-              <small>Gün Serisi</small>
-              <strong>5 gün</strong>
-            </div>
-          </div>
+        <div class="study-pills" aria-label="Pronova özellikleri">
+          <a href="#kategoriler">YDS denemeleri ↗</a><a href="#kategoriler">YÖKDİL</a><a href="#kategoriler">YDT</a><a href="#ozellikler">Detaylı çözümler</a><a href="#ozellikler">Kelime defteri</a><a href="#vitrin">PDF indir</a>
         </div>
+
       </div>
     </div>
   </section>
@@ -1433,10 +1427,10 @@
         <div>
           <h5>Ürün</h5>
           <ul>
-            <li><a href="#yenilikler">Yenilikler</a></li>
+            <li><a href="#ozellikler">Keşfet</a></li>
             <li><a href="#kategoriler">Kategoriler</a></li>
             <li><a href="#ozellikler">Özellikler</a></li>
-            <li><a href="#soru-tipleri">Soru Tipleri</a></li>
+            <li><a href="#kategoriler">Denemeler</a></li>
             <li><a href="#vitrin">Vitrin</a></li>
           </ul>
         </div>
@@ -1666,3 +1660,4 @@
   </script>
 </body>
 </html>
+
