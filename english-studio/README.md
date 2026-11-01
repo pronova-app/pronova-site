@@ -25,3 +25,12 @@ A section may provide `markdown` in place of plain `text`. The built-in renderer
 Question fields: stable `id`, `type`, `instruction`, `typeLabel`, `prompt`, five `choices`, zero-based `answer`, `explanation`, five aligned `choiceExplanations`, `tip`, and optional plain-text `passage`. A2/B2 questions retain their original rendering.
 
 Format reference only: https://dokuman.osym.gov.tr/pdfdokuman/2025/YOKDIL-1/ing_sos_bil16022025.pdf. No exam questions or passages were copied.
+
+
+## A2 and B2 structured lessons and practice
+
+The eight A2 and eight B2 lessons follow the same seven-section format as B1: numbered 1, 2, 3, 4, 7, 8 and 9. Each has Turkish explanations, form and comparison tables, translated models, eight vocabulary entries, an original 120–180-word reading passage and three English comprehension questions. The A2 material uses simpler daily contexts; B2 focuses on meaning contrasts, inference and appropriate use. The former vocabulary entries remain available and new entries are added.
+
+Each A2/B2 lesson now has eight original five-option questions with aligned explanations for every answer and a learning note. The 128 new items include 64 sentence gaps, 16 sentence completions, 16 paragraph completions and 32 reading questions. They use the existing B1 quiz renderer with a dynamic level label. Question formats are adapted from the previously documented YÖKDİL format reference; A2 practice is deliberately simplified, not a prediction of the official exam’s difficulty. Across all levels there are now 224 questions. Existing B1 lesson objects are unchanged.
+
+Lesson IDs and local progress keys remain stable. Previous results remain historical; the latest result is replaced after a learner completes the new test. No reset or migration of learned words is required.
