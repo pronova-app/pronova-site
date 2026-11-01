@@ -1,0 +1,4670 @@
+{
+  "schemaVersion": 1,
+  "title": "A2, B1 & B2 English Studio",
+  "lessons": [
+    {
+      "id": "present-perfect",
+      "title": "Present Perfect",
+      "subtitle": "Geçmişten bugüne uzanan deneyimler.",
+      "category": "Zamanlar",
+      "icon": "◷",
+      "minutes": 18,
+      "words": [
+        {
+          "word": "already",
+          "meaning": "çoktan, zaten"
+        },
+        {
+          "word": "yet",
+          "meaning": "henüz"
+        },
+        {
+          "word": "experience",
+          "meaning": "deneyim"
+        },
+        {
+          "word": "recently",
+          "meaning": "son zamanlarda"
+        },
+        {
+          "word": "so far",
+          "meaning": "şimdiye kadar"
+        },
+        {
+          "word": "since",
+          "meaning": "-den beri; başlangıç noktası"
+        },
+        {
+          "word": "for",
+          "meaning": "boyunca; süre"
+        },
+        {
+          "word": "return",
+          "meaning": "dönmek"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Geçmiş ve bugün arasında bir köprü",
+          "text": "Present Perfect, geçmişte olan bir olayın bugünkü sonucu veya şimdiye kadar yaşanan deneyimlerle ilgilidir. Olayın tam olarak ne zaman olduğu çoğunlukla belirtilmez. Türkçede tek bir zamanla birebir eşleşmez.",
+          "formula": "Özne + have / has + fiilin 3. hâli (V3)",
+          "examples": [
+            {
+              "en": "I have lost my keys.",
+              "tr": "Anahtarlarımı kaybettim. (Şu anda anahtarlarım yok.)"
+            },
+            {
+              "en": "She has visited London twice.",
+              "tr": "Londra’yı iki kez ziyaret etti. (Şimdiye kadarki deneyimi.)"
+            }
+          ]
+        },
+        {
+          "title": "Olumsuz ve soru cümleleri",
+          "text": "I, you, we ve they ile have; he, she ve it ile has kullanılır. Olumsuzda have not / has not, soruda ise Have / Has + özne + V3 yapısı kullanılır.",
+          "examples": [
+            {
+              "en": "We haven’t finished the lesson yet.",
+              "tr": "Dersi henüz bitirmedik."
+            },
+            {
+              "en": "Have you ever tried sushi?",
+              "tr": "Hiç suşi denedin mi?"
+            }
+          ]
+        },
+        {
+          "title": "Already, yet, just, for ve since",
+          "text": "Already “çoktan”, just “az önce” anlamı taşır. Yet genellikle soru ve olumsuz cümlelerin sonunda kullanılır. For bir süreyi (for two years), since ise başlangıç noktasını (since 2022) belirtir.",
+          "tip": "Yesterday, last week veya in 2020 gibi bitmiş bir geçmiş zaman belirtiliyorsa genellikle Past Simple kullan: I visited London last year.",
+          "examples": [
+            {
+              "en": "I have lived here for three years.",
+              "tr": "Üç yıldır burada yaşıyorum."
+            },
+            {
+              "en": "She has just arrived.",
+              "tr": "O az önce geldi."
+            }
+          ]
+        },
+        {
+          "title": "Gerçek hayatta: Bir iş görüşmesi",
+          "text": "Bir iş görüşmesinde şimdiye kadarki deneyimleri anlatırken Present Perfect, deneyimin zamanını belirtirken Past Simple kullanılır. İki zamanı aynı konuşmada kullanmak doğaldır.",
+          "examples": [
+            {
+              "en": "Interviewer: Have you worked in a team before?",
+              "tr": "Görüşmeci: Daha önce bir ekipte çalıştınız mı?"
+            },
+            {
+              "en": "Candidate: Yes, I have. I worked with five people at my last job.",
+              "tr": "Aday: Evet, çalıştım. Son işimde beş kişiyle çalıştım."
+            },
+            {
+              "en": "Interviewer: How long have you lived in this city?",
+              "tr": "Görüşmeci: Ne zamandır bu şehirde yaşıyorsunuz?"
+            },
+            {
+              "en": "Candidate: I have lived here since 2021.",
+              "tr": "Aday: 2021’den beri burada yaşıyorum."
+            }
+          ]
+        },
+        {
+          "title": "Been, gone ve bitmemiş zamanlar",
+          "text": "Has been to bir yere gidip dönmüş olmayı; has gone to ise kişinin oraya gitmiş ve henüz dönmemiş olmasını anlatır. Today veya this week gibi zaman dilimleri hâlâ sürüyorsa Present Perfect kullanılabilir. Aynı zaman dilimini bitmiş olarak ele alıyorsan Past Simple da mümkün olabilir.",
+          "examples": [
+            {
+              "en": "Mert has gone to the supermarket. He will be back soon.",
+              "tr": "Mert markete gitti. Yakında dönecek."
+            },
+            {
+              "en": "I have been to Berlin, but I don’t live there.",
+              "tr": "Berlin’e gittim ama orada yaşamıyorum."
+            },
+            {
+              "en": "I have answered six emails today.",
+              "tr": "Bugün şu ana kadar altı e-postayı yanıtladım."
+            }
+          ],
+          "tip": "“I have seen her yesterday” yerine “I saw her yesterday” de. “She have finished” yerine “She has finished” kullan."
+        },
+        {
+          "title": "Kendin kur: Deneyimden ayrıntıya",
+          "text": "Önce hayat deneyimini sor: Have you ever …? Cevap evetse, ayrıntıya Past Simple ile geç: When did you …? Kısa cevaplarda have/has korunur; fiil tekrar edilmez. Bir deneyimin zamanı belirtilmiyorsa otomatik olarak Present Perfect seçme; konuşmanın geçmiş bir döneme odaklanıp odaklanmadığını da değerlendir.",
+          "examples": [
+            {
+              "en": "Have you ever travelled alone? — Yes, I have.",
+              "tr": "Hiç yalnız seyahat ettin mi? — Evet, ettim."
+            },
+            {
+              "en": "When did you do that? — I travelled alone last summer.",
+              "tr": "Bunu ne zaman yaptın? — Geçen yaz yalnız seyahat ettim."
+            },
+            {
+              "en": "Çevir: Onu pazartesiden beri görmedim. → I haven’t seen her since Monday.",
+              "tr": "Since başlangıç noktasını belirtir; haven’t seen geçmişten bugüne kadar görmemiş olmayı anlatır."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "She ___ her homework already.",
+          "choices": [
+            "has finished",
+            "have finished",
+            "finishes"
+          ],
+          "answer": 0,
+          "explanation": "She ile has kullanılır. Already, burada tamamlanmış bir işin bugünkü sonucunu vurgular: has finished."
+        },
+        {
+          "prompt": "I ___ this film yesterday.",
+          "choices": [
+            "have seen",
+            "saw",
+            "has seen"
+          ],
+          "answer": 1,
+          "explanation": "Yesterday bitmiş bir geçmiş zamanı belirtir. Bu yüzden Past Simple gerekir: saw."
+        },
+        {
+          "prompt": "We have lived here ___ 2021.",
+          "choices": [
+            "for",
+            "yet",
+            "since"
+          ],
+          "answer": 2,
+          "explanation": "2021 bir başlangıç noktasıdır. Başlangıç noktalarıyla since, sürelerle for kullanılır."
+        },
+        {
+          "prompt": "“Ali has gone to the bank.” Bu cümle neyi anlatır?",
+          "choices": [
+            "Ali bankadan dönmüştür.",
+            "Ali bankaya gitmiştir, henüz dönmemiştir.",
+            "Ali bankada hiç bulunmamıştır."
+          ],
+          "answer": 1,
+          "explanation": "Has gone to, kişinin gitmiş olduğunu ve henüz geri dönmediğini anlatır. Has been to ise gidip dönmüş olma deneyimini belirtir."
+        },
+        {
+          "prompt": "Have you ever ___ a horse?",
+          "choices": [
+            "ridden",
+            "rode",
+            "ride"
+          ],
+          "answer": 0,
+          "explanation": "Present Perfect, have/has + V3 ile kurulur. Ride fiilinin biçimleri ride–rode–ridden şeklindedir."
+        },
+        {
+          "prompt": "“Have you met Elif?” — “Yes, I ___. I ___ her last week.”",
+          "choices": [
+            "did / have met",
+            "have / meet",
+            "have / met"
+          ],
+          "answer": 2,
+          "explanation": "Kısa cevapta have korunur. Last week bitmiş zamanı belirttiği için ikinci cümlede Past Simple: met."
+        },
+        {
+          "prompt": "I have known my neighbour ___ ten years.",
+          "choices": [
+            "since",
+            "for",
+            "already"
+          ],
+          "answer": 1,
+          "explanation": "Ten years bir süredir: for ten years. Since 2016 gibi bir başlangıç noktasıyla kullanılır."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "conditionals",
+      "title": "First & Second Conditional",
+      "subtitle": "Olasılıklardan hayallere, “eğer” cümleleri.",
+      "category": "Dil bilgisi",
+      "icon": "⑂",
+      "minutes": 20,
+      "words": [
+        {
+          "word": "unless",
+          "meaning": "-medikçe, eğer … değilse"
+        },
+        {
+          "word": "possible",
+          "meaning": "mümkün, olası"
+        },
+        {
+          "word": "imagine",
+          "meaning": "hayal etmek"
+        },
+        {
+          "word": "otherwise",
+          "meaning": "aksi takdirde"
+        },
+        {
+          "word": "afford",
+          "meaning": "maddi gücü yetmek"
+        },
+        {
+          "word": "save",
+          "meaning": "biriktirmek, kurtarmak"
+        },
+        {
+          "word": "instead",
+          "meaning": "onun yerine"
+        },
+        {
+          "word": "opportunity",
+          "meaning": "fırsat"
+        }
+      ],
+      "sections": [
+        {
+          "title": "First Conditional: Gerçek bir olasılık",
+          "text": "Gelecekte gerçekleşmesi mümkün bir durum ve onun sonucundan söz ederken kullanılır. If bölümünde Present Simple, sonuç bölümünde genellikle will + fiil kullanılır.",
+          "formula": "If + Present Simple, will + fiil",
+          "examples": [
+            {
+              "en": "If it rains, we will stay at home.",
+              "tr": "Yağmur yağarsa evde kalacağız."
+            },
+            {
+              "en": "You will pass if you study regularly.",
+              "tr": "Düzenli çalışırsan geçeceksin."
+            }
+          ],
+          "tip": "If bölümünde geleceği anlatırken normalde will kullanma: If I have time, I will call you."
+        },
+        {
+          "title": "Second Conditional: Hayal edilen bir durum",
+          "text": "Şimdi veya gelecekte gerçek olmayan ya da gerçekleşmesi pek olası görünmeyen durumları anlatır. Buradaki geçmiş zaman biçimi, geçmişte olmuş bir olayı değil, gerçeklikten uzaklığı ifade eder.",
+          "formula": "If + Past Simple, would + fiil",
+          "examples": [
+            {
+              "en": "If I had more time, I would learn Italian.",
+              "tr": "Daha çok zamanım olsaydı İtalyanca öğrenirdim."
+            },
+            {
+              "en": "If I were you, I would take a break.",
+              "tr": "Senin yerinde olsam mola verirdim."
+            }
+          ]
+        },
+        {
+          "title": "İki yapıyı karşılaştır",
+          "text": "If I have time, I will help you: Zaman bulmam mümkün. If I had time, I would help you: Şu an zamanım yok veya bulmam pek olası değil. If baştaysa iki bölüm arasına virgül koy; if bölümü sondaysa genellikle virgül gerekmez.",
+          "examples": [
+            {
+              "en": "Unless you hurry, you will miss the bus.",
+              "tr": "Acele etmezsen otobüsü kaçıracaksın. (Unless = if … not)"
+            }
+          ]
+        },
+        {
+          "title": "Gerçek hayatta: Hafta sonu planı",
+          "text": "Aynı konuşmada gerçekçi seçenekler ve hayal edilen durumlar bulunabilir. Gerçek olasılığı First Conditional, şu an gerçek olmayan durumu Second Conditional ile anlat.",
+          "examples": [
+            {
+              "en": "A: If the weather is good, we’ll go hiking.",
+              "tr": "A: Hava güzel olursa doğa yürüyüşüne çıkacağız."
+            },
+            {
+              "en": "B: And if it rains?",
+              "tr": "B: Peki yağmur yağarsa?"
+            },
+            {
+              "en": "A: We’ll visit the museum. If I had a car, we would go to the coast instead.",
+              "tr": "A: Müzeye gideceğiz. Arabam olsaydı bunun yerine sahile giderdik."
+            }
+          ]
+        },
+        {
+          "title": "If yerine unless; sonuçta modal fiiller",
+          "text": "Unless çoğu bağlamda if … not anlamına gelir. Bu yüzden aynı anlamı kurarken ayrıca not eklemek çoğunlukla yanlıştır. First Conditional sonucunda will dışında can, may veya emir cümlesi de bulunabilir; sonuç her zaman kesinlik taşımaz.",
+          "examples": [
+            {
+              "en": "Unless you leave now, you’ll be late.",
+              "tr": "Şimdi çıkmazsan geç kalacaksın."
+            },
+            {
+              "en": "If you finish early, you can go home.",
+              "tr": "Erken bitirirsen eve gidebilirsin."
+            },
+            {
+              "en": "If you need help, call me.",
+              "tr": "Yardıma ihtiyacın olursa beni ara."
+            }
+          ],
+          "tip": "“If I will see her, I will tell her” yerine “If I see her, I will tell her” kullan. Ancak will’in isteklilik gibi farklı anlamları bu temel kuralın dışındadır."
+        },
+        {
+          "title": "Kendin kur: Durum gerçekçi mi?",
+          "text": "Önce durumu belirle: “Yarın erken kalkabilirim” gerçek bir olasılıktır. “Şu an milyonlarım olsaydı” ise hayalîdir. Sonra if ve sonuç bölümlerini bu anlama göre kur. Second Conditional için Past Simple kullanımı geçmişte yaşanmış olay demek değildir.",
+          "examples": [
+            {
+              "en": "If I save enough money, I’ll buy a bike.",
+              "tr": "Yeterince para biriktirirsem bisiklet alacağım."
+            },
+            {
+              "en": "If I were rich, I would travel around the world.",
+              "tr": "Zengin olsaydım dünyayı dolaşırdım."
+            },
+            {
+              "en": "Çevir: Daha yakın yaşasaydım seni daha sık ziyaret ederdim. → If I lived closer, I would visit you more often.",
+              "tr": "Şu anki gerçek olmayan durum için lived ve would visit kullanılır."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "If it rains tomorrow, we ___ indoors.",
+          "choices": [
+            "would stay",
+            "will stay",
+            "stayed"
+          ],
+          "answer": 1,
+          "explanation": "Yarın için gerçek bir olasılık anlatılıyor. If + Present Simple, will + fiil kullanılır."
+        },
+        {
+          "prompt": "If I ___ you, I would talk to her.",
+          "choices": [
+            "am",
+            "will be",
+            "were"
+          ],
+          "answer": 2,
+          "explanation": "If I were you, tavsiye vermek için kullanılan bir Second Conditional kalıbıdır."
+        },
+        {
+          "prompt": "If she had a car, she ___ to work.",
+          "choices": [
+            "would drive",
+            "will drive",
+            "drives"
+          ],
+          "answer": 0,
+          "explanation": "If bölümünde had ile varsayımsal bir durum kurulmuş. Sonuç would + fiil olur."
+        },
+        {
+          "prompt": "Unless you study, you ___ the exam.",
+          "choices": [
+            "would pass",
+            "won’t pass",
+            "don’t passed"
+          ],
+          "answer": 1,
+          "explanation": "Unless you study = If you don’t study. Gerçek bir gelecek sonucu için won’t pass kullanılır."
+        },
+        {
+          "prompt": "If I ___ more money now, I would buy that laptop.",
+          "choices": [
+            "had",
+            "have",
+            "will have"
+          ],
+          "answer": 0,
+          "explanation": "Now ile şimdiki hayalî durum anlatılıyor. Second Conditional: If + Past Simple, would + fiil."
+        },
+        {
+          "prompt": "“If you need a dictionary, use mine.” cümlesinde sonuç bölümü nedir?",
+          "choices": [
+            "Geçmişte bitmiş bir olay",
+            "Olası olmayan bir hayal",
+            "Bir öneri veya izin bildiren emir yapısı"
+          ],
+          "answer": 2,
+          "explanation": "Koşulun sonucu mutlaka will olmak zorunda değildir. Use mine, koşula bağlı bir öneri/izin sunar."
+        },
+        {
+          "prompt": "If she gets the job, she ___ to another city.",
+          "choices": [
+            "would moved",
+            "will move",
+            "moving"
+          ],
+          "answer": 1,
+          "explanation": "Gets gerçekçi bir gelecek koşulunu kurar. Sonuç will move biçimindedir."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "modals",
+      "title": "Must, Have to & Should",
+      "subtitle": "Zorunlulukları ve tavsiyeleri ifade et.",
+      "category": "Dil bilgisi",
+      "icon": "◇",
+      "minutes": 17,
+      "words": [
+        {
+          "word": "necessary",
+          "meaning": "gerekli"
+        },
+        {
+          "word": "advice",
+          "meaning": "tavsiye"
+        },
+        {
+          "word": "allowed",
+          "meaning": "izin verilen"
+        },
+        {
+          "word": "compulsory",
+          "meaning": "zorunlu"
+        },
+        {
+          "word": "optional",
+          "meaning": "isteğe bağlı"
+        },
+        {
+          "word": "rule",
+          "meaning": "kural"
+        },
+        {
+          "word": "permission",
+          "meaning": "izin"
+        },
+        {
+          "word": "recommend",
+          "meaning": "tavsiye etmek"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Must ve have to: Zorunluluk",
+          "text": "Her ikisi de zorunluluk bildirebilir. Must çoğunlukla konuşanın güçlü gereklilik vurgusunu, have to ise dış koşullardan doğan zorunlulukları anlatır. Bu ayrım her bağlamda kesin değildir.",
+          "formula": "Özne + must + fiil / Özne + have to + fiil",
+          "examples": [
+            {
+              "en": "I must remember to call my mother.",
+              "tr": "Annemi aramayı unutmamalıyım."
+            },
+            {
+              "en": "She has to wear a uniform at work.",
+              "tr": "İşte üniforma giymek zorunda."
+            }
+          ]
+        },
+        {
+          "title": "Mustn’t ve don’t have to aynı değildir",
+          "text": "Mustn’t yasak veya yapılmaması gereken bir şeyi belirtir. Don’t have to ise zorunluluk olmadığını söyler: İstersen yapabilirsin.",
+          "examples": [
+            {
+              "en": "You mustn’t park here.",
+              "tr": "Buraya park etmek yasak."
+            },
+            {
+              "en": "You don’t have to come early.",
+              "tr": "Erken gelmek zorunda değilsin."
+            }
+          ],
+          "tip": "He / she / it için has to ve doesn’t have to kullanılır. Geçmişteki zorunluluk için had to kullan: I had to work yesterday."
+        },
+        {
+          "title": "Should: Tavsiye ver",
+          "text": "Should bir zorunluluk değil, tavsiye veya doğru olduğunu düşündüğümüz davranışı anlatır. Ardından fiilin yalın hâli gelir. Olumsuzu shouldn’t biçimindedir.",
+          "examples": [
+            {
+              "en": "You should get more sleep.",
+              "tr": "Daha çok uyumalısın. (Tavsiye)"
+            },
+            {
+              "en": "You shouldn’t skip breakfast.",
+              "tr": "Kahvaltıyı atlamamalısın."
+            }
+          ]
+        },
+        {
+          "title": "Gerçek hayatta: Yeni bir işin ilk günü",
+          "text": "Kurallar, seçenekler ve tavsiyeler farklı yapılardır. Hepsini “-meli” diye çevirmek anlam farkını gizleyebilir. Önce cümlenin yasak mı, zorunluluk mu, yoksa öneri mi olduğunu düşün.",
+          "examples": [
+            {
+              "en": "Manager: You have to wear your ID card in the building.",
+              "tr": "Yönetici: Binada kimlik kartını takmak zorundasın."
+            },
+            {
+              "en": "Manager: You don’t have to bring lunch; there’s a café downstairs.",
+              "tr": "Yönetici: Öğle yemeği getirmek zorunda değilsin; alt katta bir kafe var."
+            },
+            {
+              "en": "Colleague: You should arrive a little early tomorrow.",
+              "tr": "İş arkadaşı: Yarın biraz erken gelmen iyi olur."
+            }
+          ]
+        },
+        {
+          "title": "Geçmiş zorunluluk ve sorular",
+          "text": "Must zorunluluk anlamında geçmişe çevrileceğinde çoğunlukla had to kullanılır. Have to sorularında do/does/did gerekir. Should ve must gibi modallardan sonra to veya fiile -s eklenmez.",
+          "examples": [
+            {
+              "en": "Did you have to work last Sunday?",
+              "tr": "Geçen pazar çalışmak zorunda mıydın?"
+            },
+            {
+              "en": "Does she have to pay now?",
+              "tr": "Şimdi ödeme yapmak zorunda mı?"
+            },
+            {
+              "en": "He should practise every day.",
+              "tr": "Her gün pratik yapması iyi olur."
+            }
+          ],
+          "tip": "“He musts go” ve “She should to rest” yanlış. “He must go” ve “She should rest” doğru."
+        },
+        {
+          "title": "Kendin kur: Yasak mı, isteğe bağlı mı?",
+          "text": "Bir şeyi yapman yasaksa mustn’t; yapman gerekli değilse don’t have to kullan. Bir başkasına daha iyi bir seçenek öneriyorsan should uygundur. Must güçlü ve bazen buyurgan duyulabilir; arkadaşına sıradan tavsiye verirken should daha yumuşak bir seçimdir.",
+          "examples": [
+            {
+              "en": "You mustn’t use your phone during the exam.",
+              "tr": "Sınav sırasında telefonunu kullanman yasak."
+            },
+            {
+              "en": "You don’t have to answer every question today.",
+              "tr": "Bugün her soruyu cevaplamak zorunda değilsin."
+            },
+            {
+              "en": "Çevir: Daha fazla su içmelisin. → You should drink more water.",
+              "tr": "Burada genel bir tavsiye verildiği için should seçilir."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "The sign says “No swimming”. You ___ swim here.",
+          "choices": [
+            "don’t have to",
+            "mustn’t",
+            "should"
+          ],
+          "answer": 1,
+          "explanation": "Yüzmek yasak. Yasak bildirmek için mustn’t kullanılır."
+        },
+        {
+          "prompt": "It’s a free event. You ___ buy a ticket.",
+          "choices": [
+            "mustn’t",
+            "have to",
+            "don’t have to"
+          ],
+          "answer": 2,
+          "explanation": "Bilet almak zorunlu değil. Don’t have to, gereklilik olmadığını belirtir."
+        },
+        {
+          "prompt": "You look tired. You ___ take a break.",
+          "choices": [
+            "should",
+            "has to",
+            "should to"
+          ],
+          "answer": 0,
+          "explanation": "Burada tavsiye veriliyor: should + yalın fiil. Should sonrasında to gelmez."
+        },
+        {
+          "prompt": "Yesterday I ___ stay late at work.",
+          "choices": [
+            "must",
+            "had to",
+            "have to"
+          ],
+          "answer": 1,
+          "explanation": "Geçmişteki zorunluluk had to ile anlatılır. Yesterday geçmiş zaman bağlamını netleştirir."
+        },
+        {
+          "prompt": "___ he have to wear a uniform?",
+          "choices": [
+            "Does",
+            "Must",
+            "Has"
+          ],
+          "answer": 0,
+          "explanation": "Have to yapısının Present Simple sorusunda he için does kullanılır."
+        },
+        {
+          "prompt": "Choose the correct sentence.",
+          "choices": [
+            "She should to study.",
+            "She musts study.",
+            "She should study."
+          ],
+          "answer": 2,
+          "explanation": "Should sonrası fiilin yalın hâli gelir; to ve -s eklenmez."
+        },
+        {
+          "prompt": "“Bringing your own laptop is optional.” Which sentence matches?",
+          "choices": [
+            "You mustn’t bring your laptop.",
+            "You don’t have to bring your laptop.",
+            "You have to bring your laptop."
+          ],
+          "answer": 1,
+          "explanation": "Optional, zorunlu olmayan demektir. Don’t have to doğru anlamı verir; mustn’t yasak anlamına gelir."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "relative-clauses",
+      "title": "Relative Clauses",
+      "subtitle": "İnsanları ve nesneleri daha iyi tanımla.",
+      "category": "Cümle yapısı",
+      "icon": "≋",
+      "minutes": 19,
+      "words": [
+        {
+          "word": "neighbour",
+          "meaning": "komşu"
+        },
+        {
+          "word": "belong",
+          "meaning": "ait olmak"
+        },
+        {
+          "word": "describe",
+          "meaning": "tanımlamak, betimlemek"
+        },
+        {
+          "word": "label",
+          "meaning": "etiket"
+        },
+        {
+          "word": "upstairs",
+          "meaning": "üst katta"
+        },
+        {
+          "word": "recommend",
+          "meaning": "önermek"
+        },
+        {
+          "word": "identify",
+          "meaning": "kimliğini veya ne olduğunu belirlemek"
+        },
+        {
+          "word": "object",
+          "meaning": "nesne"
+        }
+      ],
+      "sections": [
+        {
+          "title": "İki cümleyi birleştir",
+          "text": "Relative clause, bir isim hakkında açıklama yapan yan cümledir. Bu derste, hangi kişi veya şeyden söz ettiğimizi belirleyen defining relative clauses yapılarına odaklanıyoruz.",
+          "examples": [
+            {
+              "en": "I have a friend. She lives in Spain.",
+              "tr": "Bir arkadaşım var. İspanya’da yaşıyor."
+            },
+            {
+              "en": "I have a friend who lives in Spain.",
+              "tr": "İspanya’da yaşayan bir arkadaşım var."
+            }
+          ]
+        },
+        {
+          "title": "Who, which ve that",
+          "text": "İnsanlar için who, nesneler ve hayvanlar için which kullanılabilir. That, defining relative clauses içinde who veya which yerine geçebilir. Tanımlayıcı bu yapılarda genellikle virgül kullanılmaz.",
+          "formula": "İsim + who / which / that + açıklama",
+          "examples": [
+            {
+              "en": "The woman who works here is my aunt.",
+              "tr": "Burada çalışan kadın benim teyzem."
+            },
+            {
+              "en": "This is the book that I told you about.",
+              "tr": "Bu, sana bahsettiğim kitap."
+            }
+          ]
+        },
+        {
+          "title": "Where ve whose",
+          "text": "Where yerleri, whose ise sahipliği belirtir. Whose sonrasında bir isim gelir: whose car, whose brother.",
+          "examples": [
+            {
+              "en": "This is the café where we met.",
+              "tr": "Burası tanıştığımız kafe."
+            },
+            {
+              "en": "I know a boy whose sister is a doctor.",
+              "tr": "Kız kardeşi doktor olan bir çocuk tanıyorum."
+            }
+          ],
+          "tip": "Zamir özne görevindeyse atılmaz: The man who lives next door. Nesne görevindeyse atılabilir: The book (that) I bought."
+        },
+        {
+          "title": "Gerçek hayatta: Kayıp eşyanı tarif et",
+          "text": "Bir kişiyi veya eşyayı diğerlerinden ayırmak için relative clause ekleyebilirsin. Cümlenin “hangi kişi?” veya “hangi şey?” sorusuna cevap verip vermediğini kontrol et.",
+          "examples": [
+            {
+              "en": "A: I’m looking for a bag that I left on the bus.",
+              "tr": "A: Otobüste bıraktığım bir çantayı arıyorum."
+            },
+            {
+              "en": "B: Is it the blue bag which has a yellow label?",
+              "tr": "B: Sarı etiketi olan mavi çanta mı?"
+            },
+            {
+              "en": "A: Yes. The driver who found it called me.",
+              "tr": "A: Evet. Onu bulan şoför beni aradı."
+            }
+          ]
+        },
+        {
+          "title": "Nesne zamirini ne zaman atabiliriz?",
+          "text": "Relative pronoun yan cümlenin öznesiyse genellikle atılamaz: the man who lives here. Nesneyse defining clause içinde atılabilir: the man (who) I met. İkinci örnekte özne zaten I’dır. Aynı nesneyi him veya it ile tekrar etme.",
+          "examples": [
+            {
+              "en": "The book I bought yesterday is excellent.",
+              "tr": "Dün aldığım kitap harika."
+            },
+            {
+              "en": "The woman who lives upstairs is a nurse.",
+              "tr": "Üst katta yaşayan kadın bir hemşire."
+            },
+            {
+              "en": "This is the film that I recommended.",
+              "tr": "Önerdiğim film bu."
+            }
+          ],
+          "tip": "“The book that I bought it” yerine “The book that I bought” kullan. That zaten nesneyi temsil eder."
+        },
+        {
+          "title": "Virgüllü ek bilgiye kısa bir bakış",
+          "text": "Bir kişi veya nesne zaten belliyse, yalnızca ek bilgi veren non-defining relative clause virgüllerle ayrılabilir. Bu yapılarda that kullanılmaz ve relative pronoun atılmaz. Bu dersin temel odağı defining clauses olsa da bu ayrımı fark etmek okuduğunu anlamayı kolaylaştırır.",
+          "examples": [
+            {
+              "en": "My sister, who lives in Izmir, is a teacher.",
+              "tr": "Kız kardeşim, İzmir’de yaşıyor, öğretmen. (Burada verilen bilgi ek açıklamadır.)"
+            },
+            {
+              "en": "The sister who lives in Izmir is a teacher.",
+              "tr": "İzmir’de yaşayan kız kardeş öğretmen. (Hangi kız kardeş olduğu belirleniyor.)"
+            },
+            {
+              "en": "Çevir: Geçen hafta tanıştığım adam bir doktor. → The man I met last week is a doctor.",
+              "tr": "I met bölümünde nesne görevindeki who/that atılabilir."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "The teacher ___ helped me was very kind.",
+          "choices": [
+            "where",
+            "who",
+            "whose"
+          ],
+          "answer": 1,
+          "explanation": "Teacher bir insanı ifade eder. Yan cümlede özne görevi gören who kullanılır."
+        },
+        {
+          "prompt": "This is the village ___ I grew up.",
+          "choices": [
+            "where",
+            "which",
+            "who"
+          ],
+          "answer": 0,
+          "explanation": "Bir yerde büyümekten söz ediliyor. Yer bildiren where uygundur."
+        },
+        {
+          "prompt": "She is the student ___ father is a pilot.",
+          "choices": [
+            "who",
+            "where",
+            "whose"
+          ],
+          "answer": 2,
+          "explanation": "Öğrencinin babası diyerek sahiplik anlatıyoruz: whose father."
+        },
+        {
+          "prompt": "Which sentence is correct?",
+          "choices": [
+            "The woman lives next door is a doctor.",
+            "The woman who lives next door is a doctor.",
+            "The woman who she lives next door is a doctor."
+          ],
+          "answer": 1,
+          "explanation": "Who, yan cümlenin öznesidir. Atılamaz ve ardından aynı özne she ile tekrar edilmez."
+        },
+        {
+          "prompt": "The film ___ we watched was interesting. Which option can be omitted?",
+          "choices": [
+            "that",
+            "where",
+            "whose"
+          ],
+          "answer": 0,
+          "explanation": "We watched bölümünde we özne, that ise nesnedir. Defining clause içinde nesne zamiri atılabilir."
+        },
+        {
+          "prompt": "My uncle, ___ lives in Bursa, is visiting us.",
+          "choices": [
+            "that",
+            "whose",
+            "who"
+          ],
+          "answer": 2,
+          "explanation": "Virgüllü non-defining relative clause içinde kişi için who kullanılır; that kullanılmaz."
+        },
+        {
+          "prompt": "Choose the correct sentence.",
+          "choices": [
+            "The bag that I lost it is blue.",
+            "The bag that I lost is blue.",
+            "The bag where I lost is blue."
+          ],
+          "answer": 1,
+          "explanation": "That nesneyi temsil ettiği için it ile tekrar edilmez. Where ise yer ilişkisini anlatır."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "past-simple-continuous",
+      "title": "Past Simple & Past Continuous",
+      "subtitle": "Geçmiş olayları bir hikâyeye dönüştür.",
+      "category": "Zamanlar",
+      "icon": "◴",
+      "minutes": 19,
+      "words": [
+        {
+          "word": "suddenly",
+          "meaning": "aniden"
+        },
+        {
+          "word": "while",
+          "meaning": "-iken, sırasında"
+        },
+        {
+          "word": "interrupt",
+          "meaning": "sözünü kesmek, bölmek"
+        },
+        {
+          "word": "torch",
+          "meaning": "el feneri"
+        },
+        {
+          "word": "power cut",
+          "meaning": "elektrik kesintisi"
+        },
+        {
+          "word": "knock",
+          "meaning": "kapıyı çalmak, vurmak"
+        },
+        {
+          "word": "notice",
+          "meaning": "fark etmek"
+        },
+        {
+          "word": "flatmate",
+          "meaning": "ev arkadaşı"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Olay mı, devam eden durum mu?",
+          "text": "Past Simple geçmişte bitmiş olayları anlatır. Past Continuous ise geçmişte belirli bir anda devam eden bir eyleme odaklanır.",
+          "examples": [
+            {
+              "en": "I cooked dinner last night.",
+              "tr": "Dün akşam yemek yaptım."
+            },
+            {
+              "en": "At seven, I was cooking dinner.",
+              "tr": "Saat yedide yemek yapıyordum."
+            }
+          ],
+          "formula": "Past Simple: V2 · Past Continuous: was / were + V-ing"
+        },
+        {
+          "title": "Bir olay diğerini böldüğünde",
+          "text": "Devam eden arka plan eylemi için Past Continuous, onu bölen kısa olay için Past Simple kullanılır. When bir olayı, while ise devam eden bir süreci tanıtabilir; hangi zamanın kullanılacağını cümlenin anlamı belirler.",
+          "examples": [
+            {
+              "en": "I was walking home when it started to rain.",
+              "tr": "Yağmur yağmaya başladığında eve yürüyordum."
+            },
+            {
+              "en": "While they were studying, the phone rang.",
+              "tr": "Onlar ders çalışırken telefon çaldı."
+            }
+          ]
+        },
+        {
+          "title": "İki eylem aynı anda sürerken",
+          "text": "Geçmişte aynı anda devam eden iki etkinlik için iki bölümde de Past Continuous kullanılabilir. Olumsuz biçimler wasn’t / weren’t + V-ing şeklindedir.",
+          "examples": [
+            {
+              "en": "I was reading while my sister was listening to music.",
+              "tr": "Kız kardeşim müzik dinlerken ben kitap okuyordum."
+            },
+            {
+              "en": "Were you sleeping at midnight?",
+              "tr": "Gece yarısı uyuyor muydun?"
+            }
+          ],
+          "tip": "Know, believe ve want gibi durum fiilleri genellikle continuous biçimde kullanılmaz: I knew the answer."
+        },
+        {
+          "title": "Okuma: Beklenmedik bir elektrik kesintisi",
+          "text": "Aşağıdaki kısa hikâyede arka planı kuran eylemleri ve hikâyeyi ilerleten olayları ayır. Was/were + -ing sahneyi kurarken, Past Simple yeni olayları anlatıyor.",
+          "examples": [
+            {
+              "en": "Last night, I was preparing dinner while my flatmate was studying.",
+              "tr": "Dün akşam ev arkadaşım ders çalışırken ben yemek hazırlıyordum."
+            },
+            {
+              "en": "Suddenly, the lights went out. We found a torch and checked the fuse box.",
+              "tr": "Birden ışıklar söndü. Bir el feneri bulduk ve sigorta kutusunu kontrol ettik."
+            },
+            {
+              "en": "While we were waiting for help, our neighbour knocked on the door.",
+              "tr": "Yardım beklerken komşumuz kapıyı çaldı."
+            }
+          ]
+        },
+        {
+          "title": "Soru ve olumsuzlarda yardımcı fiil",
+          "text": "Past Simple sorularında did + yalın fiil, olumsuzlarda didn’t + yalın fiil kullanılır. Past Continuous ise was/were ile soru ve olumsuz yapar; did eklenmez. Was I/he/she/it; were you/we/they eşleşmelerini koru.",
+          "examples": [
+            {
+              "en": "Did you hear the noise? — No, I didn’t.",
+              "tr": "Gürültüyü duydun mu? — Hayır, duymadım."
+            },
+            {
+              "en": "Were they waiting outside? — Yes, they were.",
+              "tr": "Dışarıda mı bekliyorlardı? — Evet."
+            },
+            {
+              "en": "I wasn’t listening when she explained the task.",
+              "tr": "O görevi açıklarken dinlemiyordum."
+            }
+          ],
+          "tip": "“Did you went?” yerine “Did you go?” kullan. “They was studying” yerine “They were studying” de."
+        },
+        {
+          "title": "Kendin anlat: Üç cümlelik bir hikâye",
+          "text": "Önce zamanı ve arka planı ver. Sonra beklenmedik bir olay ekle. Son cümlede ne yaptığını anlat. Her uzun eylem Continuous olmak zorunda değildir; devam eden bir anı mı yoksa tamamlanmış bir olayı mı sunduğun önemlidir.",
+          "examples": [
+            {
+              "en": "I was cycling to work yesterday morning.",
+              "tr": "Dün sabah işe bisikletle gidiyordum."
+            },
+            {
+              "en": "I saw a friend at the traffic lights. We stopped and talked for a minute.",
+              "tr": "Trafik ışıklarında bir arkadaşımı gördüm. Durduk ve bir dakika konuştuk."
+            },
+            {
+              "en": "Çevir: Beni aradığında duş alıyordum. → I was having a shower when you called me.",
+              "tr": "Devam eden eylem was having; onu bölen olay called şeklindedir."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "I ___ dinner when the doorbell rang.",
+          "choices": [
+            "cooked",
+            "was cooking",
+            "have cooked"
+          ],
+          "answer": 1,
+          "explanation": "Zil çaldığında yemek yapma eylemi devam ediyordu: was cooking."
+        },
+        {
+          "prompt": "While we were watching TV, the lights ___ out.",
+          "choices": [
+            "went",
+            "were going",
+            "have gone"
+          ],
+          "answer": 0,
+          "explanation": "Devam eden etkinliği bölen kısa olay Past Simple ile anlatılır: went out."
+        },
+        {
+          "prompt": "At 9 p.m. yesterday, they ___ for the exam.",
+          "choices": [
+            "study",
+            "have studied",
+            "were studying"
+          ],
+          "answer": 2,
+          "explanation": "Geçmişte belirli bir anda devam eden eylem: were studying."
+        },
+        {
+          "prompt": "___ you watching TV when I called?",
+          "choices": [
+            "Did",
+            "Were",
+            "Was"
+          ],
+          "answer": 1,
+          "explanation": "Watching devam eden eylemi gösterir. You ile soru Were you watching …? biçimindedir."
+        },
+        {
+          "prompt": "Did she ___ the message?",
+          "choices": [
+            "read",
+            "reads",
+            "reading"
+          ],
+          "answer": 0,
+          "explanation": "Did ardından fiilin yalın hâli gelir. Read burada yalın biçimdir; yazılışı geçmiş biçimiyle aynıdır."
+        },
+        {
+          "prompt": "I was walking home when I ___ an old friend.",
+          "choices": [
+            "was see",
+            "seeing",
+            "saw"
+          ],
+          "answer": 2,
+          "explanation": "Devam eden yürüyüş sırasında gerçekleşen karşılaşma Past Simple ile anlatılır: saw."
+        },
+        {
+          "prompt": "“They were cooking while I was cleaning.” What does it describe?",
+          "choices": [
+            "Two finished events in sequence",
+            "Two activities happening at the same time",
+            "A future arrangement"
+          ],
+          "answer": 1,
+          "explanation": "Her iki bölümde Past Continuous, geçmişte eş zamanlı devam eden etkinlikleri anlatır."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "future-forms",
+      "title": "Will, Going to & Present Continuous",
+      "subtitle": "Planlarını, kararlarını ve tahminlerini anlat.",
+      "category": "Zamanlar",
+      "icon": "↗",
+      "minutes": 19,
+      "words": [
+        {
+          "word": "arrangement",
+          "meaning": "önceden yapılmış düzenleme"
+        },
+        {
+          "word": "prediction",
+          "meaning": "tahmin"
+        },
+        {
+          "word": "appointment",
+          "meaning": "randevu"
+        },
+        {
+          "word": "schedule",
+          "meaning": "program, tarife"
+        },
+        {
+          "word": "pack",
+          "meaning": "bavul hazırlamak"
+        },
+        {
+          "word": "arrive",
+          "meaning": "varmak"
+        },
+        {
+          "word": "as soon as",
+          "meaning": "-er -mez"
+        },
+        {
+          "word": "intend",
+          "meaning": "niyet etmek"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Will: O anda alınan karar",
+          "text": "Konuşma anında alınan kararlar, teklifler ve sözler için will kullanılabilir. Kişisel tahminlerde de sık görülür.",
+          "examples": [
+            {
+              "en": "The phone is ringing. I’ll answer it.",
+              "tr": "Telefon çalıyor. Ben açarım."
+            },
+            {
+              "en": "I think you will enjoy this book.",
+              "tr": "Bence bu kitabı seveceksin."
+            }
+          ],
+          "formula": "Özne + will + fiilin yalın hâli"
+        },
+        {
+          "title": "Going to: Niyet ve görünen kanıt",
+          "text": "Önceden verilmiş bir karar veya niyeti be going to ile anlatabiliriz. Şimdiki kanıtlara dayalı tahminlerde de bu yapı kullanılır.",
+          "examples": [
+            {
+              "en": "I’m going to start a course next month.",
+              "tr": "Gelecek ay bir kursa başlamayı planlıyorum."
+            },
+            {
+              "en": "Look at those clouds! It’s going to rain.",
+              "tr": "Şu bulutlara bak! Yağmur yağacak."
+            }
+          ],
+          "formula": "am / is / are + going to + fiil"
+        },
+        {
+          "title": "Present Continuous: Ayarlanmış plan",
+          "text": "Zamanı veya ayrıntıları düzenlenmiş gelecek planlarında Present Continuous kullanılabilir. Geleceği belirten zaman ifadesi anlamı netleştirir.",
+          "examples": [
+            {
+              "en": "I’m meeting Deniz at six tomorrow.",
+              "tr": "Yarın saat altıda Deniz’le buluşuyorum."
+            },
+            {
+              "en": "We’re flying to Rome on Friday.",
+              "tr": "Cuma günü Roma’ya uçuyoruz."
+            }
+          ],
+          "tip": "Bu kullanımlar birbirinden kesin çizgilerle ayrılmaz. Aynı gelecek olayını farklı vurgularla anlatabilirsin."
+        },
+        {
+          "title": "Gerçek hayatta: Bir geziyi planlamak",
+          "text": "Planlama konuşmalarında niyet, kesinleşmiş düzenleme ve o anda alınan karar farklı yapılarla anlatılabilir. Aşağıdaki cümlelerde konuşanın neyi vurguladığını incele.",
+          "examples": [
+            {
+              "en": "A: We’re meeting at the station at eight. The tickets are booked.",
+              "tr": "A: Saat sekizde istasyonda buluşuyoruz. Biletler alındı."
+            },
+            {
+              "en": "B: I’m going to pack tonight. I haven’t started yet.",
+              "tr": "B: Bu akşam hazırlanmayı planlıyorum. Henüz başlamadım."
+            },
+            {
+              "en": "A: Your bag looks heavy. I’ll carry it for you.",
+              "tr": "A: Çantan ağır görünüyor. Senin için taşırım."
+            }
+          ]
+        },
+        {
+          "title": "Zaman cümleleri ve tarifeler",
+          "text": "Geleceği anlatan when, as soon as ve before yan cümlelerinde genellikle Present Simple kullanılır. Ulaşım tarifeleri ve programlar için de Present Simple yaygındır. Gelecek anlamı her zaman will gerektirmez.",
+          "examples": [
+            {
+              "en": "I’ll text you when I arrive.",
+              "tr": "Varınca sana mesaj atacağım."
+            },
+            {
+              "en": "The train leaves at 7:30 tomorrow morning.",
+              "tr": "Tren yarın sabah 7.30’da kalkıyor."
+            },
+            {
+              "en": "We’ll leave as soon as everyone is ready.",
+              "tr": "Herkes hazır olur olmaz ayrılacağız."
+            }
+          ],
+          "tip": "“When I will arrive, I will call” yerine “When I arrive, I will call” kullan. Bu kural gelecek anlamlı zaman yan cümleleri içindir."
+        },
+        {
+          "title": "Karar rehberi: Hangi gelecek yapısı?",
+          "text": "O anda karar veya teklif: will. Önceden düşünülmüş niyet: going to. Ayarlanmış buluşma: Present Continuous. Tarife: Present Simple. Konuşma bağlamı eksikse birden fazla yapı doğru olabilir; önemli olan vermek istediğin anlamdır.",
+          "examples": [
+            {
+              "en": "I think the weather will be better tomorrow.",
+              "tr": "Bence yarın hava daha iyi olacak."
+            },
+            {
+              "en": "We’re having lunch with Selin on Saturday.",
+              "tr": "Cumartesi Selin’le öğle yemeği yiyeceğiz."
+            },
+            {
+              "en": "Çevir: Eve varınca seni arayacağım. → I’ll call you when I get home.",
+              "tr": "Ana bölümde will, when bölümünde Present Simple kullanılır."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "“I’m cold.” “I ___ close the window.”",
+          "choices": [
+            "am closing yesterday",
+            "will",
+            "was going to"
+          ],
+          "answer": 1,
+          "explanation": "Konuşma anında yapılan teklif için will uygundur."
+        },
+        {
+          "prompt": "Look! That glass is falling. It ___ break.",
+          "choices": [
+            "is going to",
+            "will to",
+            "going to"
+          ],
+          "answer": 0,
+          "explanation": "Görünen kanıta dayalı tahmin: is going to break."
+        },
+        {
+          "prompt": "We have booked the tickets. We ___ to Ankara tomorrow.",
+          "choices": [
+            "flew",
+            "were flying",
+            "are flying"
+          ],
+          "answer": 2,
+          "explanation": "Ayarlanmış bir gelecek planı ve tomorrow ifadesi, Present Continuous kullanımını destekler."
+        },
+        {
+          "prompt": "I’ll call you when I ___ home.",
+          "choices": [
+            "will get",
+            "get",
+            "got"
+          ],
+          "answer": 1,
+          "explanation": "Gelecek anlamlı when yan cümlesinde Present Simple kullanılır: when I get home."
+        },
+        {
+          "prompt": "According to the timetable, the bus ___ at 6 tomorrow.",
+          "choices": [
+            "leaves",
+            "leaving",
+            "leave"
+          ],
+          "answer": 0,
+          "explanation": "Tarifeler için Present Simple uygundur. Tekil bus ile leaves kullanılır."
+        },
+        {
+          "prompt": "“I can’t carry this.” — “Don’t worry, I ___ help you.”",
+          "choices": [
+            "am help",
+            "helped",
+            "will"
+          ],
+          "answer": 2,
+          "explanation": "Konuşma anında yapılan teklif: I will help you."
+        },
+        {
+          "prompt": "“We’re meeting the dentist tomorrow at ten.” What is emphasised?",
+          "choices": [
+            "A finished past event",
+            "An arranged future appointment",
+            "A repeated daily habit"
+          ],
+          "answer": 1,
+          "explanation": "Tomorrow ve belirli saat, Present Continuous yapısının düzenlenmiş gelecek randevusunu anlattığını gösterir."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "passive-voice",
+      "title": "Passive Voice",
+      "subtitle": "Eylemi yapan yerine sonuca odaklan.",
+      "category": "Cümle yapısı",
+      "icon": "⇄",
+      "minutes": 20,
+      "words": [
+        {
+          "word": "produce",
+          "meaning": "üretmek"
+        },
+        {
+          "word": "deliver",
+          "meaning": "teslim etmek"
+        },
+        {
+          "word": "repair",
+          "meaning": "tamir etmek"
+        },
+        {
+          "word": "roast",
+          "meaning": "kavurmak"
+        },
+        {
+          "word": "factory",
+          "meaning": "fabrika"
+        },
+        {
+          "word": "batch",
+          "meaning": "üretim partisi"
+        },
+        {
+          "word": "announce",
+          "meaning": "duyurmak, açıklamak"
+        },
+        {
+          "word": "steal",
+          "meaning": "çalmak"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Aktiften edilgene",
+          "text": "Edilgen yapıda eylemi yapan kişiden çok eylemden etkilenen kişi veya şey önemlidir. Aktif cümlenin nesnesi, edilgen cümlenin öznesi olur.",
+          "examples": [
+            {
+              "en": "People grow tea in Rize.",
+              "tr": "İnsanlar Rize’de çay yetiştirir."
+            },
+            {
+              "en": "Tea is grown in Rize.",
+              "tr": "Rize’de çay yetiştirilir."
+            }
+          ],
+          "formula": "Yeni özne + be + fiilin 3. hâli (V3)"
+        },
+        {
+          "title": "Zamanı be fiili gösterir",
+          "text": "Present Simple passive için am / is / are + V3, Past Simple passive için was / were + V3 kullanılır. Fiilin V3 biçimi aynı kalır; zaman ve özneye göre be değişir.",
+          "examples": [
+            {
+              "en": "These cars are produced in Japan.",
+              "tr": "Bu arabalar Japonya’da üretilir."
+            },
+            {
+              "en": "The bridge was built in 1998.",
+              "tr": "Köprü 1998 yılında inşa edildi."
+            }
+          ]
+        },
+        {
+          "title": "By ile eylemi yapanı belirt",
+          "text": "Eylemi yapan önemliyse by ile eklenebilir. Yapanın bilinmediği, açık olduğu veya önemli olmadığı durumlarda by bölümü gerekli değildir.",
+          "examples": [
+            {
+              "en": "The book was written by a young author.",
+              "tr": "Kitap genç bir yazar tarafından yazıldı."
+            },
+            {
+              "en": "The windows weren’t cleaned yesterday.",
+              "tr": "Camlar dün temizlenmedi."
+            }
+          ],
+          "tip": "Edilgen yapıda V2 değil V3 kullan: was written. “Was wrote” doğru değildir."
+        },
+        {
+          "title": "Okuma: Bir ürünün yolculuğu",
+          "text": "Bir ürünün nasıl üretildiğini anlatan metinlerde çoğu zaman ürüne odaklanılır. Üretimi yapan kişiler tek tek önemli olmadığından passive yapılar doğal bir seçimdir.",
+          "examples": [
+            {
+              "en": "The coffee beans are grown in Colombia.",
+              "tr": "Kahve çekirdekleri Kolombiya’da yetiştirilir."
+            },
+            {
+              "en": "They are roasted and packed in a local factory.",
+              "tr": "Yerel bir fabrikada kavrulur ve paketlenir."
+            },
+            {
+              "en": "The first batch was delivered to our shop yesterday.",
+              "tr": "İlk parti dün dükkânımıza teslim edildi."
+            }
+          ]
+        },
+        {
+          "title": "Future ve modal passive",
+          "text": "Gelecekte yapılacak bir işlem için will be + V3; olasılık, gereklilik veya izin için modal + be + V3 kullanılır. Yapıda be bulunmalıdır. Her fiil edilgen yapılamaz; temel düzeyde nesne alan fiillere odaklan.",
+          "examples": [
+            {
+              "en": "The room will be cleaned tomorrow.",
+              "tr": "Oda yarın temizlenecek."
+            },
+            {
+              "en": "This form must be completed in English.",
+              "tr": "Bu form İngilizce doldurulmalıdır."
+            },
+            {
+              "en": "The tickets can be bought online.",
+              "tr": "Biletler çevrim içi satın alınabilir."
+            }
+          ],
+          "tip": "“The room will cleaned” yerine “The room will be cleaned” kullan. “The accident was happened” yanlış; happen bu kullanımda edilgen olmaz."
+        },
+        {
+          "title": "Dönüştürme adımları",
+          "text": "Önce aktif cümlenin nesnesini bul. Onu yeni özne yap. Aktif cümlenin zamanını koruyarak be ekle ve ana fiili V3 yap. Eylemi yapan kişi önemliyse by ile belirt. Yeni öznenin tekil veya çoğul olması be biçimini etkiler.",
+          "examples": [
+            {
+              "en": "Someone stole my bicycle. → My bicycle was stolen.",
+              "tr": "Birisi bisikletimi çaldı. → Bisikletim çalındı."
+            },
+            {
+              "en": "They clean the rooms every day. → The rooms are cleaned every day.",
+              "tr": "Odaları her gün temizlerler. → Odalar her gün temizlenir."
+            },
+            {
+              "en": "Çevir: Sonuçlar yarın açıklanacak. → The results will be announced tomorrow.",
+              "tr": "Gelecek zaman edilgen yapısı will be + V3 biçimindedir."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "English ___ in many countries.",
+          "choices": [
+            "speaks",
+            "is spoken",
+            "is speaking"
+          ],
+          "answer": 1,
+          "explanation": "Dil konuşulma eyleminden etkilenir: Present Simple passive, is spoken."
+        },
+        {
+          "prompt": "The documents ___ yesterday.",
+          "choices": [
+            "were sent",
+            "are send",
+            "was sent"
+          ],
+          "answer": 0,
+          "explanation": "Yesterday geçmiş zamanı, çoğul documents ise were kullanımını gerektirir: were sent."
+        },
+        {
+          "prompt": "This picture was painted ___ my sister.",
+          "choices": [
+            "from",
+            "with",
+            "by"
+          ],
+          "answer": 2,
+          "explanation": "Edilgen cümlede eylemi yapan kişi by ile belirtilir."
+        },
+        {
+          "prompt": "The report will ___ tomorrow.",
+          "choices": [
+            "sent",
+            "be sent",
+            "be send"
+          ],
+          "answer": 1,
+          "explanation": "Future passive: will be + V3. Send fiilinin V3 biçimi sent olur."
+        },
+        {
+          "prompt": "These forms must ___ before Friday.",
+          "choices": [
+            "be completed",
+            "completed",
+            "be completing"
+          ],
+          "answer": 0,
+          "explanation": "Modal passive, must + be + V3 yapısını gerektirir."
+        },
+        {
+          "prompt": "Someone broke the window. Choose the passive sentence.",
+          "choices": [
+            "The window is breaking.",
+            "The window broke someone.",
+            "The window was broken."
+          ],
+          "answer": 2,
+          "explanation": "Geçmiş zaman korunur; window tekil olduğu için was ve break fiilinin V3 biçimi broken kullanılır."
+        },
+        {
+          "prompt": "The rooms ___ every morning.",
+          "choices": [
+            "is cleaned",
+            "are cleaned",
+            "are clean"
+          ],
+          "answer": 1,
+          "explanation": "Çoğul özne rooms ile are gerekir. Passive için fiilin V3 biçimi cleaned kullanılır."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "reported-speech",
+      "title": "Reported Speech",
+      "subtitle": "Birinin söylediklerini kendi cümlenle aktar.",
+      "category": "Cümle yapısı",
+      "icon": "❞",
+      "minutes": 20,
+      "words": [
+        {
+          "word": "report",
+          "meaning": "aktarmak, bildirmek"
+        },
+        {
+          "word": "promise",
+          "meaning": "söz vermek"
+        },
+        {
+          "word": "explain",
+          "meaning": "açıklamak"
+        },
+        {
+          "word": "ask",
+          "meaning": "sormak, istemek"
+        },
+        {
+          "word": "whether",
+          "meaning": "olup olmadığını"
+        },
+        {
+          "word": "message",
+          "meaning": "mesaj, ileti"
+        },
+        {
+          "word": "instruction",
+          "meaning": "talimat"
+        },
+        {
+          "word": "refuse",
+          "meaning": "reddetmek"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Doğrudan söz ve aktarılan söz",
+          "text": "Bir kişinin sözünü aynen alıntılamak yerine anlamını aktarabiliriz. Said veya told geçmiş zamanda olduğunda zamanlar çoğunlukla bir adım geriye gider. Zamirler, kimin konuştuğuna göre değişir.",
+          "examples": [
+            {
+              "en": "Anna said, “I am tired.”",
+              "tr": "Anna, “Yorgunum” dedi."
+            },
+            {
+              "en": "Anna said that she was tired.",
+              "tr": "Anna yorgun olduğunu söyledi."
+            }
+          ]
+        },
+        {
+          "title": "Yaygın zaman değişimleri",
+          "text": "Present Simple → Past Simple, Present Continuous → Past Continuous, will → would ve can → could dönüşümleri sık görülür. Aktarılan bilgi hâlâ geçerliyse bazı bağlamlarda zaman değişikliği yapılmayabilir.",
+          "examples": [
+            {
+              "en": "He said, “I can swim.” → He said he could swim.",
+              "tr": "Yüzebildiğini söyledi."
+            },
+            {
+              "en": "They said, “We will help.” → They said they would help.",
+              "tr": "Yardım edeceklerini söylediler."
+            }
+          ],
+          "formula": "am / is → was · are → were · will → would · can → could"
+        },
+        {
+          "title": "Say ve tell arasındaki fark",
+          "text": "Tell fiilinden sonra genellikle sözü söylediğin kişi gelir: told me. Say ise kişisiz kullanılabilir: said that. Zaman ve yer ifadeleri de yeni bağlama göre değişebilir: tomorrow → the next day.",
+          "examples": [
+            {
+              "en": "She told me that she was busy.",
+              "tr": "Bana meşgul olduğunu söyledi."
+            },
+            {
+              "en": "He said he would leave the next day.",
+              "tr": "Ertesi gün ayrılacağını söyledi."
+            }
+          ],
+          "tip": "“She said me” yerine “She told me” veya “She said to me” kullan."
+        },
+        {
+          "title": "Gerçek hayatta: Bir mesajı aktarmak",
+          "text": "Bir arkadaşının mesajını başka birine anlatırken zamirleri konuşan ve dinleyen kişiye göre değiştirmelisin. I her zaman he olmaz; zamirin kimi temsil ettiğini düşün.",
+          "examples": [
+            {
+              "en": "Elif said, “I’m waiting outside.”",
+              "tr": "Elif, “Dışarıda bekliyorum” dedi."
+            },
+            {
+              "en": "I told Can that Elif was waiting outside.",
+              "tr": "Can’a Elif’in dışarıda beklediğini söyledim."
+            },
+            {
+              "en": "Elif said, “I will call you tomorrow.” → Elif said she would call me the next day.",
+              "tr": "Elif, “Seni yarın arayacağım” dedi. → Elif beni ertesi gün arayacağını söyledi."
+            }
+          ]
+        },
+        {
+          "title": "Aktarılan sorular",
+          "text": "Yes/no soruları if veya whether ile aktarılabilir. Wh- sorularında soru sözcüğü korunur, ancak bölüm düz cümle sırasına döner. Do/does/did yardımcıları kaldırılır; gerekli zaman değişimi ana fiile uygulanır.",
+          "examples": [
+            {
+              "en": "“Do you live here?” → She asked if I lived there.",
+              "tr": "Burada yaşayıp yaşamadığımı sordu."
+            },
+            {
+              "en": "“Where are you going?” → He asked where I was going.",
+              "tr": "Nereye gittiğimi sordu."
+            },
+            {
+              "en": "“What did you buy?” → She asked what I had bought.",
+              "tr": "Ne aldığımı sordu."
+            }
+          ],
+          "tip": "“He asked where was I” yerine “He asked where I was” kullan. Aktarılan bölüm doğrudan soru değildir."
+        },
+        {
+          "title": "Aktarılan istekler ve bağlam",
+          "text": "Birine yapmasını söylediğimiz şeyi tell/ask + kişi + to + fiil ile aktarabiliriz. Olumsuz istekte not to kullanılır. Here/there, today/that day ve tomorrow/the next day gibi değişiklikler her durumda mekanik değildir; aktardığın zaman ve yer değişmişse gereklidir.",
+          "examples": [
+            {
+              "en": "“Please wait.” → She asked me to wait.",
+              "tr": "Lütfen bekle. → Benden beklememi istedi."
+            },
+            {
+              "en": "“Don’t touch it.” → He told us not to touch it.",
+              "tr": "Ona dokunmayın. → Bize ona dokunmamamızı söyledi."
+            },
+            {
+              "en": "Çevir: Bana kapıyı kapatmamı söyledi. → She told me to close the door.",
+              "tr": "Told + kişi + to + fiil ile aktarılan talimat kurulur."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "“I am happy.” → She said that she ___ happy.",
+          "choices": [
+            "is being",
+            "was",
+            "were"
+          ],
+          "answer": 1,
+          "explanation": "Geçmişteki said sonrasında am çoğunlukla was biçimine dönüşür."
+        },
+        {
+          "prompt": "He ___ me that he was late.",
+          "choices": [
+            "told",
+            "said",
+            "spoke"
+          ],
+          "answer": 0,
+          "explanation": "Ardından me gibi bir kişi nesnesi geldiğinde told uygundur."
+        },
+        {
+          "prompt": "“I will call.” → He said he ___ call.",
+          "choices": [
+            "will to",
+            "can to",
+            "would"
+          ],
+          "answer": 2,
+          "explanation": "Will, geçmiş zamanda aktarılan sözde çoğunlukla would olur."
+        },
+        {
+          "prompt": "“Where do you live?” → She asked where I ___.",
+          "choices": [
+            "did live",
+            "lived",
+            "do live"
+          ],
+          "answer": 1,
+          "explanation": "Aktarılan soruda düz cümle sırası kullanılır ve do kaldırılır. Geçmiş bağlamda lived uygundur."
+        },
+        {
+          "prompt": "“Please sit down.” → He asked me ___ down.",
+          "choices": [
+            "to sit",
+            "sitting",
+            "sit"
+          ],
+          "answer": 0,
+          "explanation": "Aktarılan istek yapısı ask + kişi + to + fiil şeklindedir."
+        },
+        {
+          "prompt": "“Don’t open the box.” → She told us ___ the box.",
+          "choices": [
+            "to not opening",
+            "not open",
+            "not to open"
+          ],
+          "answer": 2,
+          "explanation": "Olumsuz aktarılan talimat: told us not to open."
+        },
+        {
+          "prompt": "“Do you speak French?” → He asked ___ I spoke French.",
+          "choices": [
+            "that",
+            "if",
+            "what"
+          ],
+          "answer": 1,
+          "explanation": "Yes/no sorularını aktarırken if veya whether kullanılabilir."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "gerunds-infinitives",
+      "title": "Gerunds & Infinitives",
+      "subtitle": "Enjoy doing mi, want to do mu?",
+      "category": "Dil bilgisi",
+      "icon": "∞",
+      "minutes": 18,
+      "words": [
+        {
+          "word": "avoid",
+          "meaning": "kaçınmak"
+        },
+        {
+          "word": "decide",
+          "meaning": "karar vermek"
+        },
+        {
+          "word": "suggest",
+          "meaning": "önermek"
+        },
+        {
+          "word": "borrow",
+          "meaning": "ödünç almak"
+        },
+        {
+          "word": "improve",
+          "meaning": "geliştirmek"
+        },
+        {
+          "word": "join",
+          "meaning": "katılmak"
+        },
+        {
+          "word": "regularly",
+          "meaning": "düzenli olarak"
+        },
+        {
+          "word": "give up",
+          "meaning": "bırakmak, vazgeçmek"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Bazı fiillerden sonra -ing gelir",
+          "text": "Enjoy, avoid, finish ve suggest gibi fiillerden sonra ikinci fiil -ing biçiminde kullanılır. Bu kullanımda fiil, isim gibi davranır.",
+          "examples": [
+            {
+              "en": "I enjoy reading in English.",
+              "tr": "İngilizce okumaktan hoşlanırım."
+            },
+            {
+              "en": "She finished writing the email.",
+              "tr": "E-postayı yazmayı bitirdi."
+            }
+          ],
+          "formula": "enjoy / avoid / finish + V-ing"
+        },
+        {
+          "title": "Bazı fiillerden sonra to + fiil gelir",
+          "text": "Want, decide, hope ve plan gibi fiillerden sonra to + fiilin yalın hâli kullanılır. Bunları tek tek kelime yerine küçük kalıplar olarak öğrenmek yararlıdır.",
+          "examples": [
+            {
+              "en": "We decided to take the train.",
+              "tr": "Trene binmeye karar verdik."
+            },
+            {
+              "en": "I hope to see you soon.",
+              "tr": "Seni yakında görmeyi umuyorum."
+            }
+          ],
+          "formula": "want / decide / hope + to + fiil"
+        },
+        {
+          "title": "Edatlardan sonra -ing",
+          "text": "About, in ve without gibi edatlardan sonra gelen fiil genellikle -ing olur. Like ve love gibi bazı fiiller ise hem -ing hem de to + fiil ile kullanılabilir.",
+          "examples": [
+            {
+              "en": "She is interested in learning French.",
+              "tr": "Fransızca öğrenmekle ilgileniyor."
+            },
+            {
+              "en": "He left without saying goodbye.",
+              "tr": "Hoşça kal demeden ayrıldı."
+            }
+          ],
+          "tip": "“Look forward to” kalıbındaki to bir edattır: I look forward to meeting you. Burada “to meet” kullanılmaz."
+        },
+        {
+          "title": "Gerçek hayatta: Yeni bir alışkanlık",
+          "text": "Hedeflerden bahsederken want/plan/decide + to; sevdiğimiz etkinliklerde enjoy + -ing sık kullanılır. Bağlam içindeki kalıpları birlikte öğrenmek, yalnızca fiil listesi ezberlemekten daha kullanışlıdır.",
+          "examples": [
+            {
+              "en": "I decided to improve my English this year.",
+              "tr": "Bu yıl İngilizcemi geliştirmeye karar verdim."
+            },
+            {
+              "en": "I enjoy listening to podcasts, but I sometimes avoid speaking.",
+              "tr": "Podcast dinlemekten hoşlanıyorum ama bazen konuşmaktan kaçınıyorum."
+            },
+            {
+              "en": "My friend suggested joining a conversation group.",
+              "tr": "Arkadaşım bir konuşma grubuna katılmayı önerdi."
+            }
+          ]
+        },
+        {
+          "title": "Stop doing ile stop to do",
+          "text": "Bazı fiillerden sonra iki yapı da gelebilir ama anlam değişir. Stop doing bir etkinliği bırakmaktır. Stop to do ise başka bir etkinliği yapmak için durmaktır. Bu farkı yalnızca “stop + fiil” diye ezberlemek gizler.",
+          "examples": [
+            {
+              "en": "She stopped drinking coffee.",
+              "tr": "Kahve içmeyi bıraktı."
+            },
+            {
+              "en": "She stopped to buy a coffee.",
+              "tr": "Kahve almak için durdu."
+            },
+            {
+              "en": "We stopped working to have lunch.",
+              "tr": "Öğle yemeği yemek için çalışmayı bıraktık."
+            }
+          ],
+          "tip": "“I suggested to go” yerine “I suggested going” kullan. Want sonrasında ise “I want to go” doğrudur."
+        },
+        {
+          "title": "Amaç belirtmek ve pratik yapmak",
+          "text": "Bir işi neden yaptığını anlatmak için to + fiil kullanılabilir: I called to ask a question. Bu, belirli bir fiilin aldığı tamamlayıcıdan farklı bir amaç kullanımıdır. Her boşlukta yalnızca önceki kelimeye değil, cümlenin ilişkisine de bak.",
+          "examples": [
+            {
+              "en": "I went to the library to borrow a book.",
+              "tr": "Kitap ödünç almak için kütüphaneye gittim."
+            },
+            {
+              "en": "Reading regularly helps me learn new words.",
+              "tr": "Düzenli okumak yeni kelimeler öğrenmeme yardımcı olur."
+            },
+            {
+              "en": "Çevir: Hata yapmaktan endişeleniyorum. → I’m worried about making mistakes.",
+              "tr": "About bir edat olduğu için ardından making gelir."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "I enjoy ___ new words.",
+          "choices": [
+            "to learn",
+            "learning",
+            "learn"
+          ],
+          "answer": 1,
+          "explanation": "Enjoy fiilinden sonra -ing biçimi gerekir: learning."
+        },
+        {
+          "prompt": "They decided ___ at home.",
+          "choices": [
+            "to stay",
+            "staying",
+            "stay to"
+          ],
+          "answer": 0,
+          "explanation": "Decide ardından to + fiil alır: decided to stay."
+        },
+        {
+          "prompt": "She left without ___ anything.",
+          "choices": [
+            "say",
+            "to say",
+            "saying"
+          ],
+          "answer": 2,
+          "explanation": "Without bir edattır; ardından fiil gelirse -ing kullanılır."
+        },
+        {
+          "prompt": "We went to the café ___ a friend.",
+          "choices": [
+            "meeting",
+            "to meet",
+            "meet"
+          ],
+          "answer": 1,
+          "explanation": "Burada amaç anlatılıyor: bir arkadaşla buluşmak için, to meet."
+        },
+        {
+          "prompt": "“He stopped smoking.” What does it mean?",
+          "choices": [
+            "He gave up smoking.",
+            "He stopped another activity in order to smoke.",
+            "He is planning to start smoking."
+          ],
+          "answer": 0,
+          "explanation": "Stop + -ing, o etkinliği bırakmak demektir. Stop to smoke ise sigara içmek için durmak olurdu."
+        },
+        {
+          "prompt": "She suggested ___ a short break.",
+          "choices": [
+            "to take",
+            "take",
+            "taking"
+          ],
+          "answer": 2,
+          "explanation": "Suggest sonrasında fiil -ing biçiminde kullanılır: suggested taking."
+        },
+        {
+          "prompt": "I look forward to ___ you.",
+          "choices": [
+            "meet",
+            "meeting",
+            "met"
+          ],
+          "answer": 1,
+          "explanation": "Look forward to kalıbındaki to edattır. Sonrasında isim veya -ing biçimi gelir."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "comparatives",
+      "title": "Comparatives & Superlatives",
+      "subtitle": "Karşılaştır, farkları ve enleri anlat.",
+      "category": "Dil bilgisi",
+      "icon": "⇧",
+      "minutes": 18,
+      "words": [
+        {
+          "word": "crowded",
+          "meaning": "kalabalık"
+        },
+        {
+          "word": "convenient",
+          "meaning": "uygun, pratik"
+        },
+        {
+          "word": "as … as",
+          "meaning": "… kadar"
+        },
+        {
+          "word": "spacious",
+          "meaning": "geniş, ferah"
+        },
+        {
+          "word": "affordable",
+          "meaning": "bütçeye uygun"
+        },
+        {
+          "word": "previous",
+          "meaning": "önceki"
+        },
+        {
+          "word": "slightly",
+          "meaning": "biraz, az miktarda"
+        },
+        {
+          "word": "choice",
+          "meaning": "seçim"
+        }
+      ],
+      "sections": [
+        {
+          "title": "İki şeyi karşılaştır",
+          "text": "Kısa sıfatlar çoğunlukla -er, daha uzun sıfatlar more ile karşılaştırılır. Karşılaştırılan ikinci ögeden önce than kullanılır. Bazı iki heceli sıfatlarda birden fazla biçim mümkündür.",
+          "examples": [
+            {
+              "en": "This room is quieter than the other one.",
+              "tr": "Bu oda diğerinden daha sessiz."
+            },
+            {
+              "en": "The train is more comfortable than the bus.",
+              "tr": "Tren otobüsten daha rahat."
+            }
+          ],
+          "formula": "sıfat-er + than / more + sıfat + than"
+        },
+        {
+          "title": "Bir grubun enini seç",
+          "text": "Superlative, bir grubun içindeki en yüksek veya en düşük dereceyi belirtir. Genellikle the + -est veya the most + sıfat kullanılır. Good → better → best, bad → worse → worst düzensizdir.",
+          "examples": [
+            {
+              "en": "It is the tallest building in the city.",
+              "tr": "Şehirdeki en yüksek bina."
+            },
+            {
+              "en": "This is the best option for us.",
+              "tr": "Bizim için en iyi seçenek bu."
+            }
+          ]
+        },
+        {
+          "title": "Eşitlik, azlık ve farkın derecesi",
+          "text": "As + sıfat + as eşitlik anlatır. Not as … as eşit olmadığını söyler. Much veya a little ile farkın derecesini belirtebilirsin; less + sıfat daha düşük bir dereceyi anlatır.",
+          "examples": [
+            {
+              "en": "My phone is as useful as yours.",
+              "tr": "Telefonum seninki kadar kullanışlı."
+            },
+            {
+              "en": "This exercise is much easier than the last one.",
+              "tr": "Bu alıştırma sonuncudan çok daha kolay."
+            }
+          ],
+          "tip": "“More easier” deme. Easier zaten karşılaştırma biçimidir. More expensive ise doğrudur."
+        },
+        {
+          "title": "Gerçek hayatta: Yaşanacak bir yer seçmek",
+          "text": "İki yer veya ürün arasında karar verirken karşılaştırmalar kullanılır. Her karşılaştırmada tek bir özellik seçmek, anlatımı daha açık hâle getirir.",
+          "examples": [
+            {
+              "en": "A: This flat is bigger than the one we saw yesterday.",
+              "tr": "A: Bu daire dün gördüğümüzden daha büyük."
+            },
+            {
+              "en": "B: Yes, but it is also more expensive.",
+              "tr": "B: Evet ama aynı zamanda daha pahalı."
+            },
+            {
+              "en": "A: The smaller flat is closer to work. It might be the best choice.",
+              "tr": "A: Daha küçük daire işe daha yakın. En iyi seçim o olabilir."
+            }
+          ]
+        },
+        {
+          "title": "Yazım değişiklikleri ve düzensiz biçimler",
+          "text": "Sonu sessiz + y ile biten happy gibi sıfatlarda y, i olur: happier/happiest. Big gibi bazı kısa sıfatlarda son sessiz harf tekrarlanır: bigger/biggest. Good/better/best ve bad/worse/worst düzensizdir.",
+          "examples": [
+            {
+              "en": "This road is busier than the old one.",
+              "tr": "Bu yol eskisinden daha yoğun."
+            },
+            {
+              "en": "Today’s result is worse than yesterday’s.",
+              "tr": "Bugünün sonucu dünkünden daha kötü."
+            },
+            {
+              "en": "It is the biggest room in the house.",
+              "tr": "Evdeki en büyük oda bu."
+            }
+          ],
+          "tip": "“The most cheapest” veya “more better” kullanma. Cheapest ve better zaten gerekli karşılaştırma anlamını taşır."
+        },
+        {
+          "title": "Azlık ve eşitliği farklı yollarla anlat",
+          "text": "Not as expensive as, daha pahalı olmadığını değil, aynı derecede pahalı olmadığını ve genellikle daha ucuz olduğunu söyler. Less expensive than da daha ucuz anlamını verebilir. Much, far veya a little ile farkı güçlendirebilir ya da küçültebilirsin.",
+          "examples": [
+            {
+              "en": "This hotel is less expensive than the other one.",
+              "tr": "Bu otel diğerinden daha ucuz."
+            },
+            {
+              "en": "My journey is a little longer than yours.",
+              "tr": "Benim yolculuğum seninkinden biraz daha uzun."
+            },
+            {
+              "en": "Çevir: Bu soru önceki kadar zor değil. → This question isn’t as difficult as the previous one.",
+              "tr": "Not as + sıfat + as yapısı, eşitlik olmadığını ifade eder."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "This test is ___ than the last one.",
+          "choices": [
+            "more easy",
+            "easier",
+            "easiest"
+          ],
+          "answer": 1,
+          "explanation": "Easy, karşılaştırmada easier olur. Than karşılaştırmayı gösterir."
+        },
+        {
+          "prompt": "It is ___ interesting book I have read this year.",
+          "choices": [
+            "the most",
+            "more",
+            "the more"
+          ],
+          "answer": 0,
+          "explanation": "Bir yıl içindeki kitaplar arasında en ilginci seçiliyor: the most interesting."
+        },
+        {
+          "prompt": "My bag is as heavy ___ yours.",
+          "choices": [
+            "than",
+            "that",
+            "as"
+          ],
+          "answer": 2,
+          "explanation": "Eşitlik yapısı as + sıfat + as biçimindedir."
+        },
+        {
+          "prompt": "This bag is ___ than mine.",
+          "choices": [
+            "more big",
+            "bigger",
+            "biggest"
+          ],
+          "answer": 1,
+          "explanation": "Big tek hecelidir; son sessiz ikiye katlanır: bigger. Than comparative yapıyı gösterir."
+        },
+        {
+          "prompt": "The opposite of “better” in a comparison is ___.",
+          "choices": [
+            "worse",
+            "worst",
+            "badder"
+          ],
+          "answer": 0,
+          "explanation": "Bad fiil değil sıfattır ve düzensiz karşılaştırma biçimi worse olur. Worst en üstünlük biçimidir."
+        },
+        {
+          "prompt": "This room isn’t as bright ___ the kitchen.",
+          "choices": [
+            "than",
+            "that",
+            "as"
+          ],
+          "answer": 2,
+          "explanation": "Not as + sıfat + as yapısında ikinci as gereklidir."
+        },
+        {
+          "prompt": "Choose the correct sentence.",
+          "choices": [
+            "This is the most cheapest shop.",
+            "This shop is much cheaper.",
+            "This shop is more cheaper."
+          ],
+          "answer": 1,
+          "explanation": "Cheaper zaten comparative biçimindedir. Much farkın derecesini artırır; more eklemek doğru değildir."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "linking-words",
+      "title": "Linking Words",
+      "subtitle": "Fikirlerini akıcı cümlelerle birbirine bağla.",
+      "category": "Yazma",
+      "icon": "↔",
+      "minutes": 19,
+      "words": [
+        {
+          "word": "although",
+          "meaning": "-mesine rağmen"
+        },
+        {
+          "word": "therefore",
+          "meaning": "bu nedenle"
+        },
+        {
+          "word": "however",
+          "meaning": "ancak, bununla birlikte"
+        },
+        {
+          "word": "despite",
+          "meaning": "-e rağmen"
+        },
+        {
+          "word": "in addition",
+          "meaning": "ek olarak"
+        },
+        {
+          "word": "concentrate",
+          "meaning": "odaklanmak"
+        },
+        {
+          "word": "as a result",
+          "meaning": "sonuç olarak"
+        },
+        {
+          "word": "on the other hand",
+          "meaning": "öte yandan"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Neden ve sonucu ayır",
+          "text": "Because bir neden sunar; so ise sonucu bağlar. Bu iki bağlacı aynı ilişki için birlikte kullanmak genellikle gereksizdir.",
+          "examples": [
+            {
+              "en": "I stayed home because I was ill.",
+              "tr": "Hasta olduğum için evde kaldım."
+            },
+            {
+              "en": "I was ill, so I stayed home.",
+              "tr": "Hastaydım, bu yüzden evde kaldım."
+            }
+          ],
+          "formula": "Sonuç + because + neden · Neden + so + sonuç"
+        },
+        {
+          "title": "Zıtlık: Although ve however",
+          "text": "Although bir yan cümle başlatır ve devamında ana cümle gelir. However ise çoğunlukla yeni bir cümlede veya noktalı virgülden sonra önceki düşünceyle zıtlık kurar.",
+          "examples": [
+            {
+              "en": "Although it was cold, we went for a walk.",
+              "tr": "Soğuk olmasına rağmen yürüyüşe çıktık."
+            },
+            {
+              "en": "It was cold. However, we went for a walk.",
+              "tr": "Hava soğuktu. Ancak yürüyüşe çıktık."
+            }
+          ],
+          "tip": "“Although it was cold, but we went out” yerine although veya but yapılarından birini seç."
+        },
+        {
+          "title": "Ekleme ve sıralama",
+          "text": "Also ek bilgi verir. First, then ve finally olayların sırasını netleştirir. Therefore daha resmî bir sonuç geçişidir. Bağlaç seçerken cümlelerin neden, sonuç, zıtlık veya ekleme ilişkisini düşün.",
+          "examples": [
+            {
+              "en": "First, read the question. Then, check the options.",
+              "tr": "Önce soruyu oku. Sonra seçenekleri kontrol et."
+            },
+            {
+              "en": "The road was closed. Therefore, we took another route.",
+              "tr": "Yol kapalıydı. Bu nedenle başka bir güzergâh kullandık."
+            }
+          ]
+        },
+        {
+          "title": "Okuma: Kısa bir görüş paragrafı",
+          "text": "Bir paragrafta neden, ek bilgi, zıtlık ve sonuç ilişkilerini ayrı ayrı izle. Bağlaçlar yalnızca uzun cümle kurmak için değil, okuyucunun düşünce akışını takip etmesi için kullanılır.",
+          "examples": [
+            {
+              "en": "I prefer studying in the morning because I can concentrate better.",
+              "tr": "Daha iyi odaklanabildiğim için sabah çalışmayı tercih ederim."
+            },
+            {
+              "en": "Also, the house is usually quiet at that time.",
+              "tr": "Ayrıca ev o saatte genellikle sessiz olur."
+            },
+            {
+              "en": "However, I sometimes have early meetings. On those days, I study in the evening instead.",
+              "tr": "Ancak bazen erken toplantılarım olur. O günlerde bunun yerine akşam çalışırım."
+            }
+          ]
+        },
+        {
+          "title": "Because ile because of; although ile despite",
+          "text": "Because ve although sonrasında özne + fiil içeren bir bölüm gelir. Because of ve despite sonrasında isim veya -ing yapısı gelir. Despite ile in spite of aynı genel zıtlık ilişkisini kurabilir; despite of denmez.",
+          "examples": [
+            {
+              "en": "We stayed inside because of the heavy rain.",
+              "tr": "Şiddetli yağmur nedeniyle içeride kaldık."
+            },
+            {
+              "en": "Although it was raining, we went out.",
+              "tr": "Yağmur yağmasına rağmen dışarı çıktık."
+            },
+            {
+              "en": "Despite the rain, we went out.",
+              "tr": "Yağmura rağmen dışarı çıktık."
+            }
+          ],
+          "tip": "“Because of it rained” yerine “Because it rained” veya “Because of the rain” kullan."
+        },
+        {
+          "title": "Yazma atölyesi: Dört cümlelik görüş",
+          "text": "Bir tercih belirt. Because ile nedenini açıkla. Also ile ikinci bir nokta ekle. However ile sınırlılık veya karşı görüş göster. Her cümleye bağlaç eklemek zorunda değilsin; gereksiz tekrar yerine düşünce ilişkisine odaklan.",
+          "examples": [
+            {
+              "en": "Online lessons are convenient because I can study at home.",
+              "tr": "Evde çalışabildiğim için çevrim içi dersler pratiktir."
+            },
+            {
+              "en": "They also save time. However, I sometimes miss face-to-face conversations.",
+              "tr": "Ayrıca zaman kazandırır. Ancak bazen yüz yüze konuşmaları özlüyorum."
+            },
+            {
+              "en": "Çevir: Yorgundum, bu yüzden erken yattım. → I was tired, so I went to bed early.",
+              "tr": "So, önceki nedenin sonucunu bağlar."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "I took an umbrella ___ it was raining.",
+          "choices": [
+            "although",
+            "because",
+            "however"
+          ],
+          "answer": 1,
+          "explanation": "Yağmur yağması, şemsiye almanın nedenidir: because."
+        },
+        {
+          "prompt": "___ she was tired, she finished her work.",
+          "choices": [
+            "Although",
+            "Because of",
+            "However"
+          ],
+          "answer": 0,
+          "explanation": "Yorgunluk ile işi bitirmek arasında zıtlık var. Although ardından özne + fiil alır."
+        },
+        {
+          "prompt": "The bus was late, ___ we took a taxi.",
+          "choices": [
+            "because",
+            "although",
+            "so"
+          ],
+          "answer": 2,
+          "explanation": "Taksiye binmek, otobüsün geç kalmasının sonucudur: so."
+        },
+        {
+          "prompt": "We cancelled the trip because of ___.",
+          "choices": [
+            "it was raining",
+            "the bad weather",
+            "the weather was bad"
+          ],
+          "answer": 1,
+          "explanation": "Because of sonrasında isim grubu gerekir: the bad weather. Tam cümleden önce because kullanılabilir."
+        },
+        {
+          "prompt": "___ the noise, she managed to sleep.",
+          "choices": [
+            "Despite",
+            "Although",
+            "However"
+          ],
+          "answer": 0,
+          "explanation": "The noise bir isim grubudur; despite ile kullanılabilir. Although ardından özne + fiil beklenir."
+        },
+        {
+          "prompt": "Choose the correct sentence.",
+          "choices": [
+            "Although I was tired, but I continued.",
+            "Because of I was tired, I stopped.",
+            "Although I was tired, I continued."
+          ],
+          "answer": 2,
+          "explanation": "Although zıtlık ilişkisini zaten kurar; aynı yapıya but eklenmez."
+        },
+        {
+          "prompt": "“The shop was closed. ___, we went home.”",
+          "choices": [
+            "Because of",
+            "As a result",
+            "Although"
+          ],
+          "answer": 1,
+          "explanation": "Eve dönmek, dükkânın kapalı olmasının sonucudur. As a result sonuç geçişini açıklar."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "travel-english",
+      "title": "Travel English",
+      "subtitle": "Yolculukta ihtiyaçlarını nazikçe ifade et.",
+      "category": "Günlük İngilizce",
+      "icon": "✈",
+      "minutes": 20,
+      "words": [
+        {
+          "word": "reservation",
+          "meaning": "rezervasyon"
+        },
+        {
+          "word": "departure",
+          "meaning": "kalkış, hareket"
+        },
+        {
+          "word": "refund",
+          "meaning": "para iadesi"
+        },
+        {
+          "word": "delay",
+          "meaning": "gecikme, geciktirmek"
+        },
+        {
+          "word": "connecting flight",
+          "meaning": "bağlantılı uçuş"
+        },
+        {
+          "word": "heating",
+          "meaning": "ısıtma"
+        },
+        {
+          "word": "return ticket",
+          "meaning": "gidiş-dönüş bileti"
+        },
+        {
+          "word": "platform",
+          "meaning": "peron"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Yardım istemek",
+          "text": "Could you …? ve Could I …? günlük durumlarda nazik istekler kurmanı sağlar. Can da yaygındır; could çoğunlukla daha nazik bir ton verir.",
+          "examples": [
+            {
+              "en": "Could you tell me where the station is?",
+              "tr": "İstasyonun nerede olduğunu söyleyebilir misiniz?"
+            },
+            {
+              "en": "Could I have a window seat, please?",
+              "tr": "Pencere kenarında bir koltuk alabilir miyim lütfen?"
+            }
+          ],
+          "formula": "Could you + fiil …? / Could I + fiil …?"
+        },
+        {
+          "title": "Otelde ve havaalanında",
+          "text": "Hazır kalıplar, stresli anlarda iletişimi kolaylaştırır. I have a reservation … rezervasyonunu belirtir. I’d like … bir isteği, there is a problem … ise bir sorunu açıklar.",
+          "examples": [
+            {
+              "en": "I have a reservation under the name Kaya.",
+              "tr": "Kaya adına bir rezervasyonum var."
+            },
+            {
+              "en": "I’d like to check in, please.",
+              "tr": "Giriş yapmak istiyorum lütfen."
+            },
+            {
+              "en": "There is a problem with the air conditioning.",
+              "tr": "Klimada bir sorun var."
+            }
+          ]
+        },
+        {
+          "title": "Anlamadığında konuşmayı sürdür",
+          "text": "Tekrar veya açıklama istemek iletişimin bir parçasıdır. Excuse me konuşmayı başlatır; sorry ise duymadığını veya anlamadığını belirtirken kullanılabilir.",
+          "examples": [
+            {
+              "en": "Sorry, could you say that again more slowly?",
+              "tr": "Pardon, bunu tekrar daha yavaş söyleyebilir misiniz?"
+            },
+            {
+              "en": "Does this ticket include the return journey?",
+              "tr": "Bu bilet dönüş yolculuğunu da kapsıyor mu?"
+            }
+          ],
+          "tip": "Dolaylı soruda düz cümle sırası kullan: Could you tell me where the station is? “Where is the station” bölümünü aynen ekleme."
+        },
+        {
+          "title": "Diyalog: Otelde bir sorunu çözmek",
+          "text": "Bir sorunu belirtirken önce durumu açıkla, sonra ne istediğini nazikçe söyle. Kısa ve net cümleler, karmaşık kelimelerden daha yararlıdır.",
+          "examples": [
+            {
+              "en": "Guest: Excuse me, the heating in my room isn’t working.",
+              "tr": "Misafir: Affedersiniz, odamdaki ısıtma çalışmıyor."
+            },
+            {
+              "en": "Receptionist: I’m sorry about that. We can send someone to check it.",
+              "tr": "Resepsiyonist: Bunun için üzgünüm. Kontrol etmesi için birini gönderebiliriz."
+            },
+            {
+              "en": "Guest: Thank you. Could I move to another room if it can’t be fixed?",
+              "tr": "Misafir: Teşekkür ederim. Tamir edilemezse başka bir odaya geçebilir miyim?"
+            }
+          ]
+        },
+        {
+          "title": "Soruları nazikleştirirken kelime sırası",
+          "text": "Where is the gate? doğrudan sorudur. Could you tell me where the gate is? dolaylı sorudur. İçteki bölüm düz cümle sırasına geçer. Ayrıca I’d like + isim veya I’d like to + fiil ayrımını koru.",
+          "examples": [
+            {
+              "en": "I’d like a return ticket, please.",
+              "tr": "Bir gidiş-dönüş bileti istiyorum lütfen."
+            },
+            {
+              "en": "I’d like to change my reservation.",
+              "tr": "Rezervasyonumu değiştirmek istiyorum."
+            },
+            {
+              "en": "Do you know what time the train leaves?",
+              "tr": "Trenin saat kaçta kalktığını biliyor musunuz?"
+            }
+          ],
+          "tip": "“I’d like change” yerine “I’d like to change” kullan. “Could you tell me where is gate?” yerine “Could you tell me where the gate is?” de."
+        },
+        {
+          "title": "Konuşma provası: Geciken uçuş",
+          "text": "Bir uçuşun geciktiğini öğrendin. Ne kadar gecikeceğini sor, bağlantılı uçuşunu belirt ve seçenekleri öğren. Aşağıdaki üç kalıbı kendi ayrıntılarınla değiştirerek sesli söyle. Bu etkinlikte otomatik telaffuz değerlendirmesi yok; amaç konuşmayı prova etmek.",
+          "examples": [
+            {
+              "en": "How long is the flight delayed?",
+              "tr": "Uçuş ne kadar gecikecek?"
+            },
+            {
+              "en": "I have a connecting flight at six. What are my options?",
+              "tr": "Saat altıda bağlantılı uçuşum var. Seçeneklerim neler?"
+            },
+            {
+              "en": "Could you write that down for me, please?",
+              "tr": "Bunu benim için yazabilir misiniz lütfen?"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "Which is a polite request?",
+          "choices": [
+            "You give me a ticket.",
+            "Could I have a ticket, please?",
+            "I ticket want."
+          ],
+          "answer": 1,
+          "explanation": "Could I have …, please? nazik ve doğal bir istek kalıbıdır."
+        },
+        {
+          "prompt": "I have a reservation ___ the name Demir.",
+          "choices": [
+            "under",
+            "below",
+            "between"
+          ],
+          "answer": 0,
+          "explanation": "Rezervasyonun hangi adla yapıldığını söylemek için under the name kullanılır."
+        },
+        {
+          "prompt": "Could you tell me where ___?",
+          "choices": [
+            "is the gate",
+            "does the gate",
+            "the gate is"
+          ],
+          "answer": 2,
+          "explanation": "Dolaylı sorularda özne + fiil sırası korunur: where the gate is."
+        },
+        {
+          "prompt": "You want to change your booking. Which sentence is natural?",
+          "choices": [
+            "I’d like change my booking.",
+            "I’d like to change my booking.",
+            "I’d like changing to my booking."
+          ],
+          "answer": 1,
+          "explanation": "I’d like to + fiil nazik istek anlatır: I’d like to change."
+        },
+        {
+          "prompt": "Could you tell me what time ___?",
+          "choices": [
+            "the bus leaves",
+            "does the bus leave",
+            "leaves the bus"
+          ],
+          "answer": 0,
+          "explanation": "Dolaylı soruda düz cümle sırası vardır: the bus leaves. Does eklenmez."
+        },
+        {
+          "prompt": "You didn’t understand the receptionist. What should you say?",
+          "choices": [
+            "You speak wrong.",
+            "I don’t want your words.",
+            "Could you repeat that more slowly, please?"
+          ],
+          "answer": 2,
+          "explanation": "Tekrarı nazikçe istemek için could you repeat …, please? doğal ve açık bir kalıptır."
+        },
+        {
+          "prompt": "You need a ticket to go there and come back. Ask for a ___.",
+          "choices": [
+            "single room",
+            "return ticket",
+            "departure board"
+          ],
+          "answer": 1,
+          "explanation": "Return ticket gidiş ve dönüşü kapsar. Single room tek kişilik oda, departure board kalkış panosudur."
+        }
+      ],
+      "level": "B1"
+    },
+    {
+      "id": "a2-be-have",
+      "level": "A2",
+      "title": "Be & Have Got",
+      "subtitle": "Kendini, aileni ve sahip olduklarını anlat.",
+      "category": "Temel yapılar",
+      "icon": "◉",
+      "minutes": 12,
+      "words": [
+        {
+          "word": "friendly",
+          "meaning": "arkadaş canlısı"
+        },
+        {
+          "word": "busy",
+          "meaning": "meşgul"
+        },
+        {
+          "word": "married",
+          "meaning": "evli"
+        },
+        {
+          "word": "neighbour",
+          "meaning": "komşu"
+        },
+        {
+          "word": "curly",
+          "meaning": "kıvırcık"
+        },
+        {
+          "word": "quiet",
+          "meaning": "sessiz"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Kim olduğunu anlat: am, is, are",
+          "text": "İngilizcede kimlik, durum, yaş ve özellik anlatırken be fiili kullanılır. I ile am; he, she ve it ile is; you, we ve they ile are kullan. Türkçede ayrı bir kelime olarak görünmese de İngilizce cümlede bu fiil gereklidir.",
+          "examples": [
+            {
+              "en": "I am a student.",
+              "tr": "Ben bir öğrenciyim."
+            },
+            {
+              "en": "My sister is twenty years old.",
+              "tr": "Kız kardeşim yirmi yaşında."
+            },
+            {
+              "en": "They are very friendly.",
+              "tr": "Onlar çok arkadaş canlısı."
+            }
+          ],
+          "formula": "I am · He/She/It is · You/We/They are"
+        },
+        {
+          "title": "Olumsuz cümle ve soru",
+          "text": "Olumsuzluk için be fiilinden sonra not ekle. Soru kurarken am/is/are fiilini öznenin önüne getir. Be ile kurulan bu sorularda do/does kullanma. Kısa yanıtta da be fiilini koru.",
+          "examples": [
+            {
+              "en": "Are you busy? — Yes, I am.",
+              "tr": "Meşgul müsün? — Evet."
+            },
+            {
+              "en": "She isn’t at home.",
+              "tr": "O evde değil."
+            },
+            {
+              "en": "Is your brother a teacher? — No, he isn’t.",
+              "tr": "Erkek kardeşin öğretmen mi? — Hayır değil."
+            }
+          ],
+          "tip": "“I have twenty years” değil “I am twenty years old” kullan. Yaş anlatırken be gerekir."
+        },
+        {
+          "title": "Have got: Sahip oldukların",
+          "text": "I/you/we/they ile have got, he/she/it ile has got kullanılır. Bu yapı özellikle konuşma İngilizcesinde sahipliği ve fiziksel özellikleri anlatır. Have/has ile kurulan sahiplik cümleleri de yaygındır.",
+          "examples": [
+            {
+              "en": "I’ve got two brothers.",
+              "tr": "İki erkek kardeşim var."
+            },
+            {
+              "en": "She has got curly hair.",
+              "tr": "Kıvırcık saçları var."
+            },
+            {
+              "en": "Have you got a bike? — No, I haven’t.",
+              "tr": "Bisikletin var mı? — Hayır yok."
+            }
+          ],
+          "formula": "have / has got + isim",
+          "tip": "“Does she have a car?” ve “Has she got a car?” doğru iki farklı yapıdır. “Does she has got” şeklinde karıştırma."
+        },
+        {
+          "title": "Mini diyalog: Yeni biriyle tanış",
+          "text": "Kendini üç bilgiyle tanıt: adın, nereli olduğun ve bir özelliğin. Sonra sahip olduğun bir şeyi ekle. Kısa cevapları tam cümleyle genişleterek konuşmayı sürdürebilirsin.",
+          "examples": [
+            {
+              "en": "A: Hi, I’m Ece. I’m from Ankara. Are you new here?",
+              "tr": "A: Merhaba, ben Ece. Ankaralıyım. Burada yeni misin?"
+            },
+            {
+              "en": "B: Yes, I am. My name is Leo. I’ve got a flat near the station.",
+              "tr": "B: Evet. Adım Leo. İstasyonun yakınında bir dairem var."
+            },
+            {
+              "en": "Kendin söyle: I’m ___. I’m from ___. I’ve got ___.",
+              "tr": "Boşlukları kendi bilgilerinle tamamla."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "My parents ___ at home.",
+          "choices": [
+            "is",
+            "are",
+            "am"
+          ],
+          "answer": 1,
+          "explanation": "My parents çoğuldur ve they gibi düşünülür. Bu nedenle are gerekir."
+        },
+        {
+          "prompt": "___ she a nurse?",
+          "choices": [
+            "Is",
+            "Does",
+            "Have"
+          ],
+          "answer": 0,
+          "explanation": "Meslek be fiiliyle anlatılır. Soru için is öznenin önüne gelir."
+        },
+        {
+          "prompt": "He ___ got blue eyes.",
+          "choices": [
+            "have",
+            "is",
+            "has"
+          ],
+          "answer": 2,
+          "explanation": "He ile has got kullanılır. Göz rengi bir fiziksel özellik olarak anlatılıyor."
+        },
+        {
+          "prompt": "“Are you tired?” — “Yes, I ___.”",
+          "choices": [
+            "do",
+            "am",
+            "have"
+          ],
+          "answer": 1,
+          "explanation": "Be ile sorulan sorunun kısa yanıtında be korunur: I am."
+        },
+        {
+          "prompt": "Choose the correct sentence.",
+          "choices": [
+            "I am eighteen years old.",
+            "I have eighteen years.",
+            "I got eighteen old."
+          ],
+          "answer": 0,
+          "explanation": "İngilizcede yaş, be + sayı + years old yapısıyla ifade edilir."
+        }
+      ]
+    },
+    {
+      "id": "a2-present-simple",
+      "level": "A2",
+      "title": "Present Simple",
+      "subtitle": "Günlük rutinlerini ve alışkanlıklarını anlat.",
+      "category": "Zamanlar",
+      "icon": "◷",
+      "minutes": 14,
+      "words": [
+        {
+          "word": "usually",
+          "meaning": "genellikle"
+        },
+        {
+          "word": "sometimes",
+          "meaning": "bazen"
+        },
+        {
+          "word": "never",
+          "meaning": "asla"
+        },
+        {
+          "word": "wake up",
+          "meaning": "uyanmak"
+        },
+        {
+          "word": "commute",
+          "meaning": "işe veya okula gidip gelmek"
+        },
+        {
+          "word": "every day",
+          "meaning": "her gün"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Tekrarlanan işler ve genel bilgiler",
+          "text": "Present Simple, alışkanlıklar, rutinler ve genel doğrular için kullanılır. I, you, we ve they ile fiilin yalın hâli gelir. He, she ve it ile fiile çoğunlukla -s eklenir.",
+          "examples": [
+            {
+              "en": "I work in a café.",
+              "tr": "Bir kafede çalışıyorum."
+            },
+            {
+              "en": "She works from home.",
+              "tr": "O evden çalışıyor."
+            },
+            {
+              "en": "Water boils at 100°C at sea level.",
+              "tr": "Su deniz seviyesinde 100°C’de kaynar."
+            }
+          ],
+          "formula": "I/You/We/They + fiil · He/She/It + fiil-s"
+        },
+        {
+          "title": "He/she/it için yazım değişiklikleri",
+          "text": "Go → goes ve watch → watches gibi fiiller -es alır. Sonu sessiz + y ile biten study gibi fiillerde y, i olur: studies. Ancak play → plays olur; çünkü y öncesinde sesli harf vardır.",
+          "examples": [
+            {
+              "en": "My brother watches TV after dinner.",
+              "tr": "Erkek kardeşim akşam yemeğinden sonra televizyon izler."
+            },
+            {
+              "en": "Ece studies English every evening.",
+              "tr": "Ece her akşam İngilizce çalışır."
+            },
+            {
+              "en": "He plays tennis on Saturdays.",
+              "tr": "Cumartesi günleri tenis oynar."
+            }
+          ]
+        },
+        {
+          "title": "Do/does ile soru ve olumsuz",
+          "text": "I/you/we/they ile do/don’t; he/she/it ile does/doesn’t kullanılır. Does yardımcı fiili varsa ana fiile -s eklenmez. Wh- sorularında soru sözcüğü yardımcı fiilden önce gelir.",
+          "examples": [
+            {
+              "en": "Do you walk to work? — Yes, I do.",
+              "tr": "İşe yürüyerek mi gidiyorsun? — Evet."
+            },
+            {
+              "en": "She doesn’t drink coffee.",
+              "tr": "O kahve içmez."
+            },
+            {
+              "en": "What time does he start work?",
+              "tr": "İşe saat kaçta başlıyor?"
+            }
+          ],
+          "tip": "“Does she works?” yerine “Does she work?” kullan. Üçüncü kişi bilgisi does içinde zaten vardır."
+        },
+        {
+          "title": "Sıklık zarfları ve bir günlük rutin",
+          "text": "Usually, often, sometimes ve never gibi sıklık zarfları çoğunlukla ana fiilden önce, be fiilinden sonra gelir. Every day ve on Mondays gibi zaman ifadeleri genellikle cümlenin sonunda bulunur.",
+          "examples": [
+            {
+              "en": "I usually get up at seven. I sometimes take the bus.",
+              "tr": "Genellikle yedide kalkarım. Bazen otobüse binerim."
+            },
+            {
+              "en": "She is often tired after work.",
+              "tr": "İşten sonra sık sık yorgun olur."
+            },
+            {
+              "en": "I never eat breakfast late.",
+              "tr": "Kahvaltıyı asla geç yapmam."
+            }
+          ],
+          "tip": "Never zaten olumsuz anlam taşır. “I don’t never go” yerine “I never go” kullan."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "She ___ to work by bus.",
+          "choices": [
+            "go",
+            "goes",
+            "going"
+          ],
+          "answer": 1,
+          "explanation": "She ile Present Simple olumlu cümlede goes gerekir."
+        },
+        {
+          "prompt": "___ they live near here?",
+          "choices": [
+            "Do",
+            "Does",
+            "Are"
+          ],
+          "answer": 0,
+          "explanation": "They ile bir eylem sorusu için do kullanılır."
+        },
+        {
+          "prompt": "He doesn’t ___ meat.",
+          "choices": [
+            "eats",
+            "eating",
+            "eat"
+          ],
+          "answer": 2,
+          "explanation": "Doesn’t sonrasında ana fiil yalın kalır: eat."
+        },
+        {
+          "prompt": "Be fiili ve sıklık zarfıyla en doğal, nötr sözcük sırasını seç.",
+          "choices": [
+            "She usually is late.",
+            "She is usually late.",
+            "She late usually."
+          ],
+          "answer": 1,
+          "explanation": "Sıklık zarfı usually, be fiilinden sonra doğal biçimde yer alır: is usually late."
+        },
+        {
+          "prompt": "My sister ___ English every day.",
+          "choices": [
+            "studies",
+            "studys",
+            "study"
+          ],
+          "answer": 0,
+          "explanation": "Study sessiz + y ile biter. Üçüncü tekil kişide studies olur."
+        }
+      ]
+    },
+    {
+      "id": "a2-present-continuous",
+      "level": "A2",
+      "title": "Present Continuous",
+      "subtitle": "Şu anda neler olduğunu söyle.",
+      "category": "Zamanlar",
+      "icon": "◴",
+      "minutes": 13,
+      "words": [
+        {
+          "word": "at the moment",
+          "meaning": "şu anda"
+        },
+        {
+          "word": "wait",
+          "meaning": "beklemek"
+        },
+        {
+          "word": "wear",
+          "meaning": "giymiş olmak"
+        },
+        {
+          "word": "look for",
+          "meaning": "aramak"
+        },
+        {
+          "word": "temporary",
+          "meaning": "geçici"
+        },
+        {
+          "word": "right now",
+          "meaning": "tam şu anda"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Şu anda devam eden eylem",
+          "text": "Konuşma anında devam eden bir işi anlatmak için am/is/are + fiil-ing kullanılır. Be fiilini atlama. Now, right now ve at the moment ifadeleri bu anlamı destekler.",
+          "examples": [
+            {
+              "en": "I’m reading an email.",
+              "tr": "Bir e-posta okuyorum."
+            },
+            {
+              "en": "They are waiting for the bus.",
+              "tr": "Otobüs bekliyorlar."
+            },
+            {
+              "en": "Look! The dog is running.",
+              "tr": "Bak! Köpek koşuyor."
+            }
+          ],
+          "formula": "am / is / are + V-ing"
+        },
+        {
+          "title": "Olumsuz, soru ve yazım",
+          "text": "Olumsuzda am not/isn’t/aren’t kullanılır. Soruda be fiili öne gelir. Make → making biçiminde sondaki e düşer; run → running biçiminde bazı kısa fiillerde son sessiz tekrarlanır.",
+          "examples": [
+            {
+              "en": "Are you listening to me?",
+              "tr": "Beni dinliyor musun?"
+            },
+            {
+              "en": "He isn’t working today.",
+              "tr": "Bugün çalışmıyor."
+            },
+            {
+              "en": "She is making dinner.",
+              "tr": "Akşam yemeği hazırlıyor."
+            }
+          ],
+          "tip": "“They working” eksiktir. “They are working” olmalı."
+        },
+        {
+          "title": "Her gün ile şu anı ayır",
+          "text": "Present Simple rutinleri, Present Continuous ise şu anda veya bu dönemde süren durumları anlatır. Geçici bir durum konuşma anında tam olarak gerçekleşmese bile Continuous kullanılabilir.",
+          "examples": [
+            {
+              "en": "I usually work in Ankara, but I’m working in Izmir this week.",
+              "tr": "Normalde Ankara’da çalışıyorum ama bu hafta İzmir’de çalışıyorum."
+            },
+            {
+              "en": "She wears glasses. Today, she is wearing contact lenses.",
+              "tr": "Gözlük takar. Bugün kontakt lens takıyor."
+            }
+          ],
+          "tip": "Know, want ve like gibi bazı durum fiilleri bu temel anlamlarında genellikle Continuous kullanılmaz: I know, “I am knowing” değil."
+        },
+        {
+          "title": "Mini diyalog: Telefonda konuşma",
+          "text": "Karşındakinin o anda ne yaptığını sor. Cevabında eylemi, yeri ve geçici bir durumu belirt. Böylece bir dil bilgisi kalıbını gerçek bir konuşma içinde kullanırsın.",
+          "examples": [
+            {
+              "en": "A: What are you doing?",
+              "tr": "A: Ne yapıyorsun?"
+            },
+            {
+              "en": "B: I’m looking for my keys. Are you waiting outside?",
+              "tr": "B: Anahtarlarımı arıyorum. Dışarıda mı bekliyorsun?"
+            },
+            {
+              "en": "A: Yes, I am. I’m wearing a blue jacket.",
+              "tr": "A: Evet. Mavi bir ceket giyiyorum."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "They ___ watching a film now.",
+          "choices": [
+            "is",
+            "are",
+            "do"
+          ],
+          "answer": 1,
+          "explanation": "They ile are kullanılır. Watching ile birlikte Present Continuous kurulur."
+        },
+        {
+          "prompt": "She is ___ dinner.",
+          "choices": [
+            "making",
+            "makeing",
+            "makes"
+          ],
+          "answer": 0,
+          "explanation": "Make fiilinde -ing eklenmeden önce sondaki e düşer: making."
+        },
+        {
+          "prompt": "Which sentence describes a routine?",
+          "choices": [
+            "I’m walking now.",
+            "She is waiting outside.",
+            "I walk to school every day."
+          ],
+          "answer": 2,
+          "explanation": "Every day ile tekrarlanan bir rutin, Present Simple ile anlatılır."
+        },
+        {
+          "prompt": "___ you studying at the moment?",
+          "choices": [
+            "Do",
+            "Are",
+            "Does"
+          ],
+          "answer": 1,
+          "explanation": "Studying devam eden eylemdir. You ile soru Are you studying …? biçimindedir."
+        },
+        {
+          "prompt": "Choose the correct sentence.",
+          "choices": [
+            "I want a glass of water.",
+            "I am wanting water in this basic use.",
+            "I wanting a water."
+          ],
+          "answer": 0,
+          "explanation": "Want temel istek anlamında genellikle Simple biçiminde kullanılır: I want."
+        }
+      ]
+    },
+    {
+      "id": "a2-past-simple",
+      "level": "A2",
+      "title": "Past Simple",
+      "subtitle": "Dün ne yaptığını ve geçen hafta olanları anlat.",
+      "category": "Zamanlar",
+      "icon": "↶",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "yesterday",
+          "meaning": "dün"
+        },
+        {
+          "word": "last week",
+          "meaning": "geçen hafta"
+        },
+        {
+          "word": "ago",
+          "meaning": "önce"
+        },
+        {
+          "word": "visit",
+          "meaning": "ziyaret etmek"
+        },
+        {
+          "word": "buy",
+          "meaning": "satın almak"
+        },
+        {
+          "word": "enjoy",
+          "meaning": "keyif almak"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Bitmiş geçmiş olaylar",
+          "text": "Past Simple geçmişte bitmiş olayları anlatır. Yesterday, last night, two days ago gibi ifadeler yaygındır. Düzenli fiiller genellikle -ed alır; düzensiz fiillerin özel geçmiş biçimleri vardır.",
+          "examples": [
+            {
+              "en": "I visited my grandparents yesterday.",
+              "tr": "Dün büyükanne ve büyükbabamı ziyaret ettim."
+            },
+            {
+              "en": "We watched a film last night.",
+              "tr": "Dün gece bir film izledik."
+            },
+            {
+              "en": "She went to the market.",
+              "tr": "O pazara gitti."
+            }
+          ],
+          "formula": "Olumlu: Özne + V2"
+        },
+        {
+          "title": "Düzenli ve düzensiz fiiller",
+          "text": "Live → lived, study → studied, stop → stopped biçimlerini incele. Sık kullanılan go–went, have–had, see–saw, buy–bought gibi düzensiz fiilleri kısa örneklerle öğren. Past Simple olumlu cümlede eylem fiili özneye göre ayrıca -s almaz.",
+          "examples": [
+            {
+              "en": "He bought a new coat.",
+              "tr": "Yeni bir palto aldı."
+            },
+            {
+              "en": "They had lunch at one.",
+              "tr": "Saat birde öğle yemeği yediler."
+            },
+            {
+              "en": "I studied for two hours.",
+              "tr": "İki saat ders çalıştım."
+            }
+          ]
+        },
+        {
+          "title": "Did/didn’t ve was/were",
+          "text": "Eylem fiilleriyle soru did + özne + yalın fiil, olumsuz didn’t + yalın fiil olur. Be fiilinin geçmişi farklıdır: I/he/she/it was, you/we/they were. Be ile ayrıca did kullanılmaz.",
+          "examples": [
+            {
+              "en": "Did you see Deniz? — No, I didn’t.",
+              "tr": "Deniz’i gördün mü? — Hayır, görmedim."
+            },
+            {
+              "en": "We didn’t stay long.",
+              "tr": "Uzun süre kalmadık."
+            },
+            {
+              "en": "Were you at home yesterday?",
+              "tr": "Dün evde miydin?"
+            }
+          ],
+          "tip": "“Did you went?” değil “Did you go?” kullan. “I didn’t saw” değil “I didn’t see” doğrudur."
+        },
+        {
+          "title": "Kısa okuma: Güzel bir cumartesi",
+          "text": "Olayları sırayla anlatırken önce zaman ifadesi ver. Sonra then ve after that gibi ifadelerle devam et. Aşağıdaki metni kendi hafta sonuna göre yeniden anlat.",
+          "examples": [
+            {
+              "en": "Last Saturday, I met a friend in the city centre.",
+              "tr": "Geçen cumartesi şehir merkezinde bir arkadaşımla buluştum."
+            },
+            {
+              "en": "We had coffee and visited a small museum. Then we walked by the river.",
+              "tr": "Kahve içtik ve küçük bir müzeyi ziyaret ettik. Sonra nehir kenarında yürüdük."
+            },
+            {
+              "en": "I got home at six. I was tired, but I enjoyed the day.",
+              "tr": "Altıda eve vardım. Yorgundum ama günden keyif aldım."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "Yesterday, we ___ to the park.",
+          "choices": [
+            "go",
+            "went",
+            "gone"
+          ],
+          "answer": 1,
+          "explanation": "Go fiilinin Past Simple biçimi went olur."
+        },
+        {
+          "prompt": "Did she ___ the film?",
+          "choices": [
+            "like",
+            "liked",
+            "likes"
+          ],
+          "answer": 0,
+          "explanation": "Did sonrasında yalın fiil kullanılır: like."
+        },
+        {
+          "prompt": "They ___ at home last night.",
+          "choices": [
+            "was",
+            "are",
+            "were"
+          ],
+          "answer": 2,
+          "explanation": "Geçmiş zaman ve çoğul they için were gerekir."
+        },
+        {
+          "prompt": "He didn’t ___ breakfast.",
+          "choices": [
+            "had",
+            "have",
+            "has"
+          ],
+          "answer": 1,
+          "explanation": "Didn’t sonrasında have yalın biçimi kullanılır."
+        },
+        {
+          "prompt": "Choose the correct past form of “study”.",
+          "choices": [
+            "studied",
+            "studyed",
+            "studyd"
+          ],
+          "answer": 0,
+          "explanation": "Sessiz + y ile biten study, düzenli geçmişte studied olur."
+        }
+      ]
+    },
+    {
+      "id": "a2-countable-uncountable",
+      "level": "A2",
+      "title": "Some, Any, Much & Many",
+      "subtitle": "Alışverişte miktarları doğru ifade et.",
+      "category": "Temel yapılar",
+      "icon": "▦",
+      "minutes": 14,
+      "words": [
+        {
+          "word": "a bottle of",
+          "meaning": "bir şişe"
+        },
+        {
+          "word": "a loaf of",
+          "meaning": "bir somun"
+        },
+        {
+          "word": "a few",
+          "meaning": "birkaç; sayılabilen"
+        },
+        {
+          "word": "a little",
+          "meaning": "biraz; sayılamayan"
+        },
+        {
+          "word": "enough",
+          "meaning": "yeterli"
+        },
+        {
+          "word": "sugar",
+          "meaning": "şeker"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Sayılabilen ve sayılamayan isimler",
+          "text": "Apple gibi sayılabilen isimlerin tekil ve çoğul biçimleri vardır. Water, rice ve information gibi sayılamayan isimler genel miktar anlatırken çoğul yapılmaz. Miktarı belirtmek için a glass of water gibi birim kullanabilirsin.",
+          "examples": [
+            {
+              "en": "I need three apples.",
+              "tr": "Üç elmaya ihtiyacım var."
+            },
+            {
+              "en": "Can I have a glass of water?",
+              "tr": "Bir bardak su alabilir miyim?"
+            },
+            {
+              "en": "We bought two bottles of milk.",
+              "tr": "İki şişe süt aldık."
+            }
+          ],
+          "tip": "“Two informations” yerine “two pieces of information” kullan. Information genellikle sayılamaz."
+        },
+        {
+          "title": "Some ve any",
+          "text": "Some çoğunlukla olumlu, any çoğunlukla soru ve olumsuz cümlelerde kullanılır. Ancak tekliflerde ve cevabın olumlu olmasını beklediğimiz nazik isteklerde soruyla da some kullanabiliriz.",
+          "examples": [
+            {
+              "en": "There is some cheese in the fridge.",
+              "tr": "Buzdolabında biraz peynir var."
+            },
+            {
+              "en": "We haven’t got any eggs.",
+              "tr": "Hiç yumurtamız yok."
+            },
+            {
+              "en": "Would you like some tea?",
+              "tr": "Biraz çay ister misin?"
+            }
+          ]
+        },
+        {
+          "title": "How much ve how many",
+          "text": "Sayılabilen çoğul isimlerle many, sayılamayanlarla much kullanılır. A lot of her ikisiyle de kullanılabilir. A few sayılabilen çoğullarla; a little sayılamayanlarla kullanılır ve ikisi de az da olsa miktar bulunduğunu belirtir.",
+          "examples": [
+            {
+              "en": "How many chairs do we need?",
+              "tr": "Kaç sandalyeye ihtiyacımız var?"
+            },
+            {
+              "en": "How much rice is there?",
+              "tr": "Ne kadar pirinç var?"
+            },
+            {
+              "en": "There are a few biscuits and a little milk.",
+              "tr": "Birkaç bisküvi ve biraz süt var."
+            }
+          ],
+          "formula": "many + çoğul isim · much + sayılamayan isim"
+        },
+        {
+          "title": "Mini diyalog: Market listesi",
+          "text": "Miktar sorarken önce ismin sayılıp sayılmadığını belirle. Ekmek veya süt gibi ürünlerde birim kullanmak isteğini daha açık yapar.",
+          "examples": [
+            {
+              "en": "A: Have we got any bread?",
+              "tr": "A: Ekmeğimiz var mı?"
+            },
+            {
+              "en": "B: A little. We need a loaf of bread and some eggs.",
+              "tr": "B: Biraz var. Bir somun ekmeğe ve biraz yumurtaya ihtiyacımız var."
+            },
+            {
+              "en": "A: How many eggs? — B: Six, please.",
+              "tr": "A: Kaç yumurta? — B: Altı tane lütfen."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "How ___ apples do you need?",
+          "choices": [
+            "much",
+            "many",
+            "little"
+          ],
+          "answer": 1,
+          "explanation": "Apples sayılabilen çoğul isimdir. How many kullanılır."
+        },
+        {
+          "prompt": "We haven’t got ___ milk.",
+          "choices": [
+            "any",
+            "many",
+            "a few"
+          ],
+          "answer": 0,
+          "explanation": "Olumsuz cümlede milk ile any doğal seçimdir. Many ve a few sayılabilen çoğullar içindir."
+        },
+        {
+          "prompt": "Would you like ___ coffee?",
+          "choices": [
+            "many",
+            "a few",
+            "some"
+          ],
+          "answer": 2,
+          "explanation": "Teklif içeren sorularda some kullanılabilir. Coffee burada sayılamayan içecek miktarıdır."
+        },
+        {
+          "prompt": "There is ___ water in the bottle.",
+          "choices": [
+            "a few",
+            "a little",
+            "many"
+          ],
+          "answer": 1,
+          "explanation": "Water sayılamayan isimdir; a little uygundur."
+        },
+        {
+          "prompt": "Choose the correct phrase.",
+          "choices": [
+            "two bottles of water",
+            "two waters of bottle",
+            "many water"
+          ],
+          "answer": 0,
+          "explanation": "Sayılamayan water için bottles gibi sayılabilen bir birim kullanılabilir."
+        }
+      ]
+    },
+    {
+      "id": "a2-articles",
+      "level": "A2",
+      "title": "A, An, The & No Article",
+      "subtitle": "Bir şeyden ilk kez mi, tekrar mı söz ediyorsun?",
+      "category": "Temel yapılar",
+      "icon": "Aa",
+      "minutes": 12,
+      "words": [
+        {
+          "word": "hour",
+          "meaning": "saat; süre"
+        },
+        {
+          "word": "university",
+          "meaning": "üniversite"
+        },
+        {
+          "word": "umbrella",
+          "meaning": "şemsiye"
+        },
+        {
+          "word": "address",
+          "meaning": "adres"
+        },
+        {
+          "word": "engineer",
+          "meaning": "mühendis"
+        },
+        {
+          "word": "useful",
+          "meaning": "yararlı"
+        }
+      ],
+      "sections": [
+        {
+          "title": "A/an: Bir tane, henüz belirli değil",
+          "text": "Tekil sayılabilen bir isimden genel olarak veya ilk kez söz ederken a/an kullanılır. A ya da an seçimi yazılışa değil, sonraki kelimenin ilk sesine bağlıdır.",
+          "examples": [
+            {
+              "en": "I saw a dog in the street.",
+              "tr": "Sokakta bir köpek gördüm."
+            },
+            {
+              "en": "She is an engineer.",
+              "tr": "O bir mühendis."
+            },
+            {
+              "en": "It’s a useful book.",
+              "tr": "Bu yararlı bir kitap."
+            }
+          ],
+          "formula": "a + sessiz ses · an + sesli ses"
+        },
+        {
+          "title": "İlk harf değil ilk ses",
+          "text": "Hour kelimesinde h okunmadığı için an hour denir. University kelimesi /y/ sesiyle başladığı için a university kullanılır. Sıfat varsa isimden önceki ilk ses sıfata aittir: an old car.",
+          "examples": [
+            {
+              "en": "We waited for an hour.",
+              "tr": "Bir saat bekledik."
+            },
+            {
+              "en": "He studies at a university.",
+              "tr": "Bir üniversitede okuyor."
+            },
+            {
+              "en": "I’ve got an old umbrella.",
+              "tr": "Eski bir şemsiyem var."
+            }
+          ]
+        },
+        {
+          "title": "The: Hangi şey olduğu belli",
+          "text": "Bir şeyden tekrar söz ederken veya konuşan ve dinleyen hangi şey olduğunu biliyorsa the kullanılır. The hem tekil/çoğul sayılabilenlerle hem sayılamayanlarla kullanılabilir.",
+          "examples": [
+            {
+              "en": "I bought a book. The book is about animals.",
+              "tr": "Bir kitap aldım. Kitap hayvanlarla ilgili."
+            },
+            {
+              "en": "Please close the door.",
+              "tr": "Lütfen kapıyı kapat."
+            },
+            {
+              "en": "The water in this bottle is cold.",
+              "tr": "Bu şişedeki su soğuk."
+            }
+          ]
+        },
+        {
+          "title": "Genel anlamda article kullanmamak",
+          "text": "Çoğul ve sayılamayan isimlerle genel bir türden söz ederken genellikle article kullanılmaz. Belli bir grup veya miktar söz konusuysa the kullanılabilir. Meslek bildiren tekil isimlerde ise a/an gerekir.",
+          "examples": [
+            {
+              "en": "Dogs are friendly animals.",
+              "tr": "Köpekler arkadaş canlısı hayvanlardır."
+            },
+            {
+              "en": "I like music.",
+              "tr": "Müziği severim."
+            },
+            {
+              "en": "The dogs in our street are very quiet.",
+              "tr": "Bizim sokaktaki köpekler çok sessiz."
+            }
+          ],
+          "tip": "“She is teacher” yerine “She is a teacher” kullan. Genel anlamda “I like the music” yerine “I like music” denir; belli bir müzikten bahsediyorsan the mümkündür."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "She is ___ doctor.",
+          "choices": [
+            "an",
+            "a",
+            "the one of"
+          ],
+          "answer": 1,
+          "explanation": "Doctor sessiz sesle başlayan tekil bir meslek ismidir: a doctor."
+        },
+        {
+          "prompt": "We waited for ___ hour.",
+          "choices": [
+            "an",
+            "a",
+            "some"
+          ],
+          "answer": 0,
+          "explanation": "Hour sesli sesle başlar; h okunmaz. Bu yüzden an hour kullanılır."
+        },
+        {
+          "prompt": "I bought a bag. ___ bag is blue.",
+          "choices": [
+            "A",
+            "An",
+            "The"
+          ],
+          "answer": 2,
+          "explanation": "İkinci cümlede daha önce tanıtılmış belirli çantadan söz ediliyor: the bag."
+        },
+        {
+          "prompt": "He studies at ___ university.",
+          "choices": [
+            "an",
+            "a",
+            "any of"
+          ],
+          "answer": 1,
+          "explanation": "University /y/ sesiyle başlar. İlk harf sesli olsa da a kullanılır."
+        },
+        {
+          "prompt": "Which sentence talks about music in general?",
+          "choices": [
+            "I like music.",
+            "I like a music.",
+            "I like an music."
+          ],
+          "answer": 0,
+          "explanation": "Music sayılamayan bir isimdir. Genel anlamda article kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "a2-prepositions",
+      "level": "A2",
+      "title": "Prepositions of Time & Place",
+      "subtitle": "Ne zaman ve nerede olduğunu anlat.",
+      "category": "Günlük İngilizce",
+      "icon": "⌖",
+      "minutes": 13,
+      "words": [
+        {
+          "word": "between",
+          "meaning": "arasında; iki şey"
+        },
+        {
+          "word": "opposite",
+          "meaning": "karşısında"
+        },
+        {
+          "word": "next to",
+          "meaning": "yanında"
+        },
+        {
+          "word": "behind",
+          "meaning": "arkasında"
+        },
+        {
+          "word": "in front of",
+          "meaning": "önünde"
+        },
+        {
+          "word": "on time",
+          "meaning": "zamanında"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Zamanda in, on ve at",
+          "text": "Saatler ve bazı kalıp zamanlar için at; günler ve tarihler için on; aylar, yıllar ve uzun dönemler için in kullanılır. Her kullanımın tek bir Türkçe karşılığı olmadığı için örnekleri kalıp olarak öğren.",
+          "examples": [
+            {
+              "en": "The lesson starts at nine.",
+              "tr": "Ders saat dokuzda başlar."
+            },
+            {
+              "en": "My birthday is on 12 May.",
+              "tr": "Doğum günüm 12 Mayıs’ta."
+            },
+            {
+              "en": "We go on holiday in August.",
+              "tr": "Ağustosta tatile gideriz."
+            }
+          ],
+          "formula": "at 8:00 · on Monday · in July / in 2026"
+        },
+        {
+          "title": "Günün bölümleri ve özel ifadeler",
+          "text": "In the morning/afternoon/evening yaygındır; at night özel bir kalıptır. Belirli bir günün sabahını anlatırken on Monday morning kullanılır. Next, last, this ve every ile başlayan zaman ifadelerinden önce genellikle edat gelmez.",
+          "examples": [
+            {
+              "en": "I study in the evening.",
+              "tr": "Akşamları ders çalışırım."
+            },
+            {
+              "en": "We’re meeting on Friday afternoon.",
+              "tr": "Cuma öğleden sonra buluşuyoruz."
+            },
+            {
+              "en": "I saw her last week.",
+              "tr": "Onu geçen hafta gördüm."
+            }
+          ],
+          "tip": "“In next week” yerine “next week” kullan. “At Monday” değil “on Monday” doğrudur."
+        },
+        {
+          "title": "Yerde in, on ve at",
+          "text": "In bir alanın veya şeyin içinde olmayı; on bir yüzey üzerinde olmayı anlatır. At ise bir noktayı veya etkinlik yerini vurgulayabilir. Bir yere at veya in seçimi bazen vermek istediğin bakış açısına bağlıdır.",
+          "examples": [
+            {
+              "en": "The keys are in my bag.",
+              "tr": "Anahtarlar çantamın içinde."
+            },
+            {
+              "en": "The book is on the table.",
+              "tr": "Kitap masanın üstünde."
+            },
+            {
+              "en": "I’m waiting at the bus stop.",
+              "tr": "Otobüs durağında bekliyorum."
+            }
+          ]
+        },
+        {
+          "title": "Yer tarif et: Eşyalar ve binalar",
+          "text": "Bir binanın veya eşyanın yerini next to, opposite, behind ve between gibi ifadelerle anlatabilirsin. Between sonrasında iki nokta verildiğinde and ile bağla.",
+          "examples": [
+            {
+              "en": "The bank is next to the supermarket.",
+              "tr": "Banka süpermarketin yanında."
+            },
+            {
+              "en": "The café is between the bank and the cinema.",
+              "tr": "Kafe, banka ile sinemanın arasında."
+            },
+            {
+              "en": "A: Where is the pharmacy? — B: Opposite the station.",
+              "tr": "A: Eczane nerede? — B: İstasyonun karşısında."
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "The meeting is ___ Monday.",
+          "choices": [
+            "at",
+            "on",
+            "in"
+          ],
+          "answer": 1,
+          "explanation": "Gün adlarıyla on kullanılır: on Monday."
+        },
+        {
+          "prompt": "I wake up ___ seven o’clock.",
+          "choices": [
+            "at",
+            "on",
+            "in"
+          ],
+          "answer": 0,
+          "explanation": "Belirli saatlerle at kullanılır."
+        },
+        {
+          "prompt": "My keys are ___ my bag.",
+          "choices": [
+            "at into",
+            "between",
+            "in"
+          ],
+          "answer": 2,
+          "explanation": "Bir şeyin içinde bulunma durumu in ile anlatılır."
+        },
+        {
+          "prompt": "We’re visiting them ___ next week. Choose the correct form.",
+          "choices": [
+            "in",
+            "— (edat yok)",
+            "on"
+          ],
+          "answer": 1,
+          "explanation": "Next week öncesinde genellikle zaman edatı kullanılmaz."
+        },
+        {
+          "prompt": "The café is between the bank ___ the museum.",
+          "choices": [
+            "and",
+            "to",
+            "from"
+          ],
+          "answer": 0,
+          "explanation": "İki noktayı bağlayan yapı between … and … şeklindedir."
+        }
+      ]
+    },
+    {
+      "id": "a2-requests-shopping",
+      "level": "A2",
+      "title": "Everyday Requests & Shopping",
+      "subtitle": "Kafede sipariş ver, alışverişte yardım iste.",
+      "category": "Günlük İngilizce",
+      "icon": "☕",
+      "minutes": 14,
+      "words": [
+        {
+          "word": "size",
+          "meaning": "beden, boyut"
+        },
+        {
+          "word": "try on",
+          "meaning": "kıyafeti denemek"
+        },
+        {
+          "word": "receipt",
+          "meaning": "fiş, makbuz"
+        },
+        {
+          "word": "change",
+          "meaning": "para üstü, değişiklik"
+        },
+        {
+          "word": "menu",
+          "meaning": "menü"
+        },
+        {
+          "word": "bill",
+          "meaning": "hesap"
+        }
+      ],
+      "sections": [
+        {
+          "title": "I’d like: Nazik bir istek",
+          "text": "I’d like, I would like ifadesinin kısaltmasıdır. Bir isimle kullanıldığında “istiyorum” anlamını nazikçe verir. Fiil gelirse to + fiil kullanılır. Please isteği daha nazik kılar.",
+          "examples": [
+            {
+              "en": "I’d like a coffee, please.",
+              "tr": "Bir kahve istiyorum lütfen."
+            },
+            {
+              "en": "I’d like to try this jacket on.",
+              "tr": "Bu ceketi denemek istiyorum."
+            },
+            {
+              "en": "We’d like a table for two.",
+              "tr": "İki kişilik bir masa istiyoruz."
+            }
+          ],
+          "formula": "I’d like + isim · I’d like to + fiil"
+        },
+        {
+          "title": "Can I / Could I / Could you?",
+          "text": "Kendin için bir izin veya hizmet isterken Can I/Could I; birinden bir şey yapmasını isterken Could you kullanabilirsin. Could genellikle daha nazik bir ton verir. Bu yapıların ardından yalın fiil gelir.",
+          "examples": [
+            {
+              "en": "Could I see the menu, please?",
+              "tr": "Menüyü görebilir miyim lütfen?"
+            },
+            {
+              "en": "Could you help me?",
+              "tr": "Bana yardım edebilir misiniz?"
+            },
+            {
+              "en": "Can I pay by card?",
+              "tr": "Kartla ödeyebilir miyim?"
+            }
+          ],
+          "tip": "“Could you to help” yerine “Could you help” kullan. Could sonrasında to eklenmez."
+        },
+        {
+          "title": "Mağazada beden ve fiyat sor",
+          "text": "How much is …? tekil bir ürünün fiyatını sorar; çoğul ürünlerde How much are …? kullanılır. In a smaller/larger size daha küçük/büyük beden istemeyi sağlar.",
+          "examples": [
+            {
+              "en": "How much is this shirt?",
+              "tr": "Bu gömlek ne kadar?"
+            },
+            {
+              "en": "How much are these shoes?",
+              "tr": "Bu ayakkabılar ne kadar?"
+            },
+            {
+              "en": "Have you got this in a smaller size?",
+              "tr": "Bunun daha küçük bedeni var mı?"
+            }
+          ]
+        },
+        {
+          "title": "Diyalog: Kafede sipariş",
+          "text": "Siparişi verirken ürününü belirt, takip sorusuna cevap ver ve hesap veya fiş iste. Takeaway ve to go paket servis anlamında kullanılabilir; dine in ise içeride yemeyi belirtir.",
+          "examples": [
+            {
+              "en": "Server: What would you like? — Customer: I’d like a tea and a sandwich, please.",
+              "tr": "Görevli: Ne istersiniz? — Müşteri: Bir çay ve bir sandviç istiyorum lütfen."
+            },
+            {
+              "en": "Server: Eat in or takeaway? — Customer: Takeaway, please.",
+              "tr": "Görevli: Burada mı, paket mi? — Müşteri: Paket lütfen."
+            },
+            {
+              "en": "Customer: Could I have a receipt, please?",
+              "tr": "Müşteri: Bir fiş alabilir miyim lütfen?"
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "I’d like ___ this coat on.",
+          "choices": [
+            "trying",
+            "to try",
+            "try to"
+          ],
+          "answer": 1,
+          "explanation": "I’d like sonrasında fiil gelirse to + fiil kullanılır: to try."
+        },
+        {
+          "prompt": "Which is a polite request?",
+          "choices": [
+            "Could you help me, please?",
+            "You must helping me.",
+            "Help to me could."
+          ],
+          "answer": 0,
+          "explanation": "Could you + yalın fiil, nazik istek kalıbıdır."
+        },
+        {
+          "prompt": "How much ___ these trousers?",
+          "choices": [
+            "is",
+            "am",
+            "are"
+          ],
+          "answer": 2,
+          "explanation": "Trousers İngilizcede çoğul kabul edilir ve are ile kullanılır."
+        },
+        {
+          "prompt": "“Eat in or takeaway?” — You want to leave with your food. Say:",
+          "choices": [
+            "Eat in, please.",
+            "Takeaway, please.",
+            "I eat yesterday."
+          ],
+          "answer": 1,
+          "explanation": "Takeaway, yiyeceği paket olarak alıp gitmek demektir."
+        },
+        {
+          "prompt": "Choose the correct sentence.",
+          "choices": [
+            "Can I pay by card?",
+            "Can I to pay by card?",
+            "Can I paying by card?"
+          ],
+          "answer": 0,
+          "explanation": "Can sonrasında yalın fiil gelir: pay. To veya -ing eklenmez."
+        }
+      ]
+    },
+    {
+      "id": "b2-perfect-continuous",
+      "level": "B2",
+      "title": "Perfect Simple & Continuous",
+      "subtitle": "Sonuç, süreç ve geçmişteki öncelik.",
+      "category": "Zamanlar",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "achievement",
+          "meaning": "başarı"
+        },
+        {
+          "word": "ongoing",
+          "meaning": "devam eden"
+        },
+        {
+          "word": "exhausted",
+          "meaning": "bitkin"
+        },
+        {
+          "word": "deadline",
+          "meaning": "son teslim tarihi"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Sonuç mu, süreç mi?",
+          "text": "Present Perfect Simple tamamlanan sonuca veya sayıya; Continuous ise sürece ve süreye odaklanır. Süreç az önce bitmiş olabilir; etkisi şimdi görünür.",
+          "formula": "have/has + V3 | have/has been + V-ing",
+          "examples": [
+            {
+              "en": "I have written three reports. I have been writing all morning.",
+              "tr": "Üç rapor yazdım. Bütün sabah yazı yazıyorum."
+            }
+          ],
+          "tip": "Know ve believe gibi durum fiilleri normalde continuous kullanılmaz: I have known her for years."
+        },
+        {
+          "title": "Geçmişten daha önce",
+          "text": "Past Perfect geçmişteki bir referans noktasından önceki tamamlanmış işi anlatır. Past Perfect Continuous o noktaya kadar süren etkinliği vurgular.",
+          "formula": "had + V3 | had been + V-ing",
+          "examples": [
+            {
+              "en": "By the time the meeting started, we had been waiting for an hour.",
+              "tr": "Toplantı başladığında bir saattir bekliyorduk."
+            }
+          ],
+          "tip": "By the time ile verilen geçmiş olaydan önceki süreyi had been waiting ile anlatabilirsin."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "She ___ five applications so far.",
+          "choices": [
+            "has sent",
+            "has been sending",
+            "had send"
+          ],
+          "answer": 0,
+          "explanation": "Five applications tamamlanan sayıyı vurgular: has sent."
+        },
+        {
+          "prompt": "Your hands are covered in paint. ___?",
+          "choices": [
+            "Have you been painting",
+            "Had you paint",
+            "Do you painted"
+          ],
+          "answer": 0,
+          "explanation": "Şu an görünen bir etkinlik sonucu için Present Perfect Continuous kullanılır."
+        },
+        {
+          "prompt": "Before I arrived, they ___ all the tickets.",
+          "choices": [
+            "have sold",
+            "had sold",
+            "have been selling"
+          ],
+          "answer": 1,
+          "explanation": "Satış geçmişteki varıştan önce tamamlandı: had sold."
+        },
+        {
+          "prompt": "I ___ him since childhood.",
+          "choices": [
+            "have been knowing",
+            "am knowing",
+            "have known"
+          ],
+          "answer": 2,
+          "explanation": "Know bir durum fiilidir; burada have known kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "b2-mixed-conditionals",
+      "level": "B2",
+      "title": "Third & Mixed Conditionals",
+      "subtitle": "Geçmiş kararları ve bugünkü sonuçlarını tartış.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "regret",
+          "meaning": "pişmanlık"
+        },
+        {
+          "word": "outcome",
+          "meaning": "sonuç"
+        },
+        {
+          "word": "otherwise",
+          "meaning": "aksi takdirde"
+        },
+        {
+          "word": "opportunity",
+          "meaning": "fırsat"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Geçmişi farklı hayal et",
+          "text": "Third Conditional gerçekleşmemiş geçmiş koşulu ve yine geçmişteki olası sonucunu anlatır. Would yerine could olasılık veya yetenek, might daha belirsiz bir sonuç bildirebilir.",
+          "formula": "If + had + V3, would have + V3",
+          "examples": [
+            {
+              "en": "If we had left earlier, we would have caught the train.",
+              "tr": "Daha erken çıksaydık trene yetişirdik."
+            }
+          ],
+          "tip": "Standart koşul yan cümlesinde if we would have left yerine if we had left kullan."
+        },
+        {
+          "title": "Geçmişten bugüne sonuç",
+          "text": "Mixed Conditional ile geçmişteki bir olayın bugünkü varsayımsal sonucunu anlatırız. Zamanı now gibi ifadelerle açıkça belirt.",
+          "formula": "If + had + V3, would + fiil",
+          "examples": [
+            {
+              "en": "If I had accepted that job, I would live abroad now.",
+              "tr": "O işi kabul etseydim şimdi yurt dışında yaşıyor olurdum."
+            }
+          ],
+          "tip": "I wish I had studied harder geçmiş pişmanlık; I wish I knew the answer şu anki duruma yönelik dilektir."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "If she had saved the file, she ___ her work yesterday.",
+          "choices": [
+            "would not lose",
+            "would not have lost",
+            "will not lose"
+          ],
+          "answer": 1,
+          "explanation": "Geçmişteki varsayımsal sonuç would not have lost ile kurulur."
+        },
+        {
+          "prompt": "If I had taken that course, I ___ more confident now.",
+          "choices": [
+            "would be",
+            "would have been",
+            "had been"
+          ],
+          "answer": 0,
+          "explanation": "Now bugünkü sonucu gösterir: would be."
+        },
+        {
+          "prompt": "I wish I ___ more carefully before buying it last week.",
+          "choices": [
+            "think",
+            "would think",
+            "had thought"
+          ],
+          "answer": 2,
+          "explanation": "Geçmişteki bir karara yönelik pişmanlık had thought ile anlatılır."
+        },
+        {
+          "prompt": "If we ___ the warning, we might have avoided the delay.",
+          "choices": [
+            "had noticed",
+            "would notice",
+            "have noticed"
+          ],
+          "answer": 0,
+          "explanation": "Geçmişte gerçekleşmemiş koşul: if + had noticed."
+        }
+      ]
+    },
+    {
+      "id": "b2-modal-deduction",
+      "level": "B2",
+      "title": "Modals of Deduction",
+      "subtitle": "Kanıta dayanarak şimdi ve geçmiş hakkında çıkarım yap.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "evidence",
+          "meaning": "kanıt"
+        },
+        {
+          "word": "likelihood",
+          "meaning": "olasılık"
+        },
+        {
+          "word": "certain",
+          "meaning": "emin"
+        },
+        {
+          "word": "assumption",
+          "meaning": "varsayım"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Şimdiki durum hakkında çıkarım",
+          "text": "Must güçlü bir olumlu çıkarım, can’t güçlü bir olumsuz çıkarım anlatır. May, might ve could ise kesin olmayan ihtimalleri ifade eder. Bu kullanımda must bir zorunluluk değildir.",
+          "formula": "must / might / can’t + fiil",
+          "examples": [
+            {
+              "en": "The lights are on. Someone must be at home.",
+              "tr": "Işıklar açık. Evde biri olmalı."
+            }
+          ],
+          "tip": "Mustn’t yasak bildirir. “Olamaz” anlamındaki çıkarım için can’t kullan."
+        },
+        {
+          "title": "Geçmişi kanıtlardan yorumla",
+          "text": "Geçmişte ne olmuş olabileceğini anlatırken modal sonrasında have ve V3 kullan. Should have ise çoğunlukla yapılması beklenen ama yapılmamış bir işi veya eleştiriyi anlatır.",
+          "formula": "must / might / can’t have + V3",
+          "examples": [
+            {
+              "en": "She might have missed the bus; I am not sure.",
+              "tr": "Otobüsü kaçırmış olabilir; emin değilim."
+            }
+          ],
+          "tip": "Must have forgotten güçlü çıkarımdır; should have remembered eleştiri veya beklenti ifade eder."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "He has just eaten a huge meal. He ___ be hungry already.",
+          "choices": [
+            "must",
+            "can’t",
+            "should"
+          ],
+          "answer": 1,
+          "explanation": "Bağlam güçlü olumsuz çıkarım gerektirir: can’t be hungry."
+        },
+        {
+          "prompt": "The ground is wet. It ___ rained overnight.",
+          "choices": [
+            "must have",
+            "must be",
+            "must to"
+          ],
+          "answer": 0,
+          "explanation": "Geçmiş yağmur hakkında güçlü çıkarım: must have rained."
+        },
+        {
+          "prompt": "I am not sure where my keys are. I ___ left them at work.",
+          "choices": [
+            "can’t have",
+            "must to have",
+            "might have"
+          ],
+          "answer": 2,
+          "explanation": "Belirsiz bir geçmiş olasılık için might have kullanılır."
+        },
+        {
+          "prompt": "You ___ checked the address; we went to the wrong building.",
+          "choices": [
+            "should have",
+            "mustn’t",
+            "can have"
+          ],
+          "answer": 0,
+          "explanation": "Geçmişte yapılması gereken kontrol için should have checked kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "b2-passive-causative",
+      "level": "B2",
+      "title": "Advanced Passive & Causative",
+      "subtitle": "Resmî bilgi aktar ve yaptırdığın işleri anlat.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "estimate",
+          "meaning": "tahmin etmek"
+        },
+        {
+          "word": "renovate",
+          "meaning": "yenilemek"
+        },
+        {
+          "word": "arrange",
+          "meaning": "ayarlamak"
+        },
+        {
+          "word": "reliable",
+          "meaning": "güvenilir"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Edilgen raporlama",
+          "text": "Resmî haberlerde bilgiyi kimin söylediğinden çok aktarılan iddia öne çıkar. It is believed that… yapısı veya özne + is believed to… yapısı kullanılabilir.",
+          "formula": "It is believed that… | Subject + is believed to + fiil",
+          "examples": [
+            {
+              "en": "The building is believed to be over two hundred years old.",
+              "tr": "Binanın iki yüz yıldan daha eski olduğu düşünülüyor."
+            }
+          ],
+          "tip": "Daha önceki bir olayı anlatırken perfect infinitive kullan: He is believed to have left."
+        },
+        {
+          "title": "Bir işi başkasına yaptırmak",
+          "text": "Have/get something done, işi senin değil başka birinin yaptığını anlatır. Zaman have/get üzerinde gösterilir. Bu yapı bazen kişinin başına gelen istenmeyen olayı da anlatabilir.",
+          "formula": "have / get + nesne + V3",
+          "examples": [
+            {
+              "en": "We are having our kitchen renovated next month.",
+              "tr": "Gelecek ay mutfağımızı yeniletiyoruz."
+            }
+          ],
+          "tip": "I cut my hair işi kendim yaptım; I had my hair cut bir başkasına kestirdim anlamına gelir."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "The painting is believed ___ in the eighteenth century.",
+          "choices": [
+            "to have been created",
+            "to create",
+            "creating"
+          ],
+          "answer": 0,
+          "explanation": "Geçmişte yaratılma için edilgen perfect infinitive gerekir."
+        },
+        {
+          "prompt": "I had my laptop ___ by a technician.",
+          "choices": [
+            "repair",
+            "repairing",
+            "repaired"
+          ],
+          "answer": 2,
+          "explanation": "Have + nesne + V3: had my laptop repaired."
+        },
+        {
+          "prompt": "It ___ that the company will expand.",
+          "choices": [
+            "believes",
+            "is expected",
+            "has expected"
+          ],
+          "answer": 1,
+          "explanation": "Resmî edilgen raporlama yapısı it is expected that şeklindedir."
+        },
+        {
+          "prompt": "Tomorrow we will ___ the windows cleaned.",
+          "choices": [
+            "have",
+            "be",
+            "do"
+          ],
+          "answer": 0,
+          "explanation": "Başkasına yaptırılan iş: will have the windows cleaned."
+        }
+      ]
+    },
+    {
+      "id": "b2-relative-participle",
+      "level": "B2",
+      "title": "Relative & Participle Clauses",
+      "subtitle": "Ayrıntılı bilgileri daha akıcı cümlelere dönüştür.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "applicant",
+          "meaning": "başvuran kişi"
+        },
+        {
+          "word": "resident",
+          "meaning": "bölge sakini"
+        },
+        {
+          "word": "proposal",
+          "meaning": "öneri"
+        },
+        {
+          "word": "relevant",
+          "meaning": "ilgili"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Tanımlayan ve ek bilgi veren cümleler",
+          "text": "Defining relative clause hangi kişi veya şeyden söz edildiğini belirler. Non-defining clause virgülle ayrılır ve ek bilgi verir; bu yapıda that kullanılmaz. Whose sahiplik belirtir.",
+          "formula": "noun + who / which / whose…",
+          "examples": [
+            {
+              "en": "My sister, who lives in Ankara, is a translator.",
+              "tr": "Ankara’da yaşayan kız kardeşim çevirmen."
+            }
+          ],
+          "tip": "Nesne olan zamir defining yapılarda atılabilir: the book (that) I bought. Özne olan zamiri tek başına atma."
+        },
+        {
+          "title": "Etken ve edilgen kısaltmalar",
+          "text": "Öznesi nitelenen isim olan bazı relative clause yapıları kısaltılabilir. Etken anlamda -ing, edilgen anlamda V3 kullanılır. Her relative clause mekanik olarak kısaltılamaz; zaman ve anlam korunmalıdır.",
+          "formula": "people working… | documents written…",
+          "examples": [
+            {
+              "en": "The documents attached to this email contain the details.",
+              "tr": "Bu e-postaya eklenen belgeler ayrıntıları içeriyor."
+            }
+          ],
+          "tip": "The people who work here → the people working here; the report which was published → the report published."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "The candidate ___ experience impressed us got the job.",
+          "choices": [
+            "who",
+            "whose",
+            "which"
+          ],
+          "answer": 1,
+          "explanation": "Adayın deneyimi: sahiplik bildiren whose gerekir."
+        },
+        {
+          "prompt": "The report, ___ was published yesterday, is available online.",
+          "choices": [
+            "that",
+            "what",
+            "which"
+          ],
+          "answer": 2,
+          "explanation": "Virgülle ayrılan non-defining yapıda which kullanılır; that kullanılmaz."
+        },
+        {
+          "prompt": "People ___ near the airport often complain about noise.",
+          "choices": [
+            "living",
+            "lived",
+            "are living"
+          ],
+          "answer": 0,
+          "explanation": "People who live near… etken kısaltması people living near… olur."
+        },
+        {
+          "prompt": "The equipment ___ in this laboratory is very expensive.",
+          "choices": [
+            "using",
+            "used",
+            "uses"
+          ],
+          "answer": 1,
+          "explanation": "Laboratuvarda kullanılan ekipman edilgendir: equipment used."
+        }
+      ]
+    },
+    {
+      "id": "b2-reported-speech",
+      "level": "B2",
+      "title": "Reported Speech & Reporting Verbs",
+      "subtitle": "İddiaları, önerileri ve soruları doğru aktar.",
+      "category": "İletişim",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "deny",
+          "meaning": "inkâr etmek"
+        },
+        {
+          "word": "admit",
+          "meaning": "kabul etmek"
+        },
+        {
+          "word": "persuade",
+          "meaning": "ikna etmek"
+        },
+        {
+          "word": "recommend",
+          "meaning": "önermek"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dolaylı soru ve zaman ilişkisi",
+          "text": "Dolaylı sorularda soru sözcüğünden sonra düz cümle sırası kullanılır. Evet/hayır soruları if veya whether ile aktarılır. Geçmiş bir reporting verb sonrasında zaman sıklıkla geriye kayar; hâlâ geçerli bilgilerde bu kayma her zaman zorunlu değildir.",
+          "formula": "asked + if / whether / question word + subject + verb",
+          "examples": [
+            {
+              "en": "She asked where I had bought the book.",
+              "tr": "Kitabı nereden aldığımı sordu."
+            }
+          ],
+          "tip": "She asked where did I buy… kullanma; dolaylı soruda did ile devrik sıra kurulmaz."
+        },
+        {
+          "title": "Fiile göre tamamlayıcı seç",
+          "text": "Reporting verb sonrasındaki yapı fiile bağlıdır. Deny/admit/suggest + -ing; promise/offer + to-infinitive; advise/warn + nesne + to-infinitive yaygın kalıplardır.",
+          "formula": "deny doing | promise to do | advise someone to do",
+          "examples": [
+            {
+              "en": "He denied sharing the confidential file.",
+              "tr": "Gizli dosyayı paylaştığını inkâr etti."
+            }
+          ],
+          "tip": "Suggest me to go yerine suggest going veya suggest that I go kullan."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "She asked me where ___ .",
+          "choices": [
+            "did I live",
+            "I lived",
+            "do I live"
+          ],
+          "answer": 1,
+          "explanation": "Dolaylı soruda özne + fiil sırası gerekir: I lived."
+        },
+        {
+          "prompt": "He denied ___ the window.",
+          "choices": [
+            "breaking",
+            "to break",
+            "break"
+          ],
+          "answer": 0,
+          "explanation": "Deny sonrasında -ing kullanılır."
+        },
+        {
+          "prompt": "They promised ___ us the next day.",
+          "choices": [
+            "calling",
+            "call",
+            "to call"
+          ],
+          "answer": 2,
+          "explanation": "Promise + to-infinitive: promised to call."
+        },
+        {
+          "prompt": "The doctor advised me ___ more rest.",
+          "choices": [
+            "getting",
+            "to get",
+            "get"
+          ],
+          "answer": 1,
+          "explanation": "Advise + nesne + to-infinitive yapısı kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "b2-linking-arguments",
+      "level": "B2",
+      "title": "Linking Ideas & Arguments",
+      "subtitle": "Karşıtlık, neden ve sonuç ilişkileri kur.",
+      "category": "Yazma",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "nevertheless",
+          "meaning": "yine de"
+        },
+        {
+          "word": "whereas",
+          "meaning": "oysa; -iken"
+        },
+        {
+          "word": "consequently",
+          "meaning": "sonuç olarak"
+        },
+        {
+          "word": "drawback",
+          "meaning": "dezavantaj"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Karşıtlığı doğru bağla",
+          "text": "Although/even though sonrasında özne ve fiil içeren cümle gelir. Despite/in spite of sonrasında isim veya -ing yapısı gelir. Whereas iki durumu karşılaştırır.",
+          "formula": "although + clause | despite + noun / V-ing",
+          "examples": [
+            {
+              "en": "Despite being expensive, the course was popular.",
+              "tr": "Pahalı olmasına rağmen kurs popülerdi."
+            }
+          ],
+          "tip": "Despite of kullanma. In spite of doğrudur. Despite the fact that sonrasında tam cümle gelebilir."
+        },
+        {
+          "title": "Tutarlı paragraf kur",
+          "text": "However ve nevertheless bir önceki fikre karşıtlık; therefore ve consequently sonuç ekler. Bunlar iki bağımsız cümleyi yalnızca virgülle birleştiren bağlaçlar değildir. Öncesinde nokta veya noktalı virgül kullan.",
+          "formula": "Claim. However, contrast. Therefore, result.",
+          "examples": [
+            {
+              "en": "Public transport is affordable. However, services are limited at night.",
+              "tr": "Toplu taşıma uygun fiyatlıdır. Ancak gece seferleri sınırlıdır."
+            }
+          ],
+          "tip": "Bir görüş paragrafında ana fikri belirt, gerekçe sun, somut örnek ver ve sonucu bağla. Bağlayıcıları gereksiz yere her cümlede kullanma."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "___ the heavy rain, the match continued.",
+          "choices": [
+            "Although",
+            "Despite",
+            "Even though"
+          ],
+          "answer": 1,
+          "explanation": "The heavy rain bir isim grubudur: despite gerekir."
+        },
+        {
+          "prompt": "___ it was raining heavily, the match continued.",
+          "choices": [
+            "Although",
+            "Despite",
+            "In spite of"
+          ],
+          "answer": 0,
+          "explanation": "It was raining tam cümledir: although gerekir."
+        },
+        {
+          "prompt": "The road was closed. ___, we had to take a different route.",
+          "choices": [
+            "Nevertheless",
+            "Whereas",
+            "Consequently"
+          ],
+          "answer": 2,
+          "explanation": "Yolun kapanmasının sonucunu consequently bağlar."
+        },
+        {
+          "prompt": "Which sentence is correctly punctuated?",
+          "choices": [
+            "It was costly, however we agreed.",
+            "It was costly. However, we agreed.",
+            "Despite it was costly, we agreed."
+          ],
+          "answer": 1,
+          "explanation": "However öncesinde nokta ve sonrasında virgül iki fikri açıkça ayırır."
+        }
+      ]
+    },
+    {
+      "id": "b2-work-discussion",
+      "level": "B2",
+      "title": "Workplace Discussions & Collocations",
+      "subtitle": "İş ortamında görüş bildir, nazikçe karşı çık ve çözüm öner.",
+      "category": "İletişim",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "meet a deadline",
+          "meaning": "son teslim tarihine yetişmek"
+        },
+        {
+          "word": "reach an agreement",
+          "meaning": "anlaşmaya varmak"
+        },
+        {
+          "word": "raise a concern",
+          "meaning": "bir endişeyi dile getirmek"
+        },
+        {
+          "word": "take responsibility",
+          "meaning": "sorumluluk almak"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Nazikçe karşı çık ve açıklama iste",
+          "text": "B2 düzeyinde yalnızca fikir belirtmek değil, karşı görüşü kabul ederek kendi gerekçeni açıklamak da önemlidir. I see your point, but… nazik bir geçiş; Could you clarify…? ayrıntı istemek için kullanılır.",
+          "formula": "I see your point, but… | Could you clarify what you mean by…?",
+          "examples": [
+            {
+              "en": "I see your point, but extending the deadline may increase costs.",
+              "tr": "Ne demek istediğini anlıyorum ama süreyi uzatmak maliyetleri artırabilir."
+            }
+          ],
+          "tip": "Kesin bir reddetme yerine gerekçe ve alternatif sun: Would it be possible to reduce the scope?"
+        },
+        {
+          "title": "Doğal kelime birliktelikleri",
+          "text": "İş İngilizcesinde fiil ve isim birlikte öğrenilmelidir: meet a deadline, make a decision, reach an agreement ve take responsibility. Bir toplantıyı özetlerken kararı, sorumlu kişiyi ve sonraki adımı açıkça belirt.",
+          "formula": "make a decision | meet a deadline | reach an agreement",
+          "examples": [
+            {
+              "en": "We reached an agreement: Deniz will send the revised proposal by Friday.",
+              "tr": "Bir anlaşmaya vardık: Deniz gözden geçirilmiş öneriyi cumaya kadar gönderecek."
+            }
+          ],
+          "tip": "Kendin dene: Bir toplantıda ek süre iste ve nedenini açıkla. Örnek: Could we extend the deadline so that we can review the figures? Bu açık uçlu prova otomatik puanlanmaz."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "We need to ___ a decision before noon.",
+          "choices": [
+            "do",
+            "make",
+            "take up"
+          ],
+          "answer": 1,
+          "explanation": "Standart kelime birlikteliği make a decision şeklindedir."
+        },
+        {
+          "prompt": "The team worked late to ___ the deadline.",
+          "choices": [
+            "meet",
+            "reach to",
+            "make"
+          ],
+          "answer": 0,
+          "explanation": "Son teslim tarihine yetişmek meet the deadline ile ifade edilir."
+        },
+        {
+          "prompt": "Choose the most constructive disagreement.",
+          "choices": [
+            "You are wrong. Stop talking.",
+            "That makes no sense at all.",
+            "I see your point, but could we consider the costs?"
+          ],
+          "answer": 2,
+          "explanation": "Karşı görüşü kabul edip somut endişeyi dile getirmek yapıcıdır."
+        },
+        {
+          "prompt": "Could you ___ what you mean by “flexible hours”?",
+          "choices": [
+            "clarify",
+            "claim",
+            "deny"
+          ],
+          "answer": 0,
+          "explanation": "Clarify, anlamı açıklığa kavuşturmak demektir."
+        }
+      ]
+    }
+  ],
+  "contentVersion": 4
+}
