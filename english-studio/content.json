@@ -3912,7 +3912,7 @@
       "subtitle": "Sonuç, süreç ve geçmişteki öncelik.",
       "category": "Zamanlar",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "achievement",
@@ -3955,6 +3955,86 @@
             }
           ],
           "tip": "By the time ile verilen geçmiş olaydan önceki süreyi had been waiting ile anlatabilirsin."
+        },
+        {
+          "title": "Süre, sayı ve bitmişlik nasıl seçilir?",
+          "text": "Bir cümlede for veya since görmek tek başına Continuous seçmek için yeterli değildir. Önce fiilin durum mu etkinlik mi anlattığını, sonra konuşanın sonuca mı sürece mi odaklandığını düşün. For a duration, since a starting point belirtir. How many sorusu tamamlanan miktarı; how long ise çoğunlukla süreyi sorar. Live ve work gibi fiillerde iki yapı da mümkün olabilir: Simple bir durumu, Continuous etkinliğin sürmesini veya geçiciliğini öne çıkarır.",
+          "formula": "How many + have/has + özne + V3? | How long + have/has + özne + been + V-ing?",
+          "examples": [
+            {
+              "en": "How many pages have you read?",
+              "tr": "Kaç sayfa okudun?"
+            },
+            {
+              "en": "How long have you been reading?",
+              "tr": "Ne zamandır okuyorsun?"
+            },
+            {
+              "en": "I have lived here for ten years.",
+              "tr": "On yıldır burada yaşıyorum."
+            }
+          ],
+          "tip": "Tamamlanan sayı veriliyorsa I have been reading three books yerine, üçünü de bitirdiğini anlatmak için I have read three books de."
+        },
+        {
+          "title": "Geçici etkinlikler ve gözle görülen etkiler",
+          "text": "Present Perfect Continuous her zaman etkinliğin hâlâ devam ettiğini söylemez. Etkinlik az önce bitmiş olabilir ve yorgunluk, ıslak zemin veya boya lekesi gibi sonucu şimdi görülebilir. Present Perfect Simple ise oluşan sonuca veya elde edilen ürüne dikkat çeker. Bu ayrım bir doğru/yanlış listesi değildir: aynı olayın hangi yönünü anlatmak istediğini belirler. Ancak yesterday gibi bitmiş bir zaman verildiğinde genellikle Past Simple gerekir.",
+          "formula": "have/has been + V-ing → süreç / yakın etkinlik",
+          "examples": [
+            {
+              "en": "I am tired because I have been running.",
+              "tr": "Koştuğum için yorgunum."
+            },
+            {
+              "en": "I have run five kilometres today.",
+              "tr": "Bugün şu ana kadar beş kilometre koştum."
+            },
+            {
+              "en": "I ran five kilometres yesterday.",
+              "tr": "Dün beş kilometre koştum."
+            }
+          ],
+          "tip": "I have been running ile koşunun şimdi sürüp sürmediğini tek başına kesinleştiremezsin; bağlamı oku."
+        },
+        {
+          "title": "Geçmişteki iki olayı zaman çizgisine yerleştir",
+          "text": "Bir anlatıda önce geçmiş referans noktasını bul: toplantı başladı, eve geldim veya telefon çaldı. Bu noktadan önce tamamlanmış sonuç için had + V3, o noktaya kadar süren etkinlik için had been + V-ing kullan. Before ve after sıralamayı zaten açıkça gösterdiğinde Past Simple da mümkün olabilir. Past Perfect her geçmiş cümleye eklenmez; iki geçmiş zaman arasındaki önceliği açıklamak için seçilir.",
+          "formula": "Önceki süreç → had been working → sonraki geçmiş olay",
+          "examples": [
+            {
+              "en": "When I arrived, she had left.",
+              "tr": "Vardığımda o gitmişti."
+            },
+            {
+              "en": "When I arrived, she was leaving.",
+              "tr": "Vardığım sırada o çıkıyordu."
+            },
+            {
+              "en": "She was exhausted because she had been working all night.",
+              "tr": "Bütün gece çalıştığı için bitkindi."
+            }
+          ],
+          "tip": "Had left, karşılaşmadığımızı; was leaving, çıkış anında orada olduğumu anlatır."
+        },
+        {
+          "title": "Uygulama: Bir proje güncellemesi",
+          "text": "Kısa bir iş güncellemesinde tamamlanan işleri Present Perfect Simple, devam eden emeği Present Perfect Continuous ile belirt. Ardından geçmişteki belirli bir toplantıya geçiyorsan Past Simple kullan. Toplantıdan önce biten hazırlığı anlatırken Past Perfect seç. Kendin üç cümle yaz: bu hafta ne bitirdin, ne üzerinde çalışıyorsun, son toplantı başlamadan önce neyi hazırlamıştın? Örnekle karşılaştırırken yalnızca fiile değil zaman ifadesine ve anlatmak istediğin odağa bak.",
+          "formula": "Sonuç → süreç → geçmişte önceki hazırlık",
+          "examples": [
+            {
+              "en": "We have completed the design.",
+              "tr": "Tasarımı tamamladık."
+            },
+            {
+              "en": "We have been testing the prototype since Monday.",
+              "tr": "Pazartesiden beri prototipi test ediyoruz."
+            },
+            {
+              "en": "Before the review started, we had fixed the main issue.",
+              "tr": "Değerlendirme başlamadan önce ana sorunu düzeltmiştik."
+            }
+          ],
+          "tip": "Bu üretim çalışması otomatik puanlanmaz; kendi metninde since/for ve geçmiş referans noktalarını kontrol et."
         }
       ],
       "quiz": [
@@ -4007,7 +4087,7 @@
       "subtitle": "Geçmiş kararları ve bugünkü sonuçlarını tartış.",
       "category": "Dil bilgisi",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "regret",
@@ -4050,6 +4130,78 @@
             }
           ],
           "tip": "I wish I had studied harder geçmiş pişmanlık; I wish I knew the answer şu anki duruma yönelik dilektir."
+        },
+        {
+          "title": "Third Conditional: Koşul ve sonuç ayrı görevler taşır",
+          "text": "If bölümü gerçekleşmemiş bir geçmiş koşulu kurar; ana cümle o koşul gerçekleşseydi geçmişte ne olacağını söyler. If I had studied, I would have passed cümlesi genellikle çalışmadığımı ve geçemediğimi ima eder. Cümlelerin sırası değişebilir. If bölümü baştaysa virgül koymak yaygındır; ana cümle baştaysa çoğunlukla virgül gerekmez. Had ve would have konuşmada kısalabilir: I’d had ve I’d have farklı yapılardır.",
+          "formula": "If + past perfect, would/could/might have + V3",
+          "examples": [
+            {
+              "en": "If I had known, I would have helped.",
+              "tr": "Bilseydim yardım ederdim."
+            },
+            {
+              "en": "We could have finished if we had started earlier.",
+              "tr": "Daha erken başlasaydık bitirebilirdik."
+            }
+          ],
+          "tip": "Could have imkân/yetenek; might have daha belirsiz bir sonuç bildirir. Her ikisini otomatik olarak would have ile eşitleme."
+        },
+        {
+          "title": "Mixed Conditional iki yönde kurulabilir",
+          "text": "Geçmişteki bir karar bugünkü durumu etkileyebilir: If I had studied medicine, I would be a doctor now. Ters yönde de ilişki kurulabilir: süreklilik taşıyan bugünkü bir özellik, geçmişteki davranışı açıklayabilir. If I were more organised, I would not have missed yesterday’s deadline. Burada düzensizlik yalnızca bugüne ait geçici bir durum değil, genel bir özellik olarak düşünülür. Zamanlar karıştırılmıyor; farklı zamanlardaki koşul ve sonuç bilinçli olarak eşleştiriliyor.",
+          "formula": "Geçmiş koşul → bugünkü sonuç | Genel koşul → geçmiş sonuç",
+          "examples": [
+            {
+              "en": "If we had booked earlier, we would be on holiday now.",
+              "tr": "Daha erken rezervasyon yapsaydık şimdi tatilde olurduk."
+            },
+            {
+              "en": "If I were less shy, I would have spoken at the meeting yesterday.",
+              "tr": "Daha az utangaç biri olsaydım dün toplantıda konuşurdum."
+            }
+          ],
+          "tip": "Önce koşulun zamanını, sonra sonucun zamanını belirle; yalnızca cümlede now arayarak karar verme."
+        },
+        {
+          "title": "Wish ve if only ile pişmanlık ve dilek",
+          "text": "Wish + Past Simple şu an gerçek olmayan bir durumu, wish + Past Perfect geçmişte değişmesini istediğin bir olayı anlatır. If only aynı fikri daha güçlü bir duyguyla verebilir. Wish + would çoğunlukla başka birinin değişmesini istediğin davranışına veya bir durumun değişmesine yöneliktir. Kendi geçmiş kararın için I wish I would have studied yerine I wish I had studied kullan. Wish ifadesi geleceğe dair sıradan bir temenni olduğunda hope daha uygun olabilir.",
+          "formula": "wish + past → şimdi | wish + had V3 → geçmiş",
+          "examples": [
+            {
+              "en": "I wish I knew the answer.",
+              "tr": "Keşke cevabı bilsem."
+            },
+            {
+              "en": "If only I had kept the receipt.",
+              "tr": "Keşke fişi saklasaydım."
+            },
+            {
+              "en": "I wish you would stop interrupting.",
+              "tr": "Keşke sözümü kesmeyi bıraksan."
+            }
+          ],
+          "tip": "I hope you pass the exam gelecek için gerçekçi bir temennidir; I wish you passed aynı anlamda doğal bir seçim değildir."
+        },
+        {
+          "title": "Unless, otherwise ve hata kontrolü",
+          "text": "Unless çoğunlukla if…not anlamındadır; gereksiz ikinci bir olumsuz ekleme. Otherwise bir önceki koşul gerçekleşmezse oluşacak sonucu bağlayabilir. Varsayımsal bir geçmiş hikâyesini değerlendirirken önce gerçekten ne olduğunu yaz, ardından koşul ve sonucu tersine çevir. Örneğin şemsiyemi almadım ve ıslandım → şemsiyemi alsaydım ıslanmazdım. Böylece yalnızca kalıp ezberlemek yerine anlamı da denetlersin.",
+          "formula": "Gerçek olay → alternatif koşul → alternatif sonuç",
+          "examples": [
+            {
+              "en": "Unless you hurry, you will miss the bus.",
+              "tr": "Acele etmezsen otobüsü kaçıracaksın."
+            },
+            {
+              "en": "I took a taxi; otherwise, I would have been late.",
+              "tr": "Taksi tuttum; aksi takdirde geç kalırdım."
+            },
+            {
+              "en": "If I had taken an umbrella, I would not have got wet.",
+              "tr": "Şemsiye alsaydım ıslanmazdım."
+            }
+          ],
+          "tip": "Unless örneği geleceğe dair açık bir koşuldur; her unless cümlesi Third Conditional değildir."
         }
       ],
       "quiz": [
@@ -4102,7 +4254,7 @@
       "subtitle": "Kanıta dayanarak şimdi ve geçmiş hakkında çıkarım yap.",
       "category": "Dil bilgisi",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "evidence",
@@ -4145,6 +4297,82 @@
             }
           ],
           "tip": "Must have forgotten güçlü çıkarımdır; should have remembered eleştiri veya beklenti ifade eder."
+        },
+        {
+          "title": "Kesinlik derecesini kanıtla eşleştir",
+          "text": "Çıkarım yaparken konuşanın bilgi düzeyini değerlendir. Must, elimizdeki kanıtın güçlü bir olumlu sonuca götürdüğünü; can’t güçlü bir olumsuz sonuca götürdüğünü söyler. May, might ve could birden fazla açıklama mümkünken kullanılır. Bunlar matematiksel olasılık yüzdeleri değildir. Aynı görüntüden farklı konuşanlar farklı çıkarımlar yapabilir; önemli olan cümledeki kanıt ve eminlik ifadelerinin birbiriyle tutarlı olmasıdır.",
+          "formula": "Güçlü olumlu: must | olasılık: may/might/could | güçlü olumsuz: can’t",
+          "examples": [
+            {
+              "en": "She must be busy; she has six meetings today.",
+              "tr": "Meşgul olmalı; bugün altı toplantısı var."
+            },
+            {
+              "en": "She might be busy, but I have not checked her calendar.",
+              "tr": "Meşgul olabilir ama takvimini kontrol etmedim."
+            },
+            {
+              "en": "That can’t be Ece; Ece is abroad.",
+              "tr": "O Ece olamaz; Ece yurt dışında."
+            }
+          ],
+          "tip": "May ve might arasındaki farkı her bağlamda sabit bir yüzdeyle açıklamak yanıltıcıdır."
+        },
+        {
+          "title": "Şimdi devam eden ve geçmişte süren olaylar",
+          "text": "Çıkarımın zamanı ile konuşma zamanı aynı olmak zorunda değildir. Şimdi devam eden olası bir etkinlik için modal + be + V-ing kullanılır. Geçmişte belirli bir anda sürmekte olan olası etkinlik için modal + have been + V-ing seçilebilir. Modal sonrasındaki ilk fiil yalın kalır; must is working veya might has left kurulmaz. Fiil zincirini parçalayarak kontrol etmek yanlışları azaltır.",
+          "formula": "might be working | might have been working",
+          "examples": [
+            {
+              "en": "He might be sleeping; try calling later.",
+              "tr": "Uyuyor olabilir; daha sonra aramayı dene."
+            },
+            {
+              "en": "She must have been driving when you called.",
+              "tr": "Aradığında araba kullanıyor olmalıydı."
+            }
+          ],
+          "tip": "Must have been driving geçmişteki bir süreç hakkında çıkarımdır; kişinin şu anda araba kullandığını söylemez."
+        },
+        {
+          "title": "Çıkarım, eleştiri ve gerçekleşmemiş fırsat",
+          "text": "Must have done geçmişe dönük güçlü çıkarım; should have done genellikle yapılması uygun olan ama yapılmayan iş hakkında eleştiri veya pişmanlık bildirir. Could have done ise bağlama göre geçmişte gerçekleşmiş olabilecek bir ihtimali ya da kullanılmamış bir fırsatı anlatabilir. Needn’t have done yapılan işin aslında gereksiz olduğunu söyler. Didn’t need to do ise gereklilik yoktu der; işin yapılıp yapılmadığını her zaman tek başına kesinleştirmez.",
+          "formula": "must have = çıkarım | should have = değerlendirme | needn’t have = gereksiz yapılmış iş",
+          "examples": [
+            {
+              "en": "You should have backed up your files.",
+              "tr": "Dosyalarını yedeklemeliydin."
+            },
+            {
+              "en": "We needn’t have booked; the restaurant was empty.",
+              "tr": "Rezervasyon yapmamıza gerek yokmuş; restoran boştu."
+            },
+            {
+              "en": "You could have called me, but you chose not to.",
+              "tr": "Beni arayabilirdin ama aramamayı seçtin."
+            }
+          ],
+          "tip": "Could have cümlesini yorumlamadan önce devamındaki açıklamayı oku: olasılık mı, kaçırılan fırsat mı?"
+        },
+        {
+          "title": "Uygulama: Kanıttan açıklamaya",
+          "text": "Bir arkadaşın toplantıya gelmedi. Yalnızca olasılık düşünüyorsan might have forgotten de; takviminde yanlış tarihi görüyorsan must have mixed up the dates daha güçlü bir çıkarımdır. Eleştiri yapmak istiyorsan should have checked the invitation kullan. Aynı olay için üç cümle kurup her birinin işlevini işaretle. Kendi cümleni değerlendirirken kanıtın gerçekten ne kadar güçlü olduğunu ve geçmiş anlamı için have + V3 bulunup bulunmadığını kontrol et.",
+          "formula": "Kanıt → kesinlik → zaman → doğru fiil yapısı",
+          "examples": [
+            {
+              "en": "She might have forgotten the meeting.",
+              "tr": "Toplantıyı unutmuş olabilir."
+            },
+            {
+              "en": "She must have mixed up the dates.",
+              "tr": "Tarihleri karıştırmış olmalı."
+            },
+            {
+              "en": "She should have checked the invitation.",
+              "tr": "Daveti kontrol etmeliydi."
+            }
+          ],
+          "tip": "Can’t have forgotten güçlü olumsuz çıkarımdır; mustn’t have forgotten aynı işlevde kullanılmaz."
         }
       ],
       "quiz": [
@@ -4197,7 +4425,7 @@
       "subtitle": "Resmî bilgi aktar ve yaptırdığın işleri anlat.",
       "category": "Dil bilgisi",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "estimate",
@@ -4240,6 +4468,70 @@
             }
           ],
           "tip": "I cut my hair işi kendim yaptım; I had my hair cut bir başkasına kestirdim anlamına gelir."
+        },
+        {
+          "title": "Edilgende zamanı korumak",
+          "text": "Etken cümleyi edilgene çevirirken nesne yeni özne olur; asıl fiil V3 biçimine geçer ve zaman be üzerinde gösterilir. Continuous yapıda being, perfect yapıda been gerekir. İşi yapan kişi bilinmiyorsa veya önemsizse by bölümünü yazma. Her fiilin nesnesi yoktur; arrive gibi geçişsiz fiilleri bu şekilde edilgene çeviremezsin.",
+          "formula": "is repaired | is being repaired | has been repaired",
+          "examples": [
+            {
+              "en": "They are repairing the bridge. → The bridge is being repaired.",
+              "tr": "Köprüyü onarıyorlar. → Köprü onarılıyor."
+            },
+            {
+              "en": "The results have been announced.",
+              "tr": "Sonuçlar açıklandı."
+            }
+          ],
+          "tip": "The bridge is repairing köprünün kendisinin onarım yaptığını düşündürür; edilgen anlam için being repaired gerekir."
+        },
+        {
+          "title": "Raporlama yapılarında zaman farkı",
+          "text": "Is said to be iddianın şimdiki durumla ilişkili olduğunu; is said to have done daha önceki bir olaya ilişkin olduğunu anlatır. Hem raporlama hem aktarılan olay edilgen olabilir. It is thought that the painting was stolen → The painting is thought to have been stolen. Bu ifadeler iddiayı başkalarına atfeder; bilgiyi kanıtlanmış gerçek hâline getirmez.",
+          "formula": "is said to do | is said to have done | is said to have been done",
+          "examples": [
+            {
+              "en": "The company is said to employ 500 people.",
+              "tr": "Şirketin 500 kişiyi çalıştırdığı söyleniyor."
+            },
+            {
+              "en": "The painting is thought to have been stolen last night.",
+              "tr": "Tablonun dün gece çalındığı düşünülüyor."
+            }
+          ],
+          "tip": "To have stolen ile to have been stolen farkına dikkat et: çalan mı, çalınan mı anlatılıyor?"
+        },
+        {
+          "title": "Have something done ve have someone do",
+          "text": "Have + nesne + V3, işi yaptırdığın nesneyi öne çıkarır. Have + kişi + yalın fiil ise kime iş verdiğini belirtir. Get + kişi + to-infinitive, kişiyi işi yapmaya yönlendirme veya ikna etme anlamı taşıyabilir. Get something done daha gündelik bir seçenektir. Zamanı değiştirmek için have/get fiilini değiştir; son sıradaki V3 sabit kalır.",
+          "formula": "have the car washed | have Ali wash it | get Ali to wash it",
+          "examples": [
+            {
+              "en": "I had my car washed yesterday.",
+              "tr": "Dün arabamı yıkattım."
+            },
+            {
+              "en": "I will get the technician to check the wiring.",
+              "tr": "Teknisyene kabloları kontrol ettireceğim."
+            }
+          ],
+          "tip": "I had my phone stolen genellikle telefonu çaldırdım, yani hırsızlığa uğradım anlamındadır; bunu isteyerek ayarladığını söylemez."
+        },
+        {
+          "title": "Uygulama: Bir bakım talebi",
+          "text": "Bir hizmet talebinde önce sorunu edilgen yapıyla anlat, ardından ne yaptırmak istediğini belirt. İşi yapan kişiyi biliyorsan ve bu bilgi önemliyse ekle. Kendi evin veya kullandığın cihaz hakkında iki cümle yaz: şu anda yapılan işlem ve gelecek hafta yaptıracağın işlem. Cevabında zamanın be/have üzerinde doğru gösterildiğini ve V3 biçiminin korunduğunu denetle.",
+          "formula": "Sorun → devam eden işlem → planlanan hizmet",
+          "examples": [
+            {
+              "en": "The heating system is being inspected.",
+              "tr": "Isıtma sistemi kontrol ediliyor."
+            },
+            {
+              "en": "We are going to have the faulty valve replaced.",
+              "tr": "Arızalı vanayı değiştirmeyi planlıyoruz."
+            }
+          ],
+          "tip": "I am repairing ile I am having it repaired arasında işi kimin yaptığı farkı vardır."
         }
       ],
       "quiz": [
@@ -4292,7 +4584,7 @@
       "subtitle": "Ayrıntılı bilgileri daha akıcı cümlelere dönüştür.",
       "category": "Dil bilgisi",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "applicant",
@@ -4335,6 +4627,70 @@
             }
           ],
           "tip": "The people who work here → the people working here; the report which was published → the report published."
+        },
+        {
+          "title": "Virgül anlamı nasıl değiştirir?",
+          "text": "Defining clause bir grubu sınırlar: yalnızca tarif edilen kişiler. Non-defining clause zaten belirli olan kişi veya gruba ek bilgi verir. Virgül bu nedenle yalnızca yazım süsü değildir. My colleagues who work remotely ifadesi uzaktan çalışan alt grubu; my colleagues, who work remotely, ifadesi bağlamdaki meslektaşların tamamının uzaktan çalıştığını düşündürür.",
+          "formula": "Tanımlama: virgülsüz | ek bilgi: virgüllü",
+          "examples": [
+            {
+              "en": "Students who submit early receive feedback first.",
+              "tr": "Erken teslim eden öğrenciler önce geri bildirim alır."
+            },
+            {
+              "en": "Leyla, who submitted early, received feedback first.",
+              "tr": "Erken teslim eden Leyla önce geri bildirim aldı."
+            }
+          ],
+          "tip": "Non-defining cümlede who/which atılmaz ve yerine that getirilmez."
+        },
+        {
+          "title": "Özne, nesne ve edat ilişkisi",
+          "text": "Relative clause içinde eksik olan rolü bul. The person who called me cümlesinde who özne olduğu için atılmaz. The person whom I called cümlesinde whom nesnedir; defining yapıda çıkarılabilir. Günlük dilde nesne için who yaygındır. Resmî dilde edat + whom/which kullanılabilir; bu konumda that olmaz. Which bazen yalnızca bir isme değil önceki cümlenin tamamına gönderme yapar.",
+          "formula": "the person I spoke to | the person to whom I spoke",
+          "examples": [
+            {
+              "en": "The book I told you about is here.",
+              "tr": "Sana sözünü ettiğim kitap burada."
+            },
+            {
+              "en": "He missed the train, which made him late.",
+              "tr": "Treni kaçırdı; bu da geç kalmasına neden oldu."
+            }
+          ],
+          "tip": "The book which I bought it hatalıdır; which zaten nesne yerini tuttuğu için it tekrar edilmez."
+        },
+        {
+          "title": "Participle clauses ve ortak özne",
+          "text": "Etken -ing, edilgen V3 yapıları isimleri niteleyebilir. Cümlenin başındaki participle clause çoğunlukla ana cümleyle aynı özneyi paylaşır. Having + V3 önce tamamlanmış bir eylemi vurgular. Özneyi yanlış eşleştirirsen cümle anlamsızlaşabilir: Walking home, the rain started yapısı yağmurun yürüdüğünü ima eder. Bunun yerine While I was walking home, it started to rain de.",
+          "formula": "Working… | Written… | Having finished…",
+          "examples": [
+            {
+              "en": "Having finished the report, I emailed it to my manager.",
+              "tr": "Raporu bitirdikten sonra yöneticime e-postayla gönderdim."
+            },
+            {
+              "en": "Written in clear language, the guide is easy to follow.",
+              "tr": "Açık bir dille yazılmış olan rehberi takip etmek kolaydır."
+            }
+          ],
+          "tip": "Having finished cümlesinde raporu bitiren kişi ile ana cümlenin öznesi I aynıdır."
+        },
+        {
+          "title": "Uygulama: İki cümleyi birleştir",
+          "text": "Önce tekrar eden ismi bul, sonra ikinci cümledeki görevini belirle. Kişi için who, sahiplik için whose, şeyler için which düşünülebilir. Ek bilginin ana ismi tanımlamak için gerekli olup olmadığına göre virgül seç. Ardından uygun bir etken veya edilgen yapıyı kısaltmayı dene. Kısaltırken özneyi veya gerekli zaman bilgisini kaybetmediğinden emin ol.",
+          "formula": "Tekrar eden isim → rol → zamir → virgül → olası kısaltma",
+          "examples": [
+            {
+              "en": "The woman lives next door. Her son won a prize. → The woman whose son won a prize lives next door.",
+              "tr": "Oğlu ödül kazanan kadın yan evde yaşıyor."
+            },
+            {
+              "en": "The files that were uploaded yesterday are ready. → The files uploaded yesterday are ready.",
+              "tr": "Dün yüklenen dosyalar hazır."
+            }
+          ],
+          "tip": "Whose son biçiminde whose sonrası ayrıca her ekleme."
         }
       ],
       "quiz": [
@@ -4387,7 +4743,7 @@
       "subtitle": "İddiaları, önerileri ve soruları doğru aktar.",
       "category": "İletişim",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "deny",
@@ -4430,6 +4786,74 @@
             }
           ],
           "tip": "Suggest me to go yerine suggest going veya suggest that I go kullan."
+        },
+        {
+          "title": "Zaman kayması mekanik bir zorunluluk değildir",
+          "text": "Geçmişte söylenen sözü geçmiş bir reporting verb ile aktarırken present → past, present perfect → past perfect, will → would dönüşümleri yaygındır. Ancak bilgi hâlâ doğruysa veya aktarım anında geçerliyse zaman korunabilir. Past Perfect çoğunlukla daha geriye kaymaz. Can → could olurken must bağlama göre had to olabilir; çıkarım anlamındaki must her zaman değişmez.",
+          "formula": "said + that + clause",
+          "examples": [
+            {
+              "en": "She said, “I am tired.” → She said that she was tired.",
+              "tr": "Yorgun olduğunu söyledi."
+            },
+            {
+              "en": "The teacher said that water boils at 100°C at sea level.",
+              "tr": "Öğretmen suyun deniz seviyesinde 100°C’de kaynadığını söyledi."
+            }
+          ],
+          "tip": "Sözün söylendiği zaman ile bilginin hâlâ geçerli olup olmadığını birlikte değerlendir."
+        },
+        {
+          "title": "Zamirler ve zaman ifadeleri",
+          "text": "I, we, here ve tomorrow gibi sözcükler konuşana, yere ve zamana bağlıdır. Aktarımda kişi veya tarih değişiyorsa zamir ve zaman ifadesini de güncelle. Tomorrow → the next day yaygın bir dönüşümdür; fakat aynı gün aktarım yapıyorsan tomorrow korunabilir. Say nesnesiz veya say to someone ile; tell doğrudan kişi nesnesiyle kullanılır.",
+          "formula": "say something | say something to someone | tell someone something",
+          "examples": [
+            {
+              "en": "Mert said, “I will call you tomorrow.” → Mert told me he would call me the next day.",
+              "tr": "Mert beni ertesi gün arayacağını söyledi."
+            },
+            {
+              "en": "She told us that she had lost her keys.",
+              "tr": "Bize anahtarlarını kaybettiğini söyledi."
+            }
+          ],
+          "tip": "She said me ve she told that yerine she told me that veya she said that kullan."
+        },
+        {
+          "title": "Emir, uyarı, öneri ve özür aktarmak",
+          "text": "Ask/tell + nesne + to-infinitive istek ve talimatları; warn + nesne + not to uyarıları aktarır. Suggest + -ing veya that-clause öneridir. Apologise for + -ing özür, accuse someone of + -ing suçlama bildirir. Yalnızca fiilin Türkçe anlamını bilmek yetmez; ardından gelen edat veya fiil biçimini de birlikte öğren.",
+          "formula": "warn someone not to do | apologise for doing | accuse someone of doing",
+          "examples": [
+            {
+              "en": "She warned us not to touch the wire.",
+              "tr": "Kabloya dokunmamamız için bizi uyardı."
+            },
+            {
+              "en": "He apologised for arriving late.",
+              "tr": "Geç geldiği için özür diledi."
+            },
+            {
+              "en": "They suggested taking a break.",
+              "tr": "Ara vermeyi önerdiler."
+            }
+          ],
+          "tip": "Suggest to take yerine suggest taking; apologise to do yerine apologise for doing kullan."
+        },
+        {
+          "title": "Uygulama: Toplantı notunu aktar",
+          "text": "Bir toplantıdaki sözleri aktarırken her cümleyi said ile başlatmak yerine konuşmanın amacını yansıtan fiili seç. Bir işi yapacağını söyleyen kişi promised; hata yaptığını kabul eden admitted; bir tehlikeyi belirten warned ile aktarılabilir. Önce verilen sözü kimin söylediğini, kime söylediğini ve hangi zamana işaret ettiğini belirle. Sonra fiilin gerektirdiği yapıyla kısa bir özet oluştur.",
+          "formula": "Konuşma amacı → reporting verb → uygun yapı",
+          "examples": [
+            {
+              "en": "“I will send the figures.” → She promised to send the figures.",
+              "tr": "Rakamları göndereceğine söz verdi."
+            },
+            {
+              "en": "“Yes, I made a mistake.” → He admitted making a mistake.",
+              "tr": "Hata yaptığını kabul etti."
+            }
+          ],
+          "tip": "Reporting verb seçimi ek anlam getirir; sadece bilgi veren bir sözü gerekçesiz olarak promised diye aktarma."
         }
       ],
       "quiz": [
@@ -4482,7 +4906,7 @@
       "subtitle": "Karşıtlık, neden ve sonuç ilişkileri kur.",
       "category": "Yazma",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "nevertheless",
@@ -4525,6 +4949,70 @@
             }
           ],
           "tip": "Bir görüş paragrafında ana fikri belirt, gerekçe sun, somut örnek ver ve sonucu bağla. Bağlayıcıları gereksiz yere her cümlede kullanma."
+        },
+        {
+          "title": "Bağlayıcıdan sonra hangi yapı gelir?",
+          "text": "Although, because ve whereas bir özne-fiil içeren yan cümleyi bağlar. Despite, because of ve due to genellikle isim grubu veya -ing yapısı ister. Aynı fikri farklı yapıyla kurarken cümlenin kalanını da dönüştür. Because it was expensive → because of the high cost. Although ile but aynı iki cümleyi bağlamak için birlikte kullanılmaz.",
+          "formula": "because + clause | because of + noun",
+          "examples": [
+            {
+              "en": "Although the task was difficult, we finished it.",
+              "tr": "Görev zor olsa da bitirdik."
+            },
+            {
+              "en": "We postponed the event because of the storm.",
+              "tr": "Fırtına nedeniyle etkinliği erteledik."
+            }
+          ],
+          "tip": "Although it was difficult, but we finished yerine although bölümünden sonra doğrudan we finished kullan."
+        },
+        {
+          "title": "However, therefore ve moreover ile noktalama",
+          "text": "However karşıtlık, therefore sonuç, moreover ek destek sunar. Bunlar anlam ilişkisini gösteren bağlayıcı zarflardır. İki bağımsız cümleyi birleştirirken önlerine nokta veya noktalı virgül getir. However cümlenin ortasında da virgüller arasında kullanılabilir. So ise bağlaç olarak farklı bir yapı kurabilir. Bağlayıcı seçerken cümleler arasında gerçek bir neden-sonuç olup olmadığını denetle.",
+          "formula": "Sentence; however, sentence. | Sentence. Therefore, sentence.",
+          "examples": [
+            {
+              "en": "The sample was small; therefore, the findings should be treated cautiously.",
+              "tr": "Örneklem küçüktü; bu nedenle bulgular dikkatle değerlendirilmelidir."
+            },
+            {
+              "en": "The scheme is affordable. Moreover, it is easy to maintain.",
+              "tr": "Plan uygun maliyetlidir. Üstelik sürdürmesi kolaydır."
+            }
+          ],
+          "tip": "Moreover yalnızca yeni bilgi ekler; bir önceki cümlenin tersini söylemek için however kullan."
+        },
+        {
+          "title": "İddia, destek ve karşı görüş",
+          "text": "İyi bir görüş paragrafı yalnızca bağlayıcı sözcüklerden oluşmaz. Ana iddiayı belirt, gerekçeyi açıkla, somut örnek ver ve bunun iddiayı nasıl desteklediğini göster. Ardından karşı görüşü kabul edip sınırını açıklayabilirsin. On the one hand / on the other hand iki yönü dengeler; on the contrary ise önceki iddiayı reddedip tersini belirtir. Bunlar birbirinin otomatik karşılığı değildir.",
+          "formula": "İddia → gerekçe → örnek → değerlendirme",
+          "examples": [
+            {
+              "en": "Online learning offers flexibility. For example, employees can study after work.",
+              "tr": "Çevrim içi öğrenme esneklik sağlar. Örneğin çalışanlar işten sonra ders çalışabilir."
+            },
+            {
+              "en": "It is not a waste of time. On the contrary, it saves hours each week.",
+              "tr": "Zaman kaybı değil. Aksine her hafta saatler kazandırıyor."
+            }
+          ],
+          "tip": "For example sonrasında ana fikri gerçekten somutlaştıran bir durum yaz; ana fikri başka sözcüklerle tekrarlamak örnek değildir."
+        },
+        {
+          "title": "Uygulama: Dengeli bir görüş paragrafı",
+          "text": "Uzaktan çalışma hakkında dört cümle yaz. İlkinde ana görüşünü belirt, ikincide örnek ver, üçüncüde bir dezavantajı kabul et, sonuncuda gerekçeli sonuca var. Her cümleye bağlayıcı eklemek zorunda değilsin; zamirler ve tekrar etmeyen anahtar sözcükler de tutarlılık sağlar. Metni kontrol ederken although/despite yapısını, however noktalamasını ve sonucun önceki gerekçeden çıkıp çıkmadığını incele.",
+          "formula": "Görüş + for example + however + sonuç",
+          "examples": [
+            {
+              "en": "Remote work can reduce commuting time. For example, staff can avoid rush-hour traffic.",
+              "tr": "Uzaktan çalışma yolculuk süresini azaltabilir. Örneğin çalışanlar yoğun saat trafiğinden kaçınabilir."
+            },
+            {
+              "en": "However, some employees feel isolated. A hybrid arrangement may therefore be more suitable.",
+              "tr": "Ancak bazı çalışanlar yalnız hisseder. Bu nedenle hibrit bir düzen daha uygun olabilir."
+            }
+          ],
+          "tip": "Bu örnek kesin bir evrensel hüküm kurmak yerine can ve may ile görüşünü ölçülü ifade eder."
         }
       ],
       "quiz": [
@@ -4577,7 +5065,7 @@
       "subtitle": "İş ortamında görüş bildir, nazikçe karşı çık ve çözüm öner.",
       "category": "İletişim",
       "icon": "✧",
-      "minutes": 15,
+      "minutes": 25,
       "words": [
         {
           "word": "meet a deadline",
@@ -4620,6 +5108,78 @@
             }
           ],
           "tip": "Kendin dene: Bir toplantıda ek süre iste ve nedenini açıkla. Örnek: Could we extend the deadline so that we can review the figures? Bu açık uçlu prova otomatik puanlanmaz."
+        },
+        {
+          "title": "Görüş bildirirken kesinlik ve nezaket",
+          "text": "I think ve in my view doğrudan görüş belirtir. It seems to me that ve I would suggest düşünceyi daha temkinli sunar. Bir öneriye karşı çıkarken önce anladığını gösterip sonra somut gerekçeyi açıklamak tartışmayı ilerletir. Nezaket yalnızca uzun cümle kurmak değildir: açık bir istek, anlaşılır neden ve uygulanabilir alternatif daha etkilidir.",
+          "formula": "I see your point, but… | I would suggest…",
+          "examples": [
+            {
+              "en": "I see your point, but the current budget may not cover the additional staff.",
+              "tr": "Ne demek istediğini anlıyorum ancak mevcut bütçe ek personeli karşılamayabilir."
+            },
+            {
+              "en": "Would it be possible to start with a smaller trial?",
+              "tr": "Daha küçük bir denemeyle başlamak mümkün olur mu?"
+            }
+          ],
+          "tip": "I disagree kullanmak kendi başına kaba değildir; gerekçe ve bağlam tonu belirler."
+        },
+        {
+          "title": "Açıklama istemek ve anlayışı doğrulamak",
+          "text": "Clarify açıklığa kavuşturmak, elaborate daha fazla ayrıntı vermek demektir. Bir ifadeyi anlamadığında sorunu net belirt: teslim tarihi mi, kapsam mı, sorumlu kişi mi belirsiz? Ardından kendi anladığını so you mean… veya just to confirm… ile özetle. Bu yaklaşım aynı sözcüğü tekrar ettirmekten daha çok bilgi sağlar ve yanlış anlaşılmaları erken yakalar.",
+          "formula": "Could you elaborate on…? | Just to confirm, …",
+          "examples": [
+            {
+              "en": "Could you clarify whether the deadline includes the review stage?",
+              "tr": "Son teslim tarihinin değerlendirme aşamasını içerip içermediğini açıklayabilir misiniz?"
+            },
+            {
+              "en": "Just to confirm, we are sending the draft on Thursday, not the final version.",
+              "tr": "Teyit etmek için soruyorum: perşembe günü son sürümü değil taslağı gönderiyoruz."
+            }
+          ],
+          "tip": "Could you clarify when will we start yerine when we will start kullan; dolaylı soruda düz sıra gerekir."
+        },
+        {
+          "title": "Kelime birlikteliklerini bağlam içinde öğrenmek",
+          "text": "Make progress, make a decision, meet a deadline, raise an issue ve reach a compromise doğal kelime birliktelikleridir. Take responsibility for sonrasında isim veya -ing gelir. Responsible for bir sıfat grubudur; fiil değildir. Kelimeleri ayrı listeler olarak ezberlemek yerine kısa bir iş cümlesiyle kaydet. Böylece uygun fiili ve gerekli edatı birlikte hatırlarsın.",
+          "formula": "take responsibility for doing | be responsible for something",
+          "examples": [
+            {
+              "en": "We have made progress, but we may not meet the deadline.",
+              "tr": "İlerleme kaydettik ama son teslim tarihine yetişemeyebiliriz."
+            },
+            {
+              "en": "I will take responsibility for updating the schedule.",
+              "tr": "Takvimi güncelleme sorumluluğunu alacağım."
+            },
+            {
+              "en": "Both teams need to reach a compromise.",
+              "tr": "İki ekibin de uzlaşmaya varması gerekiyor."
+            }
+          ],
+          "tip": "Do progress yerine make progress; responsible of yerine responsible for kullan."
+        },
+        {
+          "title": "Uygulama: Kararı eyleme dönüştürmek",
+          "text": "Bir toplantının sonunda görüşleri tekrar etmek yerine üzerinde anlaşılan kararı, sorumlu kişiyi ve tarihi belirt. Plan ile kesin taahhüdü ayırt et: we could bir olasılık, we agreed to karar, I will bir taahhüt olabilir. Kısa bir takip notu yaz: önce kararı özetle, sonra kimin neyi ne zamana kadar yapacağını açıkla, son olarak açık kalan bir soruyu sor.",
+          "formula": "Karar → sorumlu kişi → çıktı → tarih → açık soru",
+          "examples": [
+            {
+              "en": "We agreed to run a two-week trial.",
+              "tr": "İki haftalık bir deneme yapmaya karar verdik."
+            },
+            {
+              "en": "I will send the updated proposal by Friday.",
+              "tr": "Güncellenmiş öneriyi en geç cuma günü göndereceğim."
+            },
+            {
+              "en": "Could you confirm who will review the results?",
+              "tr": "Sonuçları kimin değerlendireceğini teyit edebilir misiniz?"
+            }
+          ],
+          "tip": "By Friday en geç cuma gününe kadar demektir; until Friday ise süren bir durumun cumaya kadar devamını anlatır."
         }
       ],
       "quiz": [
