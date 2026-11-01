@@ -6874,19 +6874,19 @@
     {
       "id": "topic-18",
       "number": 18,
-      "title": "İlk 30 Gün: Hafta Hafta Yol Haritası",
+      "title": "İş Hayatında İletişim Senaryoları",
       "sections": [
         {
-          "title": "Genel bakış",
+          "title": "Uygulama önerileri",
           "blocks": [
             {
               "type": "text",
-              "text": "Her hafta için bir hedef, öğrenilecek dil odağı ve kullanmanız gereken anahtar cümleler verilmiştir."
+              "text": "Bu senaryolardan ihtiyacına uygun olanı seç. Önce ilgili konuyu incele, sonra örnek ifadeleri kendi iş ortamına uyarlayarak sesli pratik yap."
             }
           ]
         },
         {
-          "title": "1. Hafta – Tanış ve Gözlemle",
+          "title": "Tanışma ve iş ortamını keşfetme",
           "blocks": [
             {
               "type": "text",
@@ -6898,7 +6898,7 @@
             },
             {
               "type": "text",
-              "text": "✅ Bu hafta kullanılacak cümleler"
+              "text": "Kullanabileceğin ifadeler"
             },
             {
               "type": "text",
@@ -6927,7 +6927,7 @@
           ]
         },
         {
-          "title": "2. Hafta – Öğren ve Soru Sor",
+          "title": "Görevleri anlama ve soru sorma",
           "blocks": [
             {
               "type": "text",
@@ -6939,7 +6939,7 @@
             },
             {
               "type": "text",
-              "text": "✅ Bu hafta kullanılacak cümleler"
+              "text": "Kullanabileceğin ifadeler"
             },
             {
               "type": "text",
@@ -6964,7 +6964,7 @@
           ]
         },
         {
-          "title": "3. Hafta – Katkıda Bulun",
+          "title": "Toplantılara katılma ve katkı sunma",
           "blocks": [
             {
               "type": "text",
@@ -6976,7 +6976,7 @@
             },
             {
               "type": "text",
-              "text": "✅ Bu hafta kullanılacak cümleler"
+              "text": "Kullanabileceğin ifadeler"
             },
             {
               "type": "text",
@@ -7001,11 +7001,11 @@
           ]
         },
         {
-          "title": "4. Hafta – Değerlendir ve Planla",
+          "title": "Geri bildirim ve hedef belirleme",
           "blocks": [
             {
               "type": "text",
-              "text": "Hedef: İlk ay değerlendirmesi (30-day review) yapmak, geri bildirim almak, sonraki ayın hedeflerini belirlemek."
+              "text": "Hedef: Değerlendirme görüşmesi yapmak, geri bildirim almak, sonraki ayın hedeflerini belirlemek."
             },
             {
               "type": "text",
@@ -7013,7 +7013,7 @@
             },
             {
               "type": "text",
-              "text": "✅ Bu hafta kullanılacak cümleler"
+              "text": "Kullanabileceğin ifadeler"
             },
             {
               "type": "text",
@@ -7038,11 +7038,11 @@
           ]
         },
         {
-          "title": "30. Gün Değerlendirme Görüşmesi (30-Day Review)",
+          "title": "Değerlendirme görüşmesine hazırlanma",
           "blocks": [
             {
               "type": "text",
-              "text": "İlk ayın sonunda yöneticiniz genelde bir birebir görüşme yapar. Hazırlıklı gidin."
+              "text": "Yöneticinle bir değerlendirme görüşmesine hazırlanırken bu soruları ve cevap kalıplarını kullanabilirsin."
             },
             {
               "type": "table",
