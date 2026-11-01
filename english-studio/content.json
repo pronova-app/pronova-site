@@ -82,74 +82,198 @@
       ],
       "quiz": [
         {
-          "prompt": "She ___ her homework already.",
+          "id": "present-perfect-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The school opened its new library in September. Since then, the number of books borrowed ---- steadily.",
           "choices": [
-            "has finished",
+            "has increased",
+            "increased",
+            "increase",
+            "have increased",
+            "is increase"
+          ],
+          "answer": 0,
+          "explanation": "Since then başlangıç noktasından bugüne uzanan değişimi gösterir. Tekil the number ile has + V3 kullanılır.",
+          "choiceExplanations": [
+            "Doğru seçenek. Since then başlangıç noktasından bugüne uzanan değişimi gösterir. Tekil the number ile has + V3 kullanılır.",
+            "Since then geçmişten bugüne süren dönemi verir; bitmiş tek dönem anlatılmıyor.",
+            "Tekil özneyle bu yalın biçim uyumsuzdur.",
+            "The number tekil olduğu için has gerekir.",
+            "Be sonrasında yalın increase bu yapıyı kurmaz."
+          ],
+          "tip": "The number tekil; a number of + çoğul isim farklı bir yapıdır."
+        },
+        {
+          "id": "present-perfect-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The students ---- the first part of the project yesterday, so they can begin the next part today.",
+          "choices": [
+            "were finish",
+            "finished",
             "have finished",
-            "finishes"
-          ],
-          "answer": 0,
-          "explanation": "She ile has kullanılır. Already, burada tamamlanmış bir işin bugünkü sonucunu vurgular: has finished."
-        },
-        {
-          "prompt": "I ___ this film yesterday.",
-          "choices": [
-            "have seen",
-            "saw",
-            "has seen"
+            "has finished",
+            "finish"
           ],
           "answer": 1,
-          "explanation": "Yesterday bitmiş bir geçmiş zamanı belirtir. Bu yüzden Past Simple gerekir: saw."
+          "explanation": "Yesterday açık bir bitmiş geçmiş zaman ifadesidir. Finish düzenli fiildir: finished.",
+          "choiceExplanations": [
+            "Be ile yalın fiil bu zaman yapısını kurmaz.",
+            "Doğru seçenek. Yesterday açık bir bitmiş geçmiş zaman ifadesidir. Finish düzenli fiildir: finished.",
+            "Yesterday bitmiş bir zamanı verir; burada Past Simple gerekir.",
+            "Çoğul öğrencilerle has uyumsuzdur; ayrıca yesterday vardır.",
+            "Olay geçmişte tamamlanmıştır."
+          ],
+          "tip": "Bugün bir sonucu olması, yesterday ile verilen olayı otomatik olarak Present Perfect yapmaz."
         },
         {
-          "prompt": "We have lived here ___ 2021.",
+          "id": "present-perfect-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The same doctor has worked at the local health centre ---- more than ten years.",
           "choices": [
-            "for",
             "yet",
-            "since"
-          ],
-          "answer": 2,
-          "explanation": "2021 bir başlangıç noktasıdır. Başlangıç noktalarıyla since, sürelerle for kullanılır."
-        },
-        {
-          "prompt": "What does “Ali has gone to the bank” mean?",
-          "choices": [
-            "Ali has returned from the bank.",
-            "Ali is at the bank or on his way there. He has not returned yet.",
-            "Ali has never been to a bank."
-          ],
-          "answer": 1,
-          "explanation": "Has gone to, kişinin gitmiş olduğunu ve henüz geri dönmediğini anlatır. Has been to ise gidip dönmüş olma deneyimini belirtir."
-        },
-        {
-          "prompt": "Have you ever ___ a horse?",
-          "choices": [
-            "ridden",
-            "rode",
-            "ride"
-          ],
-          "answer": 0,
-          "explanation": "Present Perfect, have/has + V3 ile kurulur. Ride fiilinin biçimleri ride–rode–ridden şeklindedir."
-        },
-        {
-          "prompt": "“Have you met Elif?” — “Yes, I ___. I ___ her last week.”",
-          "choices": [
-            "did / have met",
-            "have / meet",
-            "have / met"
-          ],
-          "answer": 2,
-          "explanation": "Kısa cevapta have korunur. Last week bitmiş zamanı belirttiği için ikinci cümlede Past Simple: met."
-        },
-        {
-          "prompt": "I have known my neighbour ___ ten years.",
-          "choices": [
-            "since",
+            "during",
             "for",
+            "since",
             "already"
           ],
-          "answer": 1,
-          "explanation": "Ten years bir süredir: for ten years. Since 2016 gibi bir başlangıç noktasıyla kullanılır."
+          "answer": 2,
+          "explanation": "More than ten years toplam süreyi verir; for ile kullanılır.",
+          "choiceExplanations": [
+            "Yet bu olumlu cümlede süre başlatmaz.",
+            "During belirli bir dönemle kullanılır; burada toplam süre için for gerekir.",
+            "Doğru seçenek. More than ten years toplam süreyi verir; for ile kullanılır.",
+            "Since başlangıç noktası ister; ten years bir süredir.",
+            "Already süreyi bağlayan bir edat değildir."
+          ],
+          "tip": "For + süre; since + başlangıç noktası."
+        },
+        {
+          "id": "present-perfect-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The report is not ready. The team has not checked the final numbers ----.",
+          "choices": [
+            "just",
+            "since",
+            "ever",
+            "yet",
+            "already"
+          ],
+          "answer": 3,
+          "explanation": "Not ready ve has not checked, tamamlanmamış işi gösterir; cümle sonunda yet uygundur.",
+          "choiceExplanations": [
+            "Just genellikle have ile V3 arasındadır ve az önceyi anlatır.",
+            "Since sonrasında başlangıç bilgisi gerekir.",
+            "Ever çoğunlukla soru veya özel yapılarda deneyim bildirir; burada henüz anlamını vermez.",
+            "Doğru seçenek. Not ready ve has not checked, tamamlanmamış işi gösterir; cümle sonunda yet uygundur.",
+            "Already çoğunlukla beklenenden önce tamamlanmayı anlatır; not ve henüz bağlamında yet gerekir."
+          ],
+          "tip": "Yet soru ve olumsuzlarda çoğunlukla sonda yer alır."
+        },
+        {
+          "id": "present-perfect-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "The new bus service has only been available for a week, ----.",
+          "choices": [
+            "although passengers have used it every day for twenty years",
+            "because it stopped running permanently last summer",
+            "so nobody can use it until it opens next year",
+            "and it has been unavailable throughout that week",
+            "but many local people have already tried it"
+          ],
+          "answer": 4,
+          "explanation": "Only a week kısa süreyi, already ise buna rağmen oluşmuş deneyimi öne çıkarır. But bu karşıtlığı bağlar.",
+          "choiceExplanations": [
+            "Hizmetin yalnızca bir haftadır var olmasıyla yirmi yıllık kullanım çelişir.",
+            "Yeni başlayan mevcut hizmeti geçen yaz kalıcı olarak bitmiş gösterir.",
+            "Hizmetin şu anda açık olmasıyla gelecek yıl açılma çelişir.",
+            "Bir haftadır available olduğu bilgisini doğrudan reddeder.",
+            "Doğru seçenek. Only a week kısa süreyi, already ise buna rağmen oluşmuş deneyimi öne çıkarır. But bu karşıtlığı bağlar."
+          ],
+          "tip": "Cümle tamamlamada dilbilgisi kadar ilk bölümle mantıksal uyuma da bak."
+        },
+        {
+          "id": "present-perfect-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "A local group wants to find out how people use the town park. It has already collected answers from adults. ---- Therefore, its report cannot yet describe the habits of all age groups.",
+          "choices": [
+            "However, it has not asked any children yet.",
+            "It published a complete report on every age group last year.",
+            "All children in the town have already answered its questions.",
+            "The group has never wanted to study the park.",
+            "The park has several paths that were repaired last spring."
+          ],
+          "answer": 0,
+          "explanation": "Yetişkinlerden veri var ama bütün yaş grupları için sonuç çıkarmak mümkün değil. Eksik olan çocuk cevaplarıdır.",
+          "choiceExplanations": [
+            "Doğru seçenek. Yetişkinlerden veri var ama bütün yaş grupları için sonuç çıkarmak mümkün değil. Eksik olan çocuk cevaplarıdır.",
+            "Complete ve every age group, eksik veri sonucunu desteklemez.",
+            "Bu ifade çocuk verisinin olmadığını değil var olduğunu söyler.",
+            "İlk cümledeki amaçla çelişir.",
+            "Yol onarımı, yaş gruplarından eksik yanıt sorununu açıklamaz."
+          ],
+          "tip": "Therefore sonrasındaki sonucu açıklayan bilgi, boşluktaki cümlede bulunmalıdır."
+        },
+        {
+          "id": "present-perfect-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "According to the passage, why does Ece know the museum well?",
+          "choices": [
+            "She lives in an upstairs room.",
+            "She has never been inside it.",
+            "She has visited it twice.",
+            "She works there every day.",
+            "She designed the building."
+          ],
+          "answer": 2,
+          "explanation": "Metin Ece’nin daha önce iki kez geldiğini açıkça söyler.",
+          "choiceExplanations": [
+            "Üst katı ziyaret etmekle orada yaşamak farklıdır.",
+            "İki kez geldiği bilgisiyle çelişir.",
+            "Doğru seçenek. Metin Ece’nin daha önce iki kez geldiğini açıkça söyler.",
+            "Metinde Ece’nin müzede çalıştığı söylenmez.",
+            "Binayı tasarladığına dair bilgi yoktur."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I have lived in this town for three years, but I have never visited the small museum near the river. This morning my friend Ece called and invited me to go with her.\n\nWe have just arrived, and the guide has already given us a map. Ece knows the building well because she has been here twice. I have not seen the upstairs rooms yet, so I want to start there.\n\nA woman asks us to wait because a school group is leaving. While we wait, Ece tells me about her first visit last year. She enjoyed the old photographs most. I have learned a lot about the town today. We are still inside, and I hope to find a picture of my street before we leave."
+        },
+        {
+          "id": "present-perfect-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What can be understood about the writer’s visit?",
+          "choices": [
+            "It was cancelled before they arrived.",
+            "It is only an imaginary plan.",
+            "It took place only in Ece’s childhood.",
+            "It is still continuing when the writer describes it.",
+            "It ended three years ago."
+          ],
+          "answer": 3,
+          "explanation": "We are still inside ifadesi devam eden ziyareti gösterir.",
+          "choiceExplanations": [
+            "Müzeye vardıkları anlatılır.",
+            "Metin yaşanan ziyareti anlatır.",
+            "Ece’nin geçen yılki ziyareti ve şimdiki gezi karıştırılır.",
+            "Doğru seçenek. We are still inside ifadesi devam eden ziyareti gösterir.",
+            "Üç yıl ziyaretin değil kasabada yaşamanın süresidir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I have lived in this town for three years, but I have never visited the small museum near the river. This morning my friend Ece called and invited me to go with her.\n\nWe have just arrived, and the guide has already given us a map. Ece knows the building well because she has been here twice. I have not seen the upstairs rooms yet, so I want to start there.\n\nA woman asks us to wait because a school group is leaving. While we wait, Ece tells me about her first visit last year. She enjoyed the old photographs most. I have learned a lot about the town today. We are still inside, and I hope to find a picture of my street before we leave."
         }
       ],
       "level": "B1"
@@ -234,74 +358,198 @@
       ],
       "quiz": [
         {
-          "prompt": "If it rains tomorrow, we ___ indoors.",
+          "id": "conditionals-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "If the town adds more buses next month, fewer people ---- their cars to work.",
           "choices": [
-            "would stay",
-            "will stay",
-            "stayed"
-          ],
-          "answer": 1,
-          "explanation": "Yarın için gerçek bir olasılık anlatılıyor. If + Present Simple, will + fiil kullanılır."
-        },
-        {
-          "prompt": "If I ___ you, I would talk to her.",
-          "choices": [
-            "am",
-            "will be",
-            "were"
-          ],
-          "answer": 2,
-          "explanation": "If I were you, tavsiye vermek için kullanılan bir Second Conditional kalıbıdır."
-        },
-        {
-          "prompt": "If she had a car, she ___ to work.",
-          "choices": [
-            "would drive",
+            "will drove",
             "will drive",
-            "drives"
-          ],
-          "answer": 0,
-          "explanation": "If bölümünde had ile varsayımsal bir durum kurulmuş. Sonuç would + fiil olur."
-        },
-        {
-          "prompt": "Unless you study, you ___ the exam.",
-          "choices": [
-            "would pass",
-            "won’t pass",
-            "don’t passed"
+            "would have driven",
+            "drove",
+            "had driven"
           ],
           "answer": 1,
-          "explanation": "Unless you study = If you don’t study. Gerçek bir gelecek sonucu için won’t pass kullanılır."
+          "explanation": "If + Present Simple ve gelecekte olası sonuç için will + yalın fiil kullanılır.",
+          "choiceExplanations": [
+            "Will ardından yalın drive gerekir.",
+            "Doğru seçenek. If + Present Simple ve gelecekte olası sonuç için will + yalın fiil kullanılır.",
+            "Geçmiş varsayımı anlatır; gelecek gerçekçi koşulla uymaz.",
+            "Geçmiş olay bildirir; next month sonucuna uymaz.",
+            "Geçmiş öncesini bildirir."
+          ],
+          "tip": "If bölümünde adds; sonuç bölümünde will drive."
         },
         {
-          "prompt": "If I ___ more money now, I would buy that laptop.",
+          "id": "conditionals-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The study team does not have enough money. If it ---- a larger budget, it would invite more volunteers.",
           "choices": [
+            "would have",
+            "having",
             "had",
-            "have",
+            "has",
             "will have"
           ],
-          "answer": 0,
-          "explanation": "Now ile şimdiki hayalî durum anlatılıyor. Second Conditional: If + Past Simple, would + fiil."
-        },
-        {
-          "prompt": "What is the function of “use mine” in “If you need a dictionary, use mine”?",
-          "choices": [
-            "It describes a completed past event.",
-            "It describes an impossible dream.",
-            "It gives a suggestion or permission."
-          ],
           "answer": 2,
-          "explanation": "Koşulun sonucu mutlaka will olmak zorunda değildir. Use mine, koşula bağlı bir öneri/izin sunar."
+          "explanation": "Gerçekte bütçe yeterli değildir. Şu anki hayalî koşul için had, sonuç için would invite kullanılır.",
+          "choiceExplanations": [
+            "Would sonucu kurar; burada if bölümüne yerleştirilmez.",
+            "If ardından çekimli fiil gerekir; having tek başına yeterli değildir.",
+            "Doğru seçenek. Gerçekte bütçe yeterli değildir. Şu anki hayalî koşul için had, sonuç için would invite kullanılır.",
+            "Sonuç would invite olduğu için burada hayalî koşulda Past Simple gerekir.",
+            "Standart ikinci koşul if bölümünde will kullanılmaz."
+          ],
+          "tip": "Past Simple ikinci koşulda geçmiş değil gerçeklikten uzaklık gösterebilir."
         },
         {
-          "prompt": "If she gets the job, she ___ to another city.",
+          "id": "conditionals-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The outdoor lesson will take place ---- it rains heavily; in that case, the class will move inside.",
           "choices": [
-            "would moved",
-            "will move",
-            "moving"
+            "although",
+            "so",
+            "therefore",
+            "unless",
+            "because"
+          ],
+          "answer": 3,
+          "explanation": "Unless it rains heavily, ağır yağmur olmadıkça anlamındadır. İkinci bölüm istisnayı açıklar.",
+          "choiceExplanations": [
+            "Yağmura rağmen dışarıda devam anlamı, in that case içeri geçişle çatışır.",
+            "So ardından burada gereken koşul ilişkisi kurulmaz.",
+            "Therefore bir koşul bağlacı değildir.",
+            "Doğru seçenek. Unless it rains heavily, ağır yağmur olmadıkça anlamındadır. İkinci bölüm istisnayı açıklar.",
+            "Dersin ağır yağmur nedeniyle yapılacağını söyler; içeri geçme istisnasını vermez."
+          ],
+          "tip": "Unless çoğunlukla if not anlamı taşır; ayrıca not ekleme."
+        },
+        {
+          "id": "conditionals-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "If I were you, I ---- the instructions before starting the experiment.",
+          "choices": [
+            "will reading",
+            "read yesterday",
+            "would to read",
+            "had reading",
+            "would read"
+          ],
+          "answer": 4,
+          "explanation": "If I were you, kendini karşıdakinin yerine koyarak tavsiye sunar; would + yalın fiil uygundur.",
+          "choiceExplanations": [
+            "Will ardından -ing gelemez.",
+            "Yesterday geçmiş olay ekler; burada tavsiye istenir.",
+            "Would ardından to olmadan yalın fiil gerekir.",
+            "Had reading geçerli bir yapı değildir.",
+            "Doğru seçenek. If I were you, kendini karşıdakinin yerine koyarak tavsiye sunar; would + yalın fiil uygundur."
+          ],
+          "tip": "Bu kalıpta were ve would birlikte düşünülür."
+        },
+        {
+          "id": "conditionals-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "If students have access to clear examples, ----.",
+          "choices": [
+            "they will find the new rule easier to understand",
+            "they understood it before the course existed",
+            "they would have forgotten it yesterday",
+            "the examples cannot exist in any form",
+            "all learning will become impossible"
+          ],
+          "answer": 0,
+          "explanation": "Açık örneklere erişim, kuralı daha kolay anlamaya destek olur. Olası gelecek sonucu will ile kurulur.",
+          "choiceExplanations": [
+            "Doğru seçenek. Açık örneklere erişim, kuralı daha kolay anlamaya destek olur. Olası gelecek sonucu will ile kurulur.",
+            "Gelecekteki koşulu geçmişte ders yokken anlama bilgisi tamamlamaz.",
+            "Geçmiş varsayımı, if + present bağlamıyla uymaz.",
+            "İlk bölüm örneklere erişimi varsayar; seçenek varlıklarını reddeder.",
+            "Açık örneklerin öğrenmeyi imkânsız kılması verilen ilişkiye aykırıdır."
+          ],
+          "tip": "Önce koşulun zamanını, sonra sonucun zamanını kontrol et."
+        },
+        {
+          "id": "conditionals-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "A village library wants to stay open later. It can only do this if enough people agree to help. ---- Without their support, the opening hours will remain the same.",
+          "choices": [
+            "Even without any help, the library can extend its hours immediately.",
+            "If more volunteers join, the library will be able to offer evening hours.",
+            "The library is planning to reduce its hours even if more helpers join.",
+            "The volunteers can borrow more books, but they cannot change the timetable.",
+            "The library has already introduced evening hours without asking anyone."
           ],
           "answer": 1,
-          "explanation": "Gets gerçekçi bir gelecek koşulunu kurar. Sonuç will move biçimindedir."
+          "explanation": "Gönüllü desteği koşuldur; daha uzun saatler sonuçtur. Son cümledeki without their support ifadesinin karşılığı kurulmalıdır.",
+          "choiceExplanations": [
+            "Destek olmadan saatlerin aynı kalacağı bilgisiyle çelişir.",
+            "Doğru seçenek. Gönüllü desteği koşuldur; daha uzun saatler sonuçtur. Son cümledeki without their support ifadesinin karşılığı kurulmalıdır.",
+            "Destekle daha uzun açılma hedefini tersine çevirir.",
+            "Sonraki without their support ifadesinin çalışma saatlerine etkisini reddeder.",
+            "İlk cümledeki henüz koşula bağlı planı tamamlanmış gösterir."
+          ],
+          "tip": "Paragraftaki their gibi göndermelerin neye bağlandığını izle."
+        },
+        {
+          "id": "conditionals-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Where will the class go if it rains?",
+          "choices": [
+            "To the cousin’s workplace.",
+            "To a village regardless of the weather.",
+            "To a school in another country.",
+            "To the writer’s house for the whole day.",
+            "To the town library."
+          ],
+          "answer": 4,
+          "explanation": "Yağmurlu hava için belirtilen alternatif kasaba kütüphanesidir.",
+          "choiceExplanations": [
+            "Böyle bir alternatif verilmemiştir.",
+            "Köy gezisi güzel havaya bağlıdır.",
+            "Metinde başka ülke yoktur.",
+            "Evde kalma planı anlatılmamıştır.",
+            "Doğru seçenek. Yağmurlu hava için belirtilen alternatif kasaba kütüphanesidir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "Our class is planning a Saturday trip. If the weather is good, we will visit a village near the lake. If it rains, we will go to the town library instead.\n\nI would like to invite my cousin, but she works on Saturdays. If she had a free day, she would come with us. She loves taking pictures, and she knows a quiet place by the water. I will send her our plan tonight.\n\nOur teacher says we can bring a friend if we tell her before Friday. Unless the bus is full, everyone will have a seat. I am saving money for lunch. If I were rich, I would pay for everyone, but for now we will each bring something to eat. It should be a simple and enjoyable day together."
+        },
+        {
+          "id": "conditionals-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Why is the cousin unlikely to join the trip?",
+          "choices": [
+            "She works on Saturdays.",
+            "She does not enjoy taking pictures.",
+            "She does not know the area.",
+            "The teacher has forbidden guests.",
+            "The writer has already paid for everyone."
+          ],
+          "answer": 0,
+          "explanation": "İkinci koşuldaki boş gün hayali, gerçekte cumartesi çalışmasıyla ilişkilidir.",
+          "choiceExplanations": [
+            "Doğru seçenek. İkinci koşuldaki boş gün hayali, gerçekte cumartesi çalışmasıyla ilişkilidir.",
+            "Fotoğraf çekmeyi sevdiği söylenir.",
+            "Su kenarında sakin yer bildiği anlatılır.",
+            "Önceden haber verilirse arkadaş getirilebilir.",
+            "Herkese ödeme yapmak gerçek değil hayaldir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "Our class is planning a Saturday trip. If the weather is good, we will visit a village near the lake. If it rains, we will go to the town library instead.\n\nI would like to invite my cousin, but she works on Saturdays. If she had a free day, she would come with us. She loves taking pictures, and she knows a quiet place by the water. I will send her our plan tonight.\n\nOur teacher says we can bring a friend if we tell her before Friday. Unless the bus is full, everyone will have a seat. I am saving money for lunch. If I were rich, I would pay for everyone, but for now we will each bring something to eat. It should be a simple and enjoyable day together."
         }
       ],
       "level": "B1"
@@ -386,74 +634,198 @@
       ],
       "quiz": [
         {
-          "prompt": "The sign says “No swimming”. You ___ swim here.",
+          "id": "modals-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The laboratory rules state that all visitors ---- wear safety glasses before they enter.",
           "choices": [
-            "don’t have to",
-            "mustn’t",
-            "should"
-          ],
-          "answer": 1,
-          "explanation": "Yüzmek yasak. Yasak bildirmek için mustn’t kullanılır."
-        },
-        {
-          "prompt": "It’s a free event. You ___ buy a ticket.",
-          "choices": [
-            "mustn’t",
+            "should not",
+            "has to",
             "have to",
-            "don’t have to"
+            "do not have to",
+            "must not"
           ],
           "answer": 2,
-          "explanation": "Bilet almak zorunlu değil. Don’t have to, gereklilik olmadığını belirtir."
+          "explanation": "Rules ve all visitors, dışarıdan gelen zorunluluğu gösterir. Çoğul özneyle have to uygundur.",
+          "choiceExplanations": [
+            "Takmama tavsiyesi verir; güvenlik kuralıyla uymaz.",
+            "All visitors çoğul olduğu için has kullanılamaz.",
+            "Doğru seçenek. Rules ve all visitors, dışarıdan gelen zorunluluğu gösterir. Çoğul özneyle have to uygundur.",
+            "Kuralın zorunlu olduğunu tersine çevirir.",
+            "Gözlük takmayı yasaklar; kuralın tersidir."
+          ],
+          "tip": "Must ve have to zorunluluk; must not yasak bildirir."
         },
         {
-          "prompt": "You look tired. You ___ take a break.",
+          "id": "modals-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The evening talk is optional. Students ---- attend it, but they are welcome if they are interested.",
+          "choices": [
+            "have to",
+            "has to",
+            "should not",
+            "do not have to",
+            "must not"
+          ],
+          "answer": 3,
+          "explanation": "Optional, katılmanın zorunlu olmadığını açıklar. Do not have to bu anlamı verir.",
+          "choiceExplanations": [
+            "Optional zorunluluk olmadığını söyler.",
+            "Çoğul students ile has uyumsuzdur.",
+            "İlgilenenlerin hoş karşılandığı bağlamda katılmama tavsiyesi verilmez.",
+            "Doğru seçenek. Optional, katılmanın zorunlu olmadığını açıklar. Do not have to bu anlamı verir.",
+            "Katılım yasak değildir; isteğe bağlıdır."
+          ],
+          "tip": "Zorunluluk yokluğu ile yasağı birbirine karıştırma."
+        },
+        {
+          "id": "modals-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "Students ---- copy another person’s work and present it as their own; the school rules forbid this.",
+          "choices": [
+            "do not have to",
+            "should",
+            "can",
+            "must",
+            "must not"
+          ],
+          "answer": 4,
+          "explanation": "Forbid yasaklamak demektir. Kesin yasak için must not + yalın fiil gerekir.",
+          "choiceExplanations": [
+            "Yasak yerine isteğe bağlılık bildirir.",
+            "Kopyalamayı tavsiye eder.",
+            "Bu bağlamda izin verir gibi okunur; forbid ile çelişir.",
+            "Kopyalamayı zorunlu kılar.",
+            "Doğru seçenek. Forbid yasaklamak demektir. Kesin yasak için must not + yalın fiil gerekir."
+          ],
+          "tip": "İpucu yalnızca not değil, cümlenin forbid gibi anlam taşıyan sözcükleridir."
+        },
+        {
+          "id": "modals-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The guide suggests taking regular breaks. To follow this advice, students ---- rest for a few minutes between tasks.",
           "choices": [
             "should",
+            "must not",
+            "should to",
             "has to",
-            "should to"
+            "does not have to"
           ],
           "answer": 0,
-          "explanation": "Burada tavsiye veriliyor: should + yalın fiil. Should sonrasında to gelmez."
+          "explanation": "Suggests ve advice tavsiye gösterir. Should ardından yalın rest kullanılır.",
+          "choiceExplanations": [
+            "Doğru seçenek. Suggests ve advice tavsiye gösterir. Should ardından yalın rest kullanılır.",
+            "Dinlenmeyi yasaklar; tavsiyenin tersidir.",
+            "Should ardından to gelmez.",
+            "Students çoğuldur; ayrıca burada tavsiye odağı vardır.",
+            "Çoğul özneyle does uyumsuzdur ve tavsiyeyi vermez."
+          ],
+          "tip": "Should ile güçlü zorunluluğu değil yararlı öneriyi vurgula."
         },
         {
-          "prompt": "Yesterday I ___ stay late at work.",
+          "id": "modals-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "Because the museum entry is free today, ----.",
           "choices": [
-            "must",
-            "had to",
-            "have to"
+            "tickets were compulsory for tomorrow yesterday",
+            "visitors do not have to buy a ticket",
+            "all visitors must pay the full price",
+            "visitors must not enter the museum at all",
+            "nobody is allowed to ask a question"
           ],
           "answer": 1,
-          "explanation": "Geçmişteki zorunluluk had to ile anlatılır. Yesterday geçmiş zaman bağlamını netleştirir."
-        },
-        {
-          "prompt": "___ he have to wear a uniform?",
-          "choices": [
-            "Does",
-            "Must",
-            "Has"
+          "explanation": "Free today, bugün bilet alma zorunluluğunun olmamasını destekler. Do not have to yasak anlamına gelmez.",
+          "choiceExplanations": [
+            "Zaman ifadesi tutarsızdır ve bugünkü ücretsiz girişe yanıt vermez.",
+            "Doğru seçenek. Free today, bugün bilet alma zorunluluğunun olmamasını destekler. Do not have to yasak anlamına gelmez.",
+            "Free giriş ile tam ücret zorunluluğu çelişir.",
+            "Ücretsiz olmak giriş yasağı değildir.",
+            "Ücret bilgisi soru sorma yasağını desteklemez."
           ],
-          "answer": 0,
-          "explanation": "Have to yapısının Present Simple sorusunda he için does kullanılır."
+          "tip": "Cümledeki fiyat bilgisi ile kuralın anlamını birlikte değerlendir."
         },
         {
-          "prompt": "Choose the correct sentence.",
+          "id": "modals-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "The school library is a quiet working area. People are welcome to read or use a computer. ---- Anyone who needs to make a call should go outside.",
           "choices": [
-            "She should to study.",
-            "She musts study.",
-            "She should study."
+            "People must keep all phone calls inside the reading room.",
+            "Reading is not allowed in the library at any time.",
+            "They must not have loud phone conversations inside.",
+            "Anyone who wants to make a call must use a library computer.",
+            "Visitors are encouraged to speak loudly near people who are studying."
           ],
           "answer": 2,
-          "explanation": "Should sonrası fiilin yalın hâli gelir; to ve -s eklenmez."
+          "explanation": "Sonraki cümle telefon görüşmesi için dışarı çıkmayı önerir. Boşluk içeride yüksek sesli konuşmama kuralını getirmelidir.",
+          "choiceExplanations": [
+            "Sonraki outside önerisiyle çelişir.",
+            "İlk cümlede sunulan okuma olanağını reddeder.",
+            "Doğru seçenek. Sonraki cümle telefon görüşmesi için dışarı çıkmayı önerir. Boşluk içeride yüksek sesli konuşmama kuralını getirmelidir.",
+            "Sonraki dışarı çıkma çözümünü açıklamaz.",
+            "Sessiz çalışma alanıyla çelişir."
+          ],
+          "tip": "Kural sorularında izin, yasak ve tavsiye ayrımını anlamdan kur."
         },
         {
-          "prompt": "“Bringing your own laptop is optional.” Which sentence matches?",
+          "id": "modals-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Which item is required at the sports centre?",
           "choices": [
-            "You mustn’t bring your laptop.",
-            "You don’t have to bring your laptop.",
-            "You have to bring your laptop."
+            "A book about advanced exercise.",
+            "Clean shoes.",
+            "Special clothes bought at the centre.",
+            "A personal swimming pool.",
+            "Food to eat beside the pool."
           ],
           "answer": 1,
-          "explanation": "Optional, zorunlu olmayan demektir. Don’t have to doğru anlamı verir; mustn’t yasak anlamına gelir."
+          "explanation": "Have to bring clean shoes zorunluluğu açıkça verir.",
+          "choiceExplanations": [
+            "Böyle bir eşya istenmemiştir.",
+            "Doğru seçenek. Have to bring clean shoes zorunluluğu açıkça verir.",
+            "Özel kıyafet almak zorunda olmadıkları belirtilir.",
+            "Havuza sahip olma gereği yoktur.",
+            "Havuz yanında yemek yasaktır."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "My friend Can and I are going to a sports centre for the first time. We have to bring clean shoes, but we do not have to buy any special clothes. The centre gives us a small card at the door.\n\nThe woman at the desk explains the rules. We must not eat beside the pool, and children have to stay with an adult. Can asks, “Do we have to book a swimming lesson?” She says we can swim alone, but a lesson may help us feel more confident.\n\nI have not done much exercise recently, so I ask for advice. “You should start slowly,” she says. “You should not try to do everything on the first day.” We decide to stay for an hour and come back next week. I am glad that I asked instead of guessing what to do."
+        },
+        {
+          "id": "modals-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What is the woman’s advice to the writer?",
+          "choices": [
+            "Avoid asking any questions.",
+            "Buy special clothes before any exercise.",
+            "Begin slowly rather than trying everything at once.",
+            "Do every activity on the first day.",
+            "Never return to the centre."
+          ],
+          "answer": 2,
+          "explanation": "Should start slowly ifadesi kontrollü başlamayı önerir.",
+          "choiceExplanations": [
+            "Yazar soru sorup yardım almıştır.",
+            "Kıyafetlerin zorunlu olmadığı belirtilir.",
+            "Doğru seçenek. Should start slowly ifadesi kontrollü başlamayı önerir.",
+            "Should not try everything bunun tersidir.",
+            "Geri dönmemeyi önermez."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "My friend Can and I are going to a sports centre for the first time. We have to bring clean shoes, but we do not have to buy any special clothes. The centre gives us a small card at the door.\n\nThe woman at the desk explains the rules. We must not eat beside the pool, and children have to stay with an adult. Can asks, “Do we have to book a swimming lesson?” She says we can swim alone, but a lesson may help us feel more confident.\n\nI have not done much exercise recently, so I ask for advice. “You should start slowly,” she says. “You should not try to do everything on the first day.” We decide to stay for an hour and come back next week. I am glad that I asked instead of guessing what to do."
         }
       ],
       "level": "B1"
@@ -538,74 +910,198 @@
       ],
       "quiz": [
         {
-          "prompt": "The teacher ___ helped me was very kind.",
+          "id": "relative-clauses-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The volunteers ---- help in the reading programme receive training before they meet the children.",
           "choices": [
             "where",
-            "who",
-            "whose"
-          ],
-          "answer": 1,
-          "explanation": "Teacher bir insanı ifade eder. Yan cümlede özne görevi gören who kullanılır."
-        },
-        {
-          "prompt": "This is the village ___ I grew up.",
-          "choices": [
-            "where",
-            "which",
-            "who"
-          ],
-          "answer": 0,
-          "explanation": "Bir yerde büyümekten söz ediliyor. Yer bildiren where uygundur."
-        },
-        {
-          "prompt": "She is the student ___ father is a pilot.",
-          "choices": [
-            "who",
-            "where",
-            "whose"
-          ],
-          "answer": 2,
-          "explanation": "Öğrencinin babası diyerek sahiplik anlatıyoruz: whose father."
-        },
-        {
-          "prompt": "Which sentence is correct?",
-          "choices": [
-            "The woman lives next door is a doctor.",
-            "The woman who lives next door is a doctor.",
-            "The woman who she lives next door is a doctor."
-          ],
-          "answer": 1,
-          "explanation": "Who, yan cümlenin öznesidir. Atılamaz ve ardından aynı özne she ile tekrar edilmez."
-        },
-        {
-          "prompt": "The film ___ we watched was interesting. Which option can be omitted?",
-          "choices": [
-            "that",
-            "where",
-            "whose"
-          ],
-          "answer": 0,
-          "explanation": "We watched bölümünde we özne, that ise nesnedir. Defining clause içinde nesne zamiri atılabilir."
-        },
-        {
-          "prompt": "My uncle, ___ lives in Bursa, is visiting us.",
-          "choices": [
-            "that",
             "whose",
-            "who"
+            "whom",
+            "who",
+            "which"
           ],
-          "answer": 2,
-          "explanation": "Virgüllü non-defining relative clause içinde kişi için who kullanılır; that kullanılmaz."
+          "answer": 3,
+          "explanation": "Volunteers insanları belirtir. Who, help fiilinin öznesi olur.",
+          "choiceExplanations": [
+            "Where yer ilişkisi kurar; özne görevini karşılamaz.",
+            "Whose ardından sahip olunan isim gerekir.",
+            "Whom nesne biçimidir; burada help fiilinin öznesi gerekir.",
+            "Doğru seçenek. Volunteers insanları belirtir. Who, help fiilinin öznesi olur.",
+            "İnsanları tanımlamak için which kullanılmaz."
+          ],
+          "tip": "Who + fiil örüntüsünde who özneyse çıkarılamaz."
         },
         {
-          "prompt": "Choose the correct sentence.",
+          "id": "relative-clauses-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The town needs a place ---- older people can meet and take part in activities.",
           "choices": [
-            "The bag that I lost it is blue.",
-            "The bag that I lost is blue.",
-            "The bag where I lost is blue."
+            "which",
+            "who",
+            "whose",
+            "what",
+            "where"
+          ],
+          "answer": 4,
+          "explanation": "Older people can meet tam cümledir; bir yerde buluşma anlamını where verir.",
+          "choiceExplanations": [
+            "Sonrasında tam cümle var; yer ilişkisini where kurar.",
+            "Place bir insan değildir.",
+            "Whose sahiplik ve arkasından isim ister.",
+            "Önünde place varken what bu ilgi yapısını kurmaz.",
+            "Doğru seçenek. Older people can meet tam cümledir; bir yerde buluşma anlamını where verir."
+          ],
+          "tip": "The place where people meet ile the place that people visit farklı görevler taşır."
+        },
+        {
+          "id": "relative-clauses-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The teacher met a student ---- project won first prize in the school science competition.",
+          "choices": [
+            "whose",
+            "who",
+            "which",
+            "where",
+            "that"
+          ],
+          "answer": 0,
+          "explanation": "Proje öğrenciye aittir. Whose + project sahipliği bildirir.",
+          "choiceExplanations": [
+            "Doğru seçenek. Proje öğrenciye aittir. Whose + project sahipliği bildirir.",
+            "Who project biçimi sahiplik kurmaz.",
+            "İnsan ve proje arasında sahiplik ilişkisini vermez.",
+            "Yer anlamı gerekmez.",
+            "That project burada öğrencinin projesi anlamını bağlamaz."
+          ],
+          "tip": "Whose sonrasında isim; who sonrasında çoğunlukla fiil gelir."
+        },
+        {
+          "id": "relative-clauses-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The equipment ---- the school bought last year is still used in every science lesson.",
+          "choices": [
+            "what",
+            "that",
+            "who",
+            "where",
+            "whose"
           ],
           "answer": 1,
-          "explanation": "That nesneyi temsil ettiği için it ile tekrar edilmez. Where ise yer ilişkisini anlatır."
+          "explanation": "The school bought the equipment cümlesindeki nesneyi that karşılar.",
+          "choiceExplanations": [
+            "Bir isimden sonra bu tanımlama yapısında what kullanılmaz.",
+            "Doğru seçenek. The school bought the equipment cümlesindeki nesneyi that karşılar.",
+            "Equipment insan değildir.",
+            "Bought fiilinin nesnesi eksiktir; yer bağlacı gerekmez.",
+            "Sahip olunan bir isim takip etmiyor."
+          ],
+          "tip": "Bu örnekte that nesne olduğu için çıkarılabilir; özne olsaydı çıkarılamazdı."
+        },
+        {
+          "id": "relative-clauses-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "The students who need extra reading practice ----.",
+          "choices": [
+            "whose books on the desk",
+            "where they meet every Tuesday",
+            "can join the small group after class",
+            "is the best place in the town",
+            "which the teacher bought yesterday"
+          ],
+          "answer": 2,
+          "explanation": "Who need… özneyi açıklayan yan cümledir. Ana cümle can join ile tamamlanır.",
+          "choiceExplanations": [
+            "Eksik fiil nedeniyle ana cümle tamamlanmaz.",
+            "Bu biçimde ana cümlenin yüklemi eksik kalır.",
+            "Doğru seçenek. Who need… özneyi açıklayan yan cümledir. Ana cümle can join ile tamamlanır.",
+            "Çoğul insan özneyle is ve place yüklemi uymaz.",
+            "Ana cümlede çekimli bir yüklem oluşturmaz."
+          ],
+          "tip": "Uzun özneyi gördüğünde ana cümlenin fiilini aramayı unutma."
+        },
+        {
+          "id": "relative-clauses-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "The community centre runs classes for people who are new to the area. Some participants do not know anyone in the town. ---- This gives them a chance to make friends while learning.",
+          "choices": [
+            "It requires new learners to work alone and avoid talking to others.",
+            "Only people who already know everyone in town may attend.",
+            "All lessons have been cancelled before any participant has met another.",
+            "The centre puts learners who share similar interests in small groups.",
+            "The classes are limited to learners who never want to meet anyone."
+          ],
+          "answer": 3,
+          "explanation": "Ortak ilgi alanı olanların grup hâlinde öğrenmesi, arkadaşlık kurma fırsatı doğurur.",
+          "choiceExplanations": [
+            "This gives them a chance to make friends sonucunu desteklemez.",
+            "Yeni gelen, kimseyi tanımayan katılımcılara yönelik kursla çelişir.",
+            "While learning ifadesiyle anlatılan birlikte öğrenme olanağını kaldırır.",
+            "Doğru seçenek. Ortak ilgi alanı olanların grup hâlinde öğrenmesi, arkadaşlık kurma fırsatı doğurur.",
+            "Kimseyi tanımayanlara sosyal fırsat sunma akışını tersine çevirir."
+          ],
+          "tip": "This gibi sözcüklerin önceki cümlenin hangi fikrine gönderdiğini kontrol et."
+        },
+        {
+          "id": "relative-clauses-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Which detail helped identify the lost bag?",
+          "choices": [
+            "It was empty except for a computer.",
+            "It belonged to the station worker.",
+            "It was bought on the train that morning.",
+            "It was blue and had a small pocket that was hard to open.",
+            "It was green with no pockets."
+          ],
+          "answer": 3,
+          "explanation": "Renk ve cep ayrıntısı hangi çanta olduğunu tanımlar.",
+          "choiceExplanations": [
+            "İçinde kitap ve gömlek olduğu anlatılır.",
+            "Çanta yazara aittir.",
+            "Doğum günü hediyesi olduğu belirtilir.",
+            "Doğru seçenek. Renk ve cep ayrıntısı hangi çanta olduğunu tanımlar.",
+            "Renk ve cep bilgisiyle çelişir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I went to the station to collect a bag that I had left on the train. It was the bag that my sister gave me for my birthday. The woman who worked at the desk asked me to describe it carefully.\n\nI told her it was blue and had a small pocket which was difficult to open. Inside, there was a book that I was reading and a red shirt. She showed me a room where people kept lost things. There were many bags, so I understood why she needed the details.\n\nAt last I saw a man who was carrying my bag towards the desk. He had found it on an empty seat. I thanked both of them and checked everything before leaving. Now I always look around my seat before I get off a train, even when I am in a hurry."
+        },
+        {
+          "id": "relative-clauses-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What does the writer do differently after this experience?",
+          "choices": [
+            "Leaves the bag behind on purpose.",
+            "Refuses to use trains again.",
+            "Carries only a red shirt.",
+            "Never asks station workers for help.",
+            "Checks around the seat before leaving a train."
+          ],
+          "answer": 4,
+          "explanation": "Son cümle acele ederken bile koltuğun çevresine bakma alışkanlığını anlatır.",
+          "choiceExplanations": [
+            "Yeni alışkanlığın tersini söyler.",
+            "Metinde böyle bir karar yoktur.",
+            "Gömlek içeriğidir; yeni alışkanlık değildir.",
+            "Yardım almıştır; bunu bırakma kararı yoktur.",
+            "Doğru seçenek. Son cümle acele ederken bile koltuğun çevresine bakma alışkanlığını anlatır."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I went to the station to collect a bag that I had left on the train. It was the bag that my sister gave me for my birthday. The woman who worked at the desk asked me to describe it carefully.\n\nI told her it was blue and had a small pocket which was difficult to open. Inside, there was a book that I was reading and a red shirt. She showed me a room where people kept lost things. There were many bags, so I understood why she needed the details.\n\nAt last I saw a man who was carrying my bag towards the desk. He had found it on an empty seat. I thanked both of them and checked everything before leaving. Now I always look around my seat before I get off a train, even when I am in a hurry."
         }
       ],
       "level": "B1"
@@ -690,74 +1186,198 @@
       ],
       "quiz": [
         {
-          "prompt": "I ___ dinner when the doorbell rang.",
+          "id": "past-simple-continuous-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "While the students ---- the plants in the school garden, their teacher took photographs of their work.",
           "choices": [
-            "cooked",
-            "was cooking",
-            "have cooked"
+            "examines",
+            "was examining",
+            "are examine",
+            "have examine",
+            "were examining"
           ],
-          "answer": 1,
-          "explanation": "Zil çaldığında yemek yapma eylemi devam ediyordu: was cooking."
+          "answer": 4,
+          "explanation": "Fotoğraf çekildiği sırada inceleme sürüyordu. Çoğul özne için were + V-ing kullanılır.",
+          "choiceExplanations": [
+            "Geçmiş bağlamına ve çoğul özneye uymaz.",
+            "Students çoğuldur; were gerekir.",
+            "Are ardından yalın fiil gelemez.",
+            "Have sonrasında V3 gerekir; geçmişte sürme anlamını da vermez.",
+            "Doğru seçenek. Fotoğraf çekildiği sırada inceleme sürüyordu. Çoğul özne için were + V-ing kullanılır."
+          ],
+          "tip": "Arka planda süren eylemi ana olaydan ayır."
         },
         {
-          "prompt": "While we were watching TV, the lights ___ out.",
+          "id": "past-simple-continuous-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The researcher was explaining the instructions when a student ---- a question.",
           "choices": [
-            "went",
-            "were going",
-            "have gone"
+            "asked",
+            "was ask",
+            "asks",
+            "did asked",
+            "has asking"
           ],
           "answer": 0,
-          "explanation": "Devam eden etkinliği bölen kısa olay Past Simple ile anlatılır: went out."
-        },
-        {
-          "prompt": "At 9 p.m. yesterday, they ___ for the exam.",
-          "choices": [
-            "study",
-            "have studied",
-            "were studying"
+          "explanation": "Sürmekte olan açıklamaya yeni bir olay eklenir: asked.",
+          "choiceExplanations": [
+            "Doğru seçenek. Sürmekte olan açıklamaya yeni bir olay eklenir: asked.",
+            "Was ardından yalın ask gelemez.",
+            "Ana anlatı geçmiştedir.",
+            "Did kullanıldıysa fiil yalın olmalıdır.",
+            "Has asking geçerli bir yapı değildir."
           ],
-          "answer": 2,
-          "explanation": "Geçmişte belirli bir anda devam eden eylem: were studying."
+          "tip": "When tek başına değil, olayların ilişkisiyle değerlendirilir."
         },
         {
-          "prompt": "___ you watching TV when I called?",
+          "id": "past-simple-continuous-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The class ---- a test at ten yesterday morning; the room was empty at that time.",
           "choices": [
-            "Did",
-            "Were",
-            "Was"
+            "did not taking",
+            "was not taking",
+            "was taking",
+            "is taking",
+            "were not taking"
           ],
           "answer": 1,
-          "explanation": "Watching devam eden eylemi gösterir. You ile soru Were you watching …? biçimindedir."
+          "explanation": "At ten yesterday geçmişte belirli bir anı gösterir. Oda boş olduğu için olumsuz was not taking gerekir.",
+          "choiceExplanations": [
+            "Did not sonrasında yalın take gerekir.",
+            "Doğru seçenek. At ten yesterday geçmişte belirli bir anı gösterir. Oda boş olduğu için olumsuz was not taking gerekir.",
+            "Oda boş olduğu için test sürüyor olamaz.",
+            "Yesterday morning ile şimdiki zaman uymaz.",
+            "Bu cümlede the class tek bir grup olarak tekildir."
+          ],
+          "tip": "The class bu örnekte tek bir grup olarak ele alınmıştır."
         },
         {
-          "prompt": "Did she ___ the message?",
+          "id": "past-simple-continuous-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The lights went out while the group ---- the results, so they continued by the window.",
           "choices": [
-            "read",
-            "reads",
-            "reading"
+            "did discussing",
+            "has discussed",
+            "was discussing",
+            "discusses",
+            "was discuss"
+          ],
+          "answer": 2,
+          "explanation": "Işıkların sönmesi ana olay, sonuçları konuşmak o sırada süren arka plandır.",
+          "choiceExplanations": [
+            "Did ve -ing bu biçimde birleşmez.",
+            "Bitmiş geçmiş olayın arka planı için uygun değildir.",
+            "Doğru seçenek. Işıkların sönmesi ana olay, sonuçları konuşmak o sırada süren arka plandır.",
+            "Geçmiş hikâyeye uymaz.",
+            "Was sonrasında -ing gerekir."
+          ],
+          "tip": "Discuss doğrudan nesne alır; discuss about eklemek gerekmez."
+        },
+        {
+          "id": "past-simple-continuous-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "The visitors were listening to the guide when ----.",
+          "choices": [
+            "the museum opens every day",
+            "were carrying several bags",
+            "the guide has speak to them",
+            "the fire alarm suddenly rang",
+            "they are always arrive early"
+          ],
+          "answer": 3,
+          "explanation": "Süren dinleme eylemini bölen geçmiş olay rang ile kurulur.",
+          "choiceExplanations": [
+            "Genel rutin, burada anlatılan geçmiş ana olay değildir.",
+            "When sonrasında özne eksiktir.",
+            "Has speak yanlış biçimdir.",
+            "Doğru seçenek. Süren dinleme eylemini bölen geçmiş olay rang ile kurulur.",
+            "Geçmiş bağlamına uymaz ve are arrive hatalıdır."
+          ],
+          "tip": "Sürekli zaman + when + Past Simple sık kullanılan bir anlatım örüntüsüdür."
+        },
+        {
+          "id": "past-simple-continuous-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "The pupils were working quietly in the classroom. Their teacher was writing an example on the board. ---- Everyone looked towards the door to see who it was.",
+          "choices": [
+            "The room remained silent, and no sound came from outside.",
+            "The teacher asked everyone to keep looking at the board.",
+            "All pupils left the building before the teacher arrived.",
+            "The teacher quietly handed out a new worksheet without leaving the board.",
+            "Suddenly, someone knocked loudly."
+          ],
+          "answer": 4,
+          "explanation": "Geçmişte süren çalışmaya kısa bir kapı sesi eklenir; herkesin kapıya dönmesi bunun sonucudur.",
+          "choiceExplanations": [
+            "Herkesin kapıya dönüp kimin geldiğini araştırmasını açıklamaz.",
+            "Kapıya bakma tepkisini tetikleyen gelişi açıklamaz.",
+            "İçeride çalıştıkları ve ardından kapıya baktıkları sahneyle çelişir.",
+            "Kapıda kimin olduğunu merak etmeyi açıklamaz.",
+            "Doğru seçenek. Geçmişte süren çalışmaya kısa bir kapı sesi eklenir; herkesin kapıya dönmesi bunun sonucudur."
+          ],
+          "tip": "Paragraf boşluğunda sonraki davranışı tetikleyen olayı ara."
+        },
+        {
+          "id": "past-simple-continuous-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What was the writer doing before the power cut?",
+          "choices": [
+            "Doing homework at the kitchen table.",
+            "Making dinner alone.",
+            "Watching television with the neighbour.",
+            "Looking for a torch outside.",
+            "Sleeping beside the window."
           ],
           "answer": 0,
-          "explanation": "Did ardından fiilin yalın hâli gelir. Read burada yalın biçimdir; yazılışı geçmiş biçimiyle aynıdır."
-        },
-        {
-          "prompt": "I was walking home when I ___ an old friend.",
-          "choices": [
-            "was see",
-            "seeing",
-            "saw"
+          "explanation": "Başlangıçtaki was doing geçmişte devam eden ödevi gösterir.",
+          "choiceExplanations": [
+            "Doğru seçenek. Başlangıçtaki was doing geçmişte devam eden ödevi gösterir.",
+            "Yemeği kardeşi hazırlıyordu.",
+            "Elektrik kesintisinde televizyon yerine konuştular.",
+            "El feneri sonradan çekmecede bulundu.",
+            "Uyuduğuna dair bilgi yoktur."
           ],
-          "answer": 2,
-          "explanation": "Devam eden yürüyüş sırasında gerçekleşen karşılaşma Past Simple ile anlatılır: saw."
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "Yesterday evening I was doing my homework at the kitchen table while my brother was making dinner. Rain was hitting the window, and the street outside looked dark. We were both looking forward to a quiet evening at home.\n\nAt about eight, the lights suddenly went out. My brother stopped cooking, and I looked for my phone. While I was checking the screen, someone knocked on the door. It was our neighbour, who wanted to know if we had a torch.\n\nWe found one in a drawer and shared it with her. Then we sat near the window and talked instead of watching television. The lights came back an hour later, but we were still telling stories. My homework was not finished, yet the evening was more interesting than I expected. I learned something new about both my brother and our neighbour."
         },
         {
-          "prompt": "“They were cooking while I was cleaning.” What does it describe?",
+          "id": "past-simple-continuous-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Why did the neighbour knock on the door?",
           "choices": [
-            "Two finished events in sequence",
-            "Two activities happening at the same time",
-            "A future arrangement"
+            "To ask them to turn off their lights.",
+            "To ask whether they had a torch.",
+            "To return the writer’s finished homework.",
+            "To invite them to watch television.",
+            "To complain about the food."
           ],
           "answer": 1,
-          "explanation": "Her iki bölümde Past Continuous, geçmişte eş zamanlı devam eden etkinlikleri anlatır."
+          "explanation": "Komşu el feneri olup olmadığını öğrenmek ister.",
+          "choiceExplanations": [
+            "Işıklar zaten kesilmiştir.",
+            "Doğru seçenek. Komşu el feneri olup olmadığını öğrenmek ister.",
+            "Ödev tamamlanmamıştır; komşunun amacı bu değildir.",
+            "Elektrik yoktur ve amaç el feneridir.",
+            "Yemekten şikâyet anlatılmaz."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "Yesterday evening I was doing my homework at the kitchen table while my brother was making dinner. Rain was hitting the window, and the street outside looked dark. We were both looking forward to a quiet evening at home.\n\nAt about eight, the lights suddenly went out. My brother stopped cooking, and I looked for my phone. While I was checking the screen, someone knocked on the door. It was our neighbour, who wanted to know if we had a torch.\n\nWe found one in a drawer and shared it with her. Then we sat near the window and talked instead of watching television. The lights came back an hour later, but we were still telling stories. My homework was not finished, yet the evening was more interesting than I expected. I learned something new about both my brother and our neighbour."
         }
       ],
       "level": "B1"
@@ -842,74 +1462,198 @@
       ],
       "quiz": [
         {
-          "prompt": "“I’m cold.” “I ___ close the window.”",
+          "id": "future-forms-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The students have already bought their tickets. They ---- the science museum tomorrow morning.",
           "choices": [
-            "am closing yesterday",
-            "will",
-            "was going to"
+            "are visiting",
+            "visited",
+            "were visiting",
+            "visit yesterday",
+            "are visit"
           ],
-          "answer": 1,
-          "explanation": "Konuşma anında yapılan teklif için will uygundur."
+          "answer": 0,
+          "explanation": "Biletler alınmış olduğundan ziyaret ayarlanmış bir plandır. Present Continuous geleceği anlatır.",
+          "choiceExplanations": [
+            "Doğru seçenek. Biletler alınmış olduğundan ziyaret ayarlanmış bir plandır. Present Continuous geleceği anlatır.",
+            "Tomorrow gelecek zamanı gösterir.",
+            "Geçmişte sürme anlatır; yarına uymaz.",
+            "Yesterday ve tomorrow çelişir.",
+            "Are sonrasında bu yapıda -ing gerekir."
+          ],
+          "tip": "Gelecek anlamını yalnızca will değil bağlam ve zaman ifadesi de kurar."
         },
         {
-          "prompt": "Look! That glass is falling. It ___ break.",
+          "id": "future-forms-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "Look at the dark clouds above the field. It ---- rain before the outdoor lesson begins.",
           "choices": [
+            "going",
             "is going to",
-            "will to",
-            "going to"
-          ],
-          "answer": 0,
-          "explanation": "Görünen kanıta dayalı tahmin: is going to break."
-        },
-        {
-          "prompt": "We have booked the tickets. We ___ to Ankara tomorrow.",
-          "choices": [
-            "flew",
-            "were flying",
-            "are flying"
-          ],
-          "answer": 2,
-          "explanation": "Ayarlanmış bir gelecek planı ve tomorrow ifadesi, Present Continuous kullanımını destekler."
-        },
-        {
-          "prompt": "I’ll call you when I ___ home.",
-          "choices": [
-            "will get",
-            "get",
-            "got"
+            "was going to",
+            "has to be",
+            "is raining to"
           ],
           "answer": 1,
-          "explanation": "Gelecek anlamlı when yan cümlesinde Present Simple kullanılır: when I get home."
-        },
-        {
-          "prompt": "According to the timetable, the bus ___ at 6 tomorrow.",
-          "choices": [
-            "leaves",
-            "leaving",
-            "leave"
+          "explanation": "Şu anda görülen bulutlar tahmine kanıt oluşturur; is going to rain uygundur.",
+          "choiceExplanations": [
+            "Going to öncesinde be eksiktir.",
+            "Doğru seçenek. Şu anda görülen bulutlar tahmine kanıt oluşturur; is going to rain uygundur.",
+            "Şu anda görülen kanıta dayalı gelecek tahmini yerine geçmiş niyet verir.",
+            "Has to be rain bu cümlede doğru bir fiil zinciri oluşturmaz.",
+            "Bu biçim gelecek tahmini kurmaz."
           ],
-          "answer": 0,
-          "explanation": "Tarifeler için Present Simple uygundur. Tekil bus ile leaves kullanılır."
+          "tip": "Görünen kanıtı niyet kullanımıyla karıştırma; going to ikisinde de görülebilir."
         },
         {
-          "prompt": "“I can’t carry this.” — “Don’t worry, I ___ help you.”",
+          "id": "future-forms-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The phone is ringing and nobody has answered it. “I ---- get it,” says the student closest to the door.",
           "choices": [
-            "am help",
-            "helped",
-            "will"
+            "have",
+            "would to",
+            "will",
+            "am going",
+            "was"
           ],
           "answer": 2,
-          "explanation": "Konuşma anında yapılan teklif: I will help you."
+          "explanation": "Konuşma sırasında verilen yeni karar veya üstlenilen iş will + yalın fiille anlatılır.",
+          "choiceExplanations": [
+            "Have get bu yapıyı kurmaz.",
+            "Would to yanlış fiil dizisidir.",
+            "Doğru seçenek. Konuşma sırasında verilen yeni karar veya üstlenilen iş will + yalın fiille anlatılır.",
+            "Am going ardından to eksiktir.",
+            "Was get geçerli değildir."
+          ],
+          "tip": "I’ll get it bu bağlamda telefonu ben açayım anlamındadır."
         },
         {
-          "prompt": "“We’re meeting the dentist tomorrow at ten.” What is emphasised?",
+          "id": "future-forms-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The guide will explain the route as soon as everyone ---- at the meeting point.",
           "choices": [
-            "A finished past event",
-            "An arranged future appointment",
-            "A repeated daily habit"
+            "arrived",
+            "arriving",
+            "have arrive",
+            "arrives",
+            "will arrive"
           ],
-          "answer": 1,
-          "explanation": "Tomorrow ve belirli saat, Present Continuous yapısının düzenlenmiş gelecek randevusunu anlattığını gösterir."
+          "answer": 3,
+          "explanation": "Gelecek zaman yan cümlesinde as soon as ardından Present Simple kullanılır. Everyone ile arrives gelir.",
+          "choiceExplanations": [
+            "Ana cümlede gelecek düzeni var; geçmiş zaman uymaz.",
+            "Çekimli fiil eksiktir.",
+            "Everyone tekildir; ayrıca V3 biçimi gerekir.",
+            "Doğru seçenek. Gelecek zaman yan cümlesinde as soon as ardından Present Simple kullanılır. Everyone ile arrives gelir.",
+            "As soon as ile zaman yan cümlesinde burada Present Simple gerekir."
+          ],
+          "tip": "Gelecek anlamı olan her bölümde will kullanmak gerekmez."
+        },
+        {
+          "id": "future-forms-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "We are going to interview local residents about the new park, ----.",
+          "choices": [
+            "although no one has any intention of asking questions",
+            "because the interviews took place two centuries ago",
+            "but the park and its residents cannot exist",
+            "so we never prepare or ask anything at all",
+            "so we have prepared a short list of questions"
+          ],
+          "answer": 4,
+          "explanation": "Önceden düşünülen görüşme için soru hazırlamak anlamlı bir sonuçtur.",
+          "choiceExplanations": [
+            "Görüşme niyetiyle çelişir.",
+            "Gelecek niyetini uzak geçmişle tutarsız bağlar.",
+            "Verilen yerel bağlamı gereksiz biçimde reddeder.",
+            "Hazırlanacak görüşmenin amacını ortadan kaldırır.",
+            "Doğru seçenek. Önceden düşünülen görüşme için soru hazırlamak anlamlı bir sonuçtur."
+          ],
+          "tip": "Niyet cümlesiyle verilen hazırlık bilgisini ilişkilendir."
+        },
+        {
+          "id": "future-forms-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "The class has arranged a visit to a farm for Friday. The farmer is meeting them at the gate at nine. ---- They have also asked the school to provide a bus for the journey.",
+          "choices": [
+            "The students are going to learn how food is grown.",
+            "The pupils visited the farm last Friday and will not return.",
+            "The farmer has cancelled the visit and asked everyone to stay at school.",
+            "The class has decided that no one will take part in the journey.",
+            "The school has permanently ended all trips outside the classroom."
+          ],
+          "answer": 0,
+          "explanation": "Çiftlik ziyaretinin öğrenme amacı, yapılan ulaşım ve buluşma düzenlemelerini tamamlar.",
+          "choiceExplanations": [
+            "Doğru seçenek. Çiftlik ziyaretinin öğrenme amacı, yapılan ulaşım ve buluşma düzenlemelerini tamamlar.",
+            "Bu cuma için ayarlanmış ziyaretin amacı yerine bitmiş başka olay anlatır.",
+            "Sonraki yolculuk otobüsü düzenlemesiyle çelişir.",
+            "The farmer is meeting them düzenlemesini reddeder.",
+            "Hazırlanan çiftlik ziyaretiyle bağdaşmaz."
+          ],
+          "tip": "Bir paragrafta farklı gelecek yapıları aynı planın farklı yönlerini anlatabilir."
+        },
+        {
+          "id": "future-forms-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Which part of the journey has already been arranged?",
+          "choices": [
+            "Returning with the cousin on Sunday evening.",
+            "Buying a new phone at the market.",
+            "Taking the early train on Saturday.",
+            "Eating at a restaurant at a fixed time.",
+            "Cancelling the trip because of the weather."
+          ],
+          "answer": 2,
+          "explanation": "Biletlerin alınması, tren yolculuğunun ayarlanmış olduğunu gösterir.",
+          "choiceExplanations": [
+            "Dönüş düzenlemesi verilmemiştir.",
+            "Telefon satın alma planı yoktur.",
+            "Doğru seçenek. Biletlerin alınması, tren yolculuğunun ayarlanmış olduğunu gösterir.",
+            "Öğle yemeği yeri henüz belirlenmemiştir.",
+            "İptal kararı anlatılmaz."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "My friend Deniz and I are planning a weekend in another town. We are taking the early train on Saturday because we have already bought our tickets. My cousin is meeting us at the station and will show us around.\n\nWe are going to visit the old market, but we have not decided where to have lunch. Deniz wants to try a small restaurant near the river. I think it will be busy, so we may need to go early. If the weather is good, we will eat outside.\n\nWhile we talk, Deniz notices that his phone is almost out of power. “I will bring my charger,” I say. That is a new decision, not part of our earlier plan. We will message my cousin as soon as we arrive. I am excited because I have never visited this town before."
+        },
+        {
+          "id": "future-forms-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Which decision is made during the conversation?",
+          "choices": [
+            "They decide to travel by plane.",
+            "They arrange the cousin’s first visit to the town.",
+            "They agree to cancel the train tickets.",
+            "The writer offers to bring a charger.",
+            "The friends decide never to contact the cousin."
+          ],
+          "answer": 3,
+          "explanation": "I will bring my charger cümlesi o anda verilen yeni karardır.",
+          "choiceExplanations": [
+            "Tren biletleri alınmıştır.",
+            "Kuzen onları orada karşılayacaktır.",
+            "Böyle bir karar yoktur.",
+            "Doğru seçenek. I will bring my charger cümlesi o anda verilen yeni karardır.",
+            "Varınca mesaj atacakları söylenir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "My friend Deniz and I are planning a weekend in another town. We are taking the early train on Saturday because we have already bought our tickets. My cousin is meeting us at the station and will show us around.\n\nWe are going to visit the old market, but we have not decided where to have lunch. Deniz wants to try a small restaurant near the river. I think it will be busy, so we may need to go early. If the weather is good, we will eat outside.\n\nWhile we talk, Deniz notices that his phone is almost out of power. “I will bring my charger,” I say. That is a new decision, not part of our earlier plan. We will message my cousin as soon as we arrive. I am excited because I have never visited this town before."
         }
       ],
       "level": "B1"
@@ -994,74 +1738,198 @@
       ],
       "quiz": [
         {
-          "prompt": "English ___ in many countries.",
+          "id": "passive-voice-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "At this centre, all returned books ---- before they are put back on the shelves.",
           "choices": [
-            "speaks",
-            "is spoken",
-            "is speaking"
+            "checked",
+            "are checked",
+            "check",
+            "is checked",
+            "are checking"
           ],
           "answer": 1,
-          "explanation": "Dil konuşulma eyleminden etkilenir: Present Simple passive, is spoken."
-        },
-        {
-          "prompt": "The documents ___ yesterday.",
-          "choices": [
-            "were sent",
-            "are send",
-            "was sent"
+          "explanation": "Genel süreç için Present Simple Passive gerekir: çoğul books + are + V3.",
+          "choiceExplanations": [
+            "Geniş zaman edilgende be yardımcı fiili eksiktir.",
+            "Doğru seçenek. Genel süreç için Present Simple Passive gerekir: çoğul books + are + V3.",
+            "Kitaplar kontrolü yapan değil kontrolden etkilenen şeydir.",
+            "Books çoğuldur; are gerekir.",
+            "Etken sürekli yapı kontrolü kitaplar yapıyormuş gibi kurar."
           ],
-          "answer": 0,
-          "explanation": "Yesterday geçmiş zamanı, çoğul documents ise were kullanımını gerektirir: were sent."
+          "tip": "Edilgende özne işi yapmaktan çok işten etkilenir."
         },
         {
-          "prompt": "This picture was painted ___ my sister.",
+          "id": "passive-voice-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The old school building ---- in 1965 and still serves the same neighbourhood.",
           "choices": [
-            "from",
+            "were built",
+            "was building",
+            "was built",
+            "is built",
+            "built"
+          ],
+          "answer": 2,
+          "explanation": "Bina 1965 yılında inşa edilmiştir; tekil özneyle was + built kullanılır.",
+          "choiceExplanations": [
+            "Building tekildir; was gerekir.",
+            "Bu biçim özneyi işi yapan olarak sunar; burada edilgen gerekir.",
+            "Doğru seçenek. Bina 1965 yılında inşa edilmiştir; tekil özneyle was + built kullanılır.",
+            "Belirli bitmiş geçmiş tarihi in 1965 ile Past Simple gerekir.",
+            "Binanın inşa edilmesi için edilgen be + V3 gerekir."
+          ],
+          "tip": "Build–built–built düzensiz fiilini zaman ve çatıdan ayrı kontrol et."
+        },
+        {
+          "id": "passive-voice-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The results were announced ---- the head teacher at the end of the meeting.",
+          "choices": [
             "with",
-            "by"
+            "from",
+            "during",
+            "by",
+            "for"
           ],
-          "answer": 2,
-          "explanation": "Edilgen cümlede eylemi yapan kişi by ile belirtilir."
+          "answer": 3,
+          "explanation": "Edilgen cümlede işi yapan kişi by ile belirtilir.",
+          "choiceExplanations": [
+            "With kullanılan araçla ilgili olabilir; burada eylemi yapan kişi gerekir.",
+            "From bu edilgen yapıda yapanı göstermez.",
+            "During ardından bir zaman/dönem gerekir; kişi uygun değildir.",
+            "Doğru seçenek. Edilgen cümlede işi yapan kişi by ile belirtilir.",
+            "For amaç veya yarar ilişkisi kurar; yapan kişiyi belirtmez."
+          ],
+          "tip": "Yapan kişi önemli değilse by bölümü eklemek zorunlu değildir."
         },
         {
-          "prompt": "The report will ___ tomorrow.",
+          "id": "passive-voice-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The classroom windows ---- yesterday because the weather was too cold.",
           "choices": [
-            "sent",
-            "be sent",
-            "be send"
+            "are not opened",
+            "did not opened",
+            "was not opened",
+            "not were opened",
+            "were not opened"
           ],
-          "answer": 1,
-          "explanation": "Future passive: will be + V3. Send fiilinin V3 biçimi sent olur."
+          "answer": 4,
+          "explanation": "Geçmiş edilgen olumsuz yapı were not + V3 şeklindedir.",
+          "choiceExplanations": [
+            "Yesterday bitmiş geçmişi gerektirir.",
+            "Did not ardından yalın fiil gerekir; ayrıca edilgen kurulmamıştır.",
+            "Windows çoğuldur; were gerekir.",
+            "Not, be yardımcı fiilinden sonra gelir.",
+            "Doğru seçenek. Geçmiş edilgen olumsuz yapı were not + V3 şeklindedir."
+          ],
+          "tip": "Edilgen soru ve olumsuzunda ayrıca did ekleme."
         },
         {
-          "prompt": "These forms must ___ before Friday.",
+          "id": "passive-voice-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "Since personal names are not needed for the study, ----.",
           "choices": [
-            "be completed",
-            "completed",
-            "be completing"
+            "they are removed from the forms before the answers are analysed",
+            "the students must include them in every final report",
+            "no answers have been collected in any study",
+            "the forms are being invented next century",
+            "the study does not involve any questions or forms"
           ],
           "answer": 0,
-          "explanation": "Modal passive, must + be + V3 yapısını gerektirir."
-        },
-        {
-          "prompt": "Someone broke the window. Choose the passive sentence.",
-          "choices": [
-            "The window is breaking.",
-            "The window broke someone.",
-            "The window was broken."
+          "explanation": "İsimler gerekli değilse analiz öncesinde çıkarılmaları anlamlıdır. They, personal names sözcüğüne gider.",
+          "choiceExplanations": [
+            "Doğru seçenek. İsimler gerekli değilse analiz öncesinde çıkarılmaları anlamlıdır. They, personal names sözcüğüne gider.",
+            "İsimlere ihtiyaç olmadığını belirten gerekçeyle ters düşer.",
+            "Bu çalışma yerine bütün çalışmalar hakkında desteklenmeyen hüküm verir.",
+            "Bağlamı ilgisiz bir gelecek zamana taşır.",
+            "İsimlerin kullanıldığı veri bağlamını gereksiz biçimde yok sayar."
           ],
-          "answer": 2,
-          "explanation": "Geçmiş zaman korunur; window tekil olduğu için was ve break fiilinin V3 biçimi broken kullanılır."
+          "tip": "Uzun cümlede zamirin hangi isme gönderdiğini bul."
         },
         {
-          "prompt": "The rooms ___ every morning.",
+          "id": "passive-voice-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "A small town museum is preparing an exhibition of old photographs. The pictures were collected from local families. ---- Visitors can therefore understand who and what they show.",
           "choices": [
-            "is cleaned",
-            "are cleaned",
-            "are clean"
+            "All pictures are kept behind a wall where visitors cannot see them.",
+            "Each photograph is displayed with a short explanation.",
+            "Every written label has been removed from the photographs.",
+            "Only the backs of the photographs are shown to the public.",
+            "None of the pictures collected from families will be included."
           ],
           "answer": 1,
-          "explanation": "Çoğul özne rooms ile are gerekir. Passive için fiilin V3 biçimi cleaned kullanılır."
+          "explanation": "Açıklama eklenmesi, fotoğrafların kimi veya neyi gösterdiğini anlamayı sağlar.",
+          "choiceExplanations": [
+            "Fotoğraflardaki kişi ve olayları anlama sonucuna uymaz.",
+            "Doğru seçenek. Açıklama eklenmesi, fotoğrafların kimi veya neyi gösterdiğini anlamayı sağlar.",
+            "Therefore ile gelen anlaşılabilirlik sonucunu desteklemez.",
+            "Resimlerin kimi ve neyi gösterdiğini anlamayı engeller.",
+            "They show ifadesiyle fotoğrafların incelendiği sonraki cümleye uymaz."
+          ],
+          "tip": "Paragrafın sonundaki therefore, önceki bilginin sonucunu verir."
+        },
+        {
+          "id": "passive-voice-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What happens to the fruit first in the process described?",
+          "choices": [
+            "It is packed into boxes before any checks.",
+            "It is put into the visitor’s bag.",
+            "It is sold directly to the class.",
+            "It is left at the gate.",
+            "It is washed."
+          ],
+          "answer": 4,
+          "explanation": "First, the fruit is washed işlem sırasının ilk adımını verir.",
+          "choiceExplanations": [
+            "Paketleme sonraki aşamadır.",
+            "Öğrencilere verilen şişe ile meyve işleme karıştırılır.",
+            "Doğrudan satış anlatılmaz.",
+            "Kapıda bekletme aşaması yoktur.",
+            "Doğru seçenek. First, the fruit is washed işlem sırasının ilk adımını verir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "Last Saturday our class visited a small food factory near our town. We were met at the gate by a friendly guide. Before the visit, we were given clean coats and hats. We were asked to wash our hands carefully.\n\nInside, the guide explained how fruit juice is made. First, the fruit is washed. Then it is cut and checked. The juice is put into bottles, and the bottles are packed in boxes. Most of the fruit comes from farms close to the factory.\n\nWe watched the workers through a large window because visitors were not allowed to enter every room. At the end, each student was given a bottle to take home. I used to buy juice without thinking about its journey. Now I know how much work is needed before a bottle arrives in a shop."
+        },
+        {
+          "id": "passive-voice-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Why did the students watch through a window?",
+          "choices": [
+            "Visitors could not enter every room.",
+            "The factory had closed years earlier.",
+            "The students were not interested in the process.",
+            "The guide did not meet them.",
+            "The fruit was kept outside the building."
+          ],
+          "answer": 0,
+          "explanation": "Because visitors were not allowed… izleme yerinin gerekçesidir.",
+          "choiceExplanations": [
+            "Doğru seçenek. Because visitors were not allowed… izleme yerinin gerekçesidir.",
+            "Fabrika çalışmaktadır ve ziyaret edilir.",
+            "Süreci izledikleri anlatılır.",
+            "Rehber kapıda karşılamıştır.",
+            "Böyle bir açıklama verilmez."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "Last Saturday our class visited a small food factory near our town. We were met at the gate by a friendly guide. Before the visit, we were given clean coats and hats. We were asked to wash our hands carefully.\n\nInside, the guide explained how fruit juice is made. First, the fruit is washed. Then it is cut and checked. The juice is put into bottles, and the bottles are packed in boxes. Most of the fruit comes from farms close to the factory.\n\nWe watched the workers through a large window because visitors were not allowed to enter every room. At the end, each student was given a bottle to take home. I used to buy juice without thinking about its journey. Now I know how much work is needed before a bottle arrives in a shop."
         }
       ],
       "level": "B1"
@@ -1146,74 +2014,198 @@
       ],
       "quiz": [
         {
-          "prompt": "“I am happy.” → She said that she ___ happy.",
+          "id": "reported-speech-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "After the lesson, Ece explained that she ---- the instructions and needed another example.",
           "choices": [
-            "is being",
-            "was",
-            "were"
+            "did not understood",
+            "not understood",
+            "did not understand",
+            "does not understood",
+            "was not understand"
           ],
-          "answer": 1,
-          "explanation": "Geçmişteki said sonrasında am çoğunlukla was biçimine dönüşür."
+          "answer": 2,
+          "explanation": "Geçmişteki açıklamada anlamadığını aktarmak için did not understand kullanılır.",
+          "choiceExplanations": [
+            "Did not sonrasında understand yalın kalmalıdır.",
+            "Çekimli yardımcı fiil eksiktir.",
+            "Doğru seçenek. Geçmişteki açıklamada anlamadığını aktarmak için did not understand kullanılır.",
+            "Does sonrasında yalın fiil gerekir.",
+            "Was ardından bu anlamda yalın understand gelemez."
+          ],
+          "tip": "Zamanı did taşıdığı için ana fiile geçmiş eki ekleme."
         },
         {
-          "prompt": "He ___ me that he was late.",
+          "id": "reported-speech-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The student ---- the teacher that the new timetable was difficult to follow.",
           "choices": [
+            "spoke",
+            "asked to",
+            "talked",
             "told",
-            "said",
-            "spoke"
+            "said"
+          ],
+          "answer": 3,
+          "explanation": "Tell someone that kalıbında alıcı doğrudan nesne olarak gelir.",
+          "choiceExplanations": [
+            "Spoke bu biçimde kişi + that-clause kalıbı almaz.",
+            "Asked to the teacher that… bu bildirme yapısına uymaz.",
+            "Talked the teacher that… biçimi doğru değildir.",
+            "Doğru seçenek. Tell someone that kalıbında alıcı doğrudan nesne olarak gelir.",
+            "Kişi doğrudan takip ediyorsa told gerekir; said to the teacher olabilir."
+          ],
+          "tip": "Say something; tell someone something ayrımını öğren."
+        },
+        {
+          "id": "reported-speech-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The guide asked the visitors where ---- before they came to the town.",
+          "choices": [
+            "had they stayed",
+            "did they stay",
+            "they stay did",
+            "stayed they",
+            "they had stayed"
+          ],
+          "answer": 4,
+          "explanation": "Aktarılan soruda where + they + had stayed kullanılır. Önceki konaklama had + V3 ile verilir.",
+          "choiceExplanations": [
+            "Dolaylı soruda soru sırası değil özne + fiil sırası gerekir.",
+            "Aktarılan soruda devrik sıra ve did kullanılmaz.",
+            "Did cümle sonuna konmaz.",
+            "Özne-fiil sırası ters kurulmuştur.",
+            "Doğru seçenek. Aktarılan soruda where + they + had stayed kullanılır. Önceki konaklama had + V3 ile verilir."
+          ],
+          "tip": "Dolaylı sorunun sonunda ayrı soru sırası kurma."
+        },
+        {
+          "id": "reported-speech-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The teacher reminded the class ---- their names at the top of the answer sheet.",
+          "choices": [
+            "to write",
+            "writing",
+            "write",
+            "wrote",
+            "that writing"
           ],
           "answer": 0,
-          "explanation": "Ardından me gibi bir kişi nesnesi geldiğinde told uygundur."
-        },
-        {
-          "prompt": "“I will call.” → He said he ___ call.",
-          "choices": [
-            "will to",
-            "can to",
-            "would"
+          "explanation": "Remind someone to do something, birine yapmasını hatırlatmak demektir.",
+          "choiceExplanations": [
+            "Doğru seçenek. Remind someone to do something, birine yapmasını hatırlatmak demektir.",
+            "Remind + person + to-infinitive gerekir.",
+            "Bu kalıpta to eksiktir.",
+            "Çekimli geçmiş fiil, isteğin tamamlayıcısı olamaz.",
+            "That writing tek başına tam yan cümle değildir."
           ],
-          "answer": 2,
-          "explanation": "Will, geçmiş zamanda aktarılan sözde çoğunlukla would olur."
+          "tip": "Ask, tell ve remind sonrasında kişi + to + fiil kalıbını tanı."
         },
         {
-          "prompt": "“Where do you live?” → She asked where I ___.",
+          "id": "reported-speech-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "When the students asked whether the library would be open on Sunday, ----.",
           "choices": [
-            "did live",
-            "lived",
-            "do live"
-          ],
-          "answer": 1,
-          "explanation": "Aktarılan soruda düz cümle sırası kullanılır ve do kaldırılır. Geçmiş bağlamda lived uygundur."
-        },
-        {
-          "prompt": "“Please sit down.” → He asked me ___ down.",
-          "choices": [
-            "to sit",
-            "sitting",
-            "sit"
-          ],
-          "answer": 0,
-          "explanation": "Aktarılan istek yapısı ask + kişi + to + fiil şeklindedir."
-        },
-        {
-          "prompt": "“Don’t open the box.” → She told us ___ the box.",
-          "choices": [
-            "to not opening",
-            "not open",
-            "not to open"
-          ],
-          "answer": 2,
-          "explanation": "Olumsuz aktarılan talimat: told us not to open."
-        },
-        {
-          "prompt": "“Do you speak French?” → He asked ___ I spoke French.",
-          "choices": [
-            "that",
-            "if",
-            "what"
+            "they said the librarian that it was closed",
+            "the librarian told them that it would close at four",
+            "they were asking about the colour of the new walls",
+            "the question had nothing to do with opening hours",
+            "the librarian asked where do they live"
           ],
           "answer": 1,
-          "explanation": "Yes/no sorularını aktarırken if veya whether kullanılabilir."
+          "explanation": "Told them that ile bilgi aktarılır; Sunday sorusuna kapanış saatiyle ilgili bilgi verilir.",
+          "choiceExplanations": [
+            "Said ardından doğrudan alıcı kullanımı yanlıştır.",
+            "Doğru seçenek. Told them that ile bilgi aktarılır; Sunday sorusuna kapanış saatiyle ilgili bilgi verilir.",
+            "Whether sorusu çalışma saatleriyle ilgilidir; renk değildir.",
+            "Open on Sunday doğrudan açılış durumunu sorar.",
+            "Dolaylı soruda do they live sırası yanlıştır."
+          ],
+          "tip": "Aktarılan sorunun işlevi ile verilen yanıtın konusu aynı olmalıdır."
+        },
+        {
+          "id": "reported-speech-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "A student missed the class and asked a friend about the homework. The friend checked his notes before replying. ---- The student then opened the book at that page and began to work.",
+          "choices": [
+            "He told her that all the pages had been removed.",
+            "He explained that he had never taken any notes.",
+            "He told her that the exercises were on page twenty.",
+            "He said that no book was needed because there was no homework.",
+            "He asked her what the weather would be like next month."
+          ],
+          "answer": 2,
+          "explanation": "That page belirli bir sayfa bilgisine gönderir. Told her that yapısı ödevin yerini aktarır.",
+          "choiceExplanations": [
+            "Kitabı ilgili sayfadan açabilmesiyle tutarsızdır.",
+            "Notlarını kontrol etmesiyle çelişir.",
+            "Doğru seçenek. That page belirli bir sayfa bilgisine gönderir. Told her that yapısı ödevin yerini aktarır.",
+            "Sonraki cümlede kitap ve belirli sayfa kullanılmasıyla çelişir.",
+            "That page göndermesine karşılık vermez."
+          ],
+          "tip": "Gönderme sözcükleri paragraf tamamlamada güçlü kanıttır."
+        },
+        {
+          "id": "reported-speech-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Why did Ece miss the class?",
+          "choices": [
+            "She had already finished the whole course.",
+            "She was ill.",
+            "She forgot the town’s name.",
+            "She was taking photographs for work.",
+            "She wanted to teach a different class."
+          ],
+          "answer": 1,
+          "explanation": "Ece’nin aktarılan mesajı hastalık nedeniyle gelemeyeceğini belirtir.",
+          "choiceExplanations": [
+            "Çarşamba dönmeyi umar; kurs bitmemiştir.",
+            "Doğru seçenek. Ece’nin aktarılan mesajı hastalık nedeniyle gelemeyeceğini belirtir.",
+            "Metinde böyle bir neden yoktur.",
+            "Fotoğrafı yazarın göndermesi istenir.",
+            "Öğretme planı anlatılmaz."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "On Monday, my friend Ece called while I was on the bus. She said, “I cannot come to the class today because I am ill.” I promised to tell our teacher. When I arrived, I explained that Ece had said she could not come.\n\nThe teacher asked if she needed the lesson notes. I did not know, so I sent her a message. Ece replied that she would be glad to have them. She also asked what time the next class started and whether there was any homework.\n\nAfter class, the teacher told me to send Ece a photo of the board. He said the homework was on page thirty. That evening, I called Ece again and passed on the information. She thanked me and said that she hoped to return on Wednesday. I was pleased that I could help her follow the lesson from home."
+        },
+        {
+          "id": "reported-speech-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What did the teacher ask the writer to do?",
+          "choices": [
+            "Ask Ece to stop attending the course.",
+            "Return the teacher’s phone on Wednesday.",
+            "Send Ece a photo of the board.",
+            "Take Ece to the bus station.",
+            "Tell Ece there was no homework."
+          ],
+          "answer": 2,
+          "explanation": "Told me to send yapısı öğretmenin fotoğraf gönderme talimatını aktarır.",
+          "choiceExplanations": [
+            "Böyle bir talimat verilmez.",
+            "Çarşamba Ece’nin dönme umuduyla ilgilidir.",
+            "Doğru seçenek. Told me to send yapısı öğretmenin fotoğraf gönderme talimatını aktarır.",
+            "Otobüs, arama sırasındaki konumdur; öğretmenin isteği değildir.",
+            "Otuzuncu sayfada ödev olduğu söylenir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "On Monday, my friend Ece called while I was on the bus. She said, “I cannot come to the class today because I am ill.” I promised to tell our teacher. When I arrived, I explained that Ece had said she could not come.\n\nThe teacher asked if she needed the lesson notes. I did not know, so I sent her a message. Ece replied that she would be glad to have them. She also asked what time the next class started and whether there was any homework.\n\nAfter class, the teacher told me to send Ece a photo of the board. He said the homework was on page thirty. That evening, I called Ece again and passed on the information. She thanked me and said that she hoped to return on Wednesday. I was pleased that I could help her follow the lesson from home."
         }
       ],
       "level": "B1"
@@ -1298,74 +2290,198 @@
       ],
       "quiz": [
         {
-          "prompt": "I enjoy ___ new words.",
+          "id": "gerunds-infinitives-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "Many students enjoy ---- in small groups because they can discuss difficult questions together.",
           "choices": [
-            "to learn",
-            "learning",
-            "learn"
+            "work",
+            "worked",
+            "to working",
+            "working",
+            "to work"
           ],
-          "answer": 1,
-          "explanation": "Enjoy fiilinden sonra -ing biçimi gerekir: learning."
+          "answer": 3,
+          "explanation": "Enjoy doing kalıbı gereği working seçilir.",
+          "choiceExplanations": [
+            "Yalın fiil enjoy tamamlayıcısı olarak kullanılamaz.",
+            "Geçmiş çekim ikinci fiilin gerekli biçimi değildir.",
+            "Enjoy sonrasında bu edat dizisi kullanılmaz.",
+            "Doğru seçenek. Enjoy doing kalıbı gereği working seçilir.",
+            "Enjoy ardından -ing gerekir."
+          ],
+          "tip": "İlk fiili, ardından gelen kalıbıyla birlikte öğren."
         },
         {
-          "prompt": "They decided ___ at home.",
+          "id": "gerunds-infinitives-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The class decided ---- the local museum before writing a report about the town.",
           "choices": [
-            "to stay",
-            "staying",
-            "stay to"
+            "visiting",
+            "visit",
+            "visited",
+            "for visiting",
+            "to visit"
+          ],
+          "answer": 4,
+          "explanation": "Decide to do something, bir şeyi yapmaya karar vermektir.",
+          "choiceExplanations": [
+            "Decide ardından bu anlamda to-infinitive gerekir.",
+            "To eksiktir.",
+            "Çekimli geçmiş biçim ikinci fiil olarak uymaz.",
+            "Decide for visiting bu amaçta doğru kalıp değildir.",
+            "Doğru seçenek. Decide to do something, bir şeyi yapmaya karar vermektir."
+          ],
+          "tip": "Zaman decided üzerindedir; ikinci fiil to visit olarak kalır."
+        },
+        {
+          "id": "gerunds-infinitives-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "Before ---- the online form, participants should read the short explanation on the first page.",
+          "choices": [
+            "completing",
+            "complete",
+            "to complete",
+            "completed",
+            "to completed"
           ],
           "answer": 0,
-          "explanation": "Decide ardından to + fiil alır: decided to stay."
-        },
-        {
-          "prompt": "She left without ___ anything.",
-          "choices": [
-            "say",
-            "to say",
-            "saying"
+          "explanation": "Before burada edat olarak eylemle birleşir: before completing.",
+          "choiceExplanations": [
+            "Doğru seçenek. Before burada edat olarak eylemle birleşir: before completing.",
+            "Before ardından eylem isim-fiil biçiminde geliyorsa -ing gerekir.",
+            "Edat görevindeki before ardından to-infinitive gelmez.",
+            "Özne olmadan çekimli geçmiş fiil bu yapıyı kurmaz.",
+            "To sonrasında V2 kullanılamaz."
           ],
-          "answer": 2,
-          "explanation": "Without bir edattır; ardından fiil gelirse -ing kullanılır."
+          "tip": "Before they complete biçimi de olabilir; fakat seçenek içinde özne bulunmuyor."
         },
         {
-          "prompt": "We went to the café ___ a friend.",
+          "id": "gerunds-infinitives-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "After walking for an hour, the group stopped ---- at a small cafe and then continued its journey.",
           "choices": [
-            "meeting",
-            "to meet",
-            "meet"
-          ],
-          "answer": 1,
-          "explanation": "Burada amaç anlatılıyor: bir arkadaşla buluşmak için, to meet."
-        },
-        {
-          "prompt": "“He stopped smoking.” What does it mean?",
-          "choices": [
-            "He gave up smoking.",
-            "He stopped another activity in order to smoke.",
-            "He is planning to start smoking."
-          ],
-          "answer": 0,
-          "explanation": "Stop + -ing, o etkinliği bırakmak demektir. Stop to smoke ise sigara içmek için durmak olurdu."
-        },
-        {
-          "prompt": "She suggested ___ a short break.",
-          "choices": [
-            "to take",
-            "take",
-            "taking"
-          ],
-          "answer": 2,
-          "explanation": "Suggest sonrasında fiil -ing biçiminde kullanılır: suggested taking."
-        },
-        {
-          "prompt": "I look forward to ___ you.",
-          "choices": [
-            "meet",
-            "meeting",
-            "met"
+            "for rest to",
+            "to rest",
+            "resting",
+            "rest",
+            "rested"
           ],
           "answer": 1,
-          "explanation": "Look forward to kalıbındaki to edattır. Sonrasında isim veya -ing biçimi gelir."
+          "explanation": "Yürümeye ara vermenin amacı dinlenmektir: stopped to rest.",
+          "choiceExplanations": [
+            "Bu sözcük sırası doğru bir amaç kalıbı değildir.",
+            "Doğru seçenek. Yürümeye ara vermenin amacı dinlenmektir: stopped to rest.",
+            "Stopped resting dinlenmeyi bıraktı demektir; yürüyüşe ara verme anlamını vermez.",
+            "Stop ardından bu amaç yapısında to gerekir.",
+            "Çekimli geçmiş biçim amaç anlatmaz."
+          ],
+          "tip": "Stop doing eylemi bırakmak; stop to do başka eylem için durmak."
+        },
+        {
+          "id": "gerunds-infinitives-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "To understand the new rule more clearly, ----.",
+          "choices": [
+            "the students enjoyed to ignore every explanation",
+            "the teacher suggested to leaving the lesson",
+            "the students decided to study three examples together",
+            "studying three examples was something they refused to do at all",
+            "the examples wanted to study the students"
+          ],
+          "answer": 2,
+          "explanation": "To understand amaç belirtir; ana cümlede örnekleri çalışmaya karar verilmesi bu amacı destekler.",
+          "choiceExplanations": [
+            "Enjoy to yapısı yanlış; amaçla da çelişir.",
+            "Suggest to leaving kalıbı geçerli değildir.",
+            "Doğru seçenek. To understand amaç belirtir; ana cümlede örnekleri çalışmaya karar verilmesi bu amacı destekler.",
+            "Anlamayı geliştirme amacıyla bağlantıyı tersine çevirir.",
+            "Eylemi yapan özneyi anlamsız biçimde değiştirir."
+          ],
+          "tip": "Amaç için to + fiil; decide sonrasında da to + fiil kullanılabilir."
+        },
+        {
+          "id": "gerunds-infinitives-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "Deniz wanted to improve her spoken English but felt shy in large classes. A friend suggested joining a small conversation group. ---- After several meetings, she felt more comfortable speaking to new people.",
+          "choices": [
+            "She decided not to go and never attended a group meeting.",
+            "The group closed before she had a chance to join.",
+            "She gave up speaking practice and only studied silently at home.",
+            "She decided to try it and began attending regularly.",
+            "Her friend suggested a course that did not include any conversation."
+          ],
+          "answer": 3,
+          "explanation": "It konuşma grubuna gönderir. Düzenli katılım daha rahat konuşma sonucunu açıklar.",
+          "choiceExplanations": [
+            "After several meetings bilgisiyle çelişir.",
+            "Birden çok görüşme sonrasındaki gelişimi açıklamaz.",
+            "Toplantılara katılarak rahatlama akışını sürdürmez.",
+            "Doğru seçenek. It konuşma grubuna gönderir. Düzenli katılım daha rahat konuşma sonucunu açıklar.",
+            "Önceki small conversation group önerisini değiştirir."
+          ],
+          "tip": "Paragrafta önce karar, sonra uygulama, ardından sonuç sırasını izle."
+        },
+        {
+          "id": "gerunds-infinitives-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Why did the writer join the cooking class?",
+          "choices": [
+            "To teach the instructor a new recipe.",
+            "To avoid doing anything after work.",
+            "To buy a new kitchen for the school.",
+            "To learn to prepare more dishes.",
+            "To stop eating with friends."
+          ],
+          "answer": 3,
+          "explanation": "Yazar yemekleri sevdiğini ama az yemek yapabildiğini açıklar.",
+          "choiceExplanations": [
+            "Yazar kursa öğrenci olarak katılır.",
+            "İşten sonra farklı bir şey yapmak ister.",
+            "Böyle bir amaç yoktur.",
+            "Doğru seçenek. Yazar yemekleri sevdiğini ama az yemek yapabildiğini açıklar.",
+            "Arkadaşlarıyla yemek yemeyi sevdiğini söyler."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I wanted to do something different after work, so I decided to join a local cooking class. I enjoy eating with friends, but I did not know how to make many dishes. My friend said she would come with me.\n\nAt our first lesson, the teacher asked us to wash our hands before starting. We learned to make a simple soup. I was worried about cutting the vegetables, but my friend showed me a safe way. Soon I stopped worrying and began to enjoy the lesson.\n\nHalfway through the evening, we stopped to taste the soup. It needed more salt. After finishing, we sat together and ate what we had made. I hope to cook the same meal at home this weekend. Learning with other people made the work feel easier, and I am looking forward to going again next week."
+        },
+        {
+          "id": "gerunds-infinitives-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What did the group stop to do during the lesson?",
+          "choices": [
+            "Give up cooking permanently.",
+            "Buy salt at a distant shop.",
+            "Cancel every future meeting.",
+            "Wash all the windows.",
+            "Taste the soup."
+          ],
+          "answer": 4,
+          "explanation": "Stopped to taste, çorbayı tatmak amacıyla kısa ara verdiklerini söyler.",
+          "choiceExplanations": [
+            "Stop to taste amaç için ara vermedir; bırakmak değildir.",
+            "Tuz gerektiği söylenir ama alışveriş yapılmaz.",
+            "Yazar yeniden gitmeyi bekler.",
+            "Dersteki etkinlikle ilgisizdir.",
+            "Doğru seçenek. Stopped to taste, çorbayı tatmak amacıyla kısa ara verdiklerini söyler."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I wanted to do something different after work, so I decided to join a local cooking class. I enjoy eating with friends, but I did not know how to make many dishes. My friend said she would come with me.\n\nAt our first lesson, the teacher asked us to wash our hands before starting. We learned to make a simple soup. I was worried about cutting the vegetables, but my friend showed me a safe way. Soon I stopped worrying and began to enjoy the lesson.\n\nHalfway through the evening, we stopped to taste the soup. It needed more salt. After finishing, we sat together and ate what we had made. I hope to cook the same meal at home this weekend. Learning with other people made the work feel easier, and I am looking forward to going again next week."
         }
       ],
       "level": "B1"
@@ -1450,74 +2566,198 @@
       ],
       "quiz": [
         {
-          "prompt": "This test is ___ than the last one.",
+          "id": "comparatives-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The second route is ---- than the first, so the group can reach the museum in less time.",
           "choices": [
-            "more easy",
-            "easier",
-            "easiest"
+            "shortest",
+            "more short",
+            "as short",
+            "the most short",
+            "shorter"
           ],
-          "answer": 1,
-          "explanation": "Easy, karşılaştırmada easier olur. Than karşılaştırmayı gösterir."
+          "answer": 4,
+          "explanation": "Than karşılaştırmayı gösterir; kısa sıfat short, shorter olur.",
+          "choiceExplanations": [
+            "İki rota ve than için comparative gerekir.",
+            "Short için standart biçim shorter olur.",
+            "Eşitlik kalıbı as short as olur; than ile kullanılmaz.",
+            "Hem üstünlük yapısı hem sıfat biçimi yanlıştır.",
+            "Doğru seçenek. Than karşılaştırmayı gösterir; kısa sıfat short, shorter olur."
+          ],
+          "tip": "En büyük farkı değil iki seçenek arasındaki farkı soran yapıya bak."
         },
         {
-          "prompt": "It is ___ interesting book I have read this year.",
+          "id": "comparatives-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "Of all the rooms in the building, this is ---- because it receives the most sunlight.",
           "choices": [
-            "the most",
-            "more",
-            "the more"
+            "the brightest",
+            "brighter",
+            "bright than",
+            "as brightest",
+            "more bright than"
           ],
           "answer": 0,
-          "explanation": "Bir yıl içindeki kitaplar arasında en ilginci seçiliyor: the most interesting."
-        },
-        {
-          "prompt": "My bag is as heavy ___ yours.",
-          "choices": [
-            "than",
-            "that",
-            "as"
+          "explanation": "Of all ile grubun en aydınlık odası seçilir: the brightest.",
+          "choiceExplanations": [
+            "Doğru seçenek. Of all ile grubun en aydınlık odası seçilir: the brightest.",
+            "Of all grubun enini seçer; comparative yetmez.",
+            "Bu biçim eksik karşılaştırmadır.",
+            "As ile temel sıfat kullanılmalıdır.",
+            "Devamında ikinci karşılaştırma yoktur ve grup üstünlüğü gerekir."
           ],
-          "answer": 2,
-          "explanation": "Eşitlik yapısı as + sıfat + as biçimindedir."
+          "tip": "Superlative çoğunlukla the ile kullanılır."
         },
         {
-          "prompt": "This bag is ___ than mine.",
+          "id": "comparatives-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The new reading room is not ---- the old one, so fewer students can use it at the same time.",
           "choices": [
-            "more big",
-            "bigger",
-            "biggest"
+            "more large as",
+            "as large as",
+            "larger as",
+            "as larger than",
+            "the largest than"
           ],
           "answer": 1,
-          "explanation": "Big tek hecelidir; son sessiz ikiye katlanır: bigger. Than comparative yapıyı gösterir."
+          "explanation": "Not as large as, diğeri kadar büyük olmamayı anlatır. Daha az öğrencinin sığması bunu destekler.",
+          "choiceExplanations": [
+            "Large ile larger veya as large as gerekir.",
+            "Doğru seçenek. Not as large as, diğeri kadar büyük olmamayı anlatır. Daha az öğrencinin sığması bunu destekler.",
+            "Comparative sonrasında than gerekir.",
+            "As…as içinde temel sıfat kullanılmalıdır.",
+            "Üstünlük ve karşılaştırma yapıları karışmıştır."
+          ],
+          "tip": "Not as…as eşitliğin bulunmadığını gösterir."
         },
         {
-          "prompt": "The opposite of “better” in a comparison is ___.",
+          "id": "comparatives-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The class found the new explanation much ---- than the old one.",
           "choices": [
-            "worse",
-            "worst",
-            "badder"
+            "more better",
+            "the goodest",
+            "better",
+            "good",
+            "best"
+          ],
+          "answer": 2,
+          "explanation": "Good → better → best düzensiz dizisidir. Much comparative farkını güçlendirir.",
+          "choiceExplanations": [
+            "Better zaten karşılaştırmadır; more eklenmez.",
+            "Good düzensizdir; goodest kullanılmaz.",
+            "Doğru seçenek. Good → better → best düzensiz dizisidir. Much comparative farkını güçlendirir.",
+            "Than ile karşılaştırma gerekir; good temel biçimdir.",
+            "Best grubun enini gösterir; burada iki açıklama karşılaştırılır."
+          ],
+          "tip": "Much better doğrudur; very better standart kullanım değildir."
+        },
+        {
+          "id": "comparatives-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "Although the train ticket costs more than the bus ticket, ----.",
+          "choices": [
+            "the bus is the only form of transport that has ever existed",
+            "the train costs less than the bus",
+            "the tickets were larger as the train",
+            "the train is faster and may save the group an hour",
+            "both tickets must have exactly the same price"
+          ],
+          "answer": 3,
+          "explanation": "Although maliyet dezavantajını daha hızlı olma avantajıyla karşılaştırır.",
+          "choiceExplanations": [
+            "Tren bileti bağlamını reddeder.",
+            "İlk bölümdeki fiyat karşılaştırmasını tersine çevirir.",
+            "Karşılaştırma biçimi ve anlam ilişkisi yanlıştır.",
+            "Doğru seçenek. Although maliyet dezavantajını daha hızlı olma avantajıyla karşılaştırır.",
+            "Costs more bilgisiyle çelişir."
+          ],
+          "tip": "Karşıtlık cümlesinde aynı seçeneğin farklı özellikleri değerlendirilebilir."
+        },
+        {
+          "id": "comparatives-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "A school compared two places for its next trip. The first was cheaper but very far away. The second cost more, yet it was close enough to visit in one day. ---- This would give the pupils more time for the activities rather than travelling.",
+          "choices": [
+            "The school chose the first place because it had the longest journey.",
+            "The school chose the first place because its ticket price was lower.",
+            "The pupils were told that no activities would take place.",
+            "The school chose the second place only because its entrance fee was lower.",
+            "The school chose the second place because the journey was shorter."
+          ],
+          "answer": 4,
+          "explanation": "İkinci yere kısa yolculuk, etkinliklere daha fazla zaman bırakır.",
+          "choiceExplanations": [
+            "Yol yerine etkinliğe zaman ayırma sonucuna uymaz.",
+            "Fiyat bilgisi doğru olsa da sonraki daha az yolculuk sonucu ilk uzak yer seçimini desteklemez.",
+            "Etkinlik için daha çok zaman sonucunu bozar.",
+            "İkinci yerin daha pahalı olduğu bilgisiyle çelişir.",
+            "Doğru seçenek. İkinci yere kısa yolculuk, etkinliklere daha fazla zaman bırakır."
+          ],
+          "tip": "More time karşılaştırmasının hangi nedenden çıktığını bul."
+        },
+        {
+          "id": "comparatives-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What was a disadvantage of the second flat?",
+          "choices": [
+            "It was noisier because it was above a busy shop.",
+            "It had a smaller living room.",
+            "It was cheaper than the first.",
+            "It had no light in any room.",
+            "It was closer to the new job."
           ],
           "answer": 0,
-          "explanation": "Bad fiil değil sıfattır ve düzensiz karşılaştırma biçimi worse olur. Worst en üstünlük biçimidir."
-        },
-        {
-          "prompt": "This room isn’t as bright ___ the kitchen.",
-          "choices": [
-            "than",
-            "that",
-            "as"
+          "explanation": "Not as quiet ve busy shop bilgileri gürültü dezavantajını verir.",
+          "choiceExplanations": [
+            "Doğru seçenek. Not as quiet ve busy shop bilgileri gürültü dezavantajını verir.",
+            "İkinci dairenin salonu çok daha büyüktür.",
+            "İkinci daire daha pahalıdır.",
+            "Ablası ışığı ve genişliği beğenir.",
+            "İşe daha yakın olan ilk dairedir."
           ],
-          "answer": 2,
-          "explanation": "Not as + sıfat + as yapısında ikinci as gereklidir."
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "My sister and I looked at two flats on Saturday. The first one was closer than the second one to her new job. It was also cheaper, but the rooms were small and the kitchen did not have a window.\n\nThe second flat was more expensive, although it had a much larger living room. It was not as quiet as the first flat because it was above a busy shop. My sister liked the light and the space, but she was worried about the noise at night.\n\nWe made a list of what mattered most. The most important thing was a short journey to work, followed by a reasonable price. In the end, she chose the first flat. It was not the biggest place we saw, but it was the best choice for her daily life. She can use the money she saves to visit our parents more often."
         },
         {
-          "prompt": "Choose the correct sentence.",
+          "id": "comparatives-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Why did the sister choose the first flat?",
           "choices": [
-            "This is the most cheapest shop.",
-            "This shop is much cheaper.",
-            "This shop is more cheaper."
+            "Its kitchen had more windows than every other flat.",
+            "Its location and price suited her priorities.",
+            "It was the biggest flat they visited.",
+            "She wanted the longest journey to work.",
+            "She was not interested in saving money."
           ],
           "answer": 1,
-          "explanation": "Cheaper zaten comparative biçimindedir. Much farkın derecesini artırır; more eklemek doğru değildir."
+          "explanation": "Kısa yolculuk ve uygun fiyat, kararda alan büyüklüğünden önemli olur.",
+          "choiceExplanations": [
+            "İlk mutfağın penceresi yoktur.",
+            "Doğru seçenek. Kısa yolculuk ve uygun fiyat, kararda alan büyüklüğünden önemli olur.",
+            "Yazar en büyük olmadığını açıkça söyler.",
+            "Kısa işe gidiş süresi önceliktir.",
+            "Biriktirdiği parayla ailesini daha sık ziyaret edebilecektir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "My sister and I looked at two flats on Saturday. The first one was closer than the second one to her new job. It was also cheaper, but the rooms were small and the kitchen did not have a window.\n\nThe second flat was more expensive, although it had a much larger living room. It was not as quiet as the first flat because it was above a busy shop. My sister liked the light and the space, but she was worried about the noise at night.\n\nWe made a list of what mattered most. The most important thing was a short journey to work, followed by a reasonable price. In the end, she chose the first flat. It was not the biggest place we saw, but it was the best choice for her daily life. She can use the money she saves to visit our parents more often."
         }
       ],
       "level": "B1"
@@ -1602,74 +2842,198 @@
       ],
       "quiz": [
         {
-          "prompt": "I took an umbrella ___ it was raining.",
+          "id": "linking-words-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The students could not use the garden ---- it was raining heavily, so the lesson took place inside.",
           "choices": [
-            "although",
             "because",
-            "however"
-          ],
-          "answer": 1,
-          "explanation": "Yağmur yağması, şemsiye almanın nedenidir: because."
-        },
-        {
-          "prompt": "___ she was tired, she finished her work.",
-          "choices": [
-            "Although",
-            "Because of",
-            "However"
+            "although",
+            "despite",
+            "therefore",
+            "because of"
           ],
           "answer": 0,
-          "explanation": "Yorgunluk ile işi bitirmek arasında zıtlık var. Although ardından özne + fiil alır."
-        },
-        {
-          "prompt": "The bus was late, ___ we took a taxi.",
-          "choices": [
-            "because",
-            "although",
-            "so"
+          "explanation": "It was raining, kullanamama nedenidir. Because + özne + fiil gerekir.",
+          "choiceExplanations": [
+            "Doğru seçenek. It was raining, kullanamama nedenidir. Because + özne + fiil gerekir.",
+            "Karşıtlık yerine yağmurun neden olduğu sonuç anlatılır.",
+            "Despite ardından burada tam cümle gelemez.",
+            "Therefore yan cümle bağlacı olarak bu boşluğa uymaz.",
+            "Because of ardından isim grubu gerekir; it was tam cümledir."
           ],
-          "answer": 2,
-          "explanation": "Taksiye binmek, otobüsün geç kalmasının sonucudur: so."
+          "tip": "Because + cümle; because of + isim grubu."
         },
         {
-          "prompt": "We cancelled the trip because of ___.",
+          "id": "linking-words-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "---- the course was short, many learners said that it helped them understand the topic.",
           "choices": [
-            "it was raining",
-            "the bad weather",
-            "the weather was bad"
-          ],
-          "answer": 1,
-          "explanation": "Because of sonrasında isim grubu gerekir: the bad weather. Tam cümleden önce because kullanılabilir."
-        },
-        {
-          "prompt": "___ the noise, she managed to sleep.",
-          "choices": [
+            "In addition to",
+            "Although",
+            "Because of",
             "Despite",
-            "Although",
-            "However"
-          ],
-          "answer": 0,
-          "explanation": "The noise bir isim grubudur; despite ile kullanılabilir. Although ardından özne + fiil beklenir."
-        },
-        {
-          "prompt": "Choose the correct sentence.",
-          "choices": [
-            "Although I was tired, but I continued.",
-            "Because of I was tired, I stopped.",
-            "Although I was tired, I continued."
-          ],
-          "answer": 2,
-          "explanation": "Although zıtlık ilişkisini zaten kurar; aynı yapıya but eklenmez."
-        },
-        {
-          "prompt": "“The shop was closed. ___, we went home.”",
-          "choices": [
-            "Because of",
-            "As a result",
-            "Although"
+            "Therefore"
           ],
           "answer": 1,
-          "explanation": "Eve dönmek, dükkânın kapalı olmasının sonucudur. As a result sonuç geçişini açıklar."
+          "explanation": "Kısa olmasına rağmen yararlı bulunma karşıtlığı although ile verilir.",
+          "choiceExplanations": [
+            "Bu yapıdan sonra isim veya -ing beklenir.",
+            "Doğru seçenek. Kısa olmasına rağmen yararlı bulunma karşıtlığı although ile verilir.",
+            "Ardından tam cümle gelemez.",
+            "Despite the course was… yanlış yapıdır.",
+            "Başlangıçta bu iki cümleyi yan cümle olarak bağlayamaz."
+          ],
+          "tip": "Although ile aynı cümlede ayrıca but eklemek gerekmez."
+        },
+        {
+          "id": "linking-words-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The bus service was cancelled. ----, the group had to walk to the station.",
+          "choices": [
+            "Although",
+            "Despite",
+            "As a result",
+            "On the other hand",
+            "For example"
+          ],
+          "answer": 2,
+          "explanation": "Otobüs iptali, yürümek zorunda kalmanın nedenidir. As a result sonucu başlatır.",
+          "choiceExplanations": [
+            "Although sonrasında bu noktalama ve ana cümle düzeni uygun değildir.",
+            "Despite ardından tam cümle kullanılamaz.",
+            "Doğru seçenek. Otobüs iptali, yürümek zorunda kalmanın nedenidir. As a result sonucu başlatır.",
+            "Zıt iki yönü karşılaştırır; burada sonuç vardır.",
+            "Yürüme burada bir örnek değil iptalin sonucudur."
+          ],
+          "tip": "İlişkiyi önce neden → sonuç olarak zihninde kur."
+        },
+        {
+          "id": "linking-words-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The library offers free books. ----, it provides a quiet place where students can study after school.",
+          "choices": [
+            "Because of",
+            "Instead of",
+            "Unless",
+            "In addition",
+            "However"
+          ],
+          "answer": 3,
+          "explanation": "İki olumlu hizmet aynı düşünceyi destekler. In addition ekleme yapar.",
+          "choiceExplanations": [
+            "Because of + tam cümle burada yanlış olur.",
+            "İkinci hizmet ilk hizmetin yerine verilmemektedir.",
+            "Koşul cümlesi kurmak için bu noktalama ve yapı uygun değildir.",
+            "Doğru seçenek. İki olumlu hizmet aynı düşünceyi destekler. In addition ekleme yapar.",
+            "İkinci cümle ters bir fikir değil ek bir avantajdır."
+          ],
+          "tip": "Her ikinci cümleye however koyma; ilişkinin gerçekten karşıtlık olup olmadığını kontrol et."
+        },
+        {
+          "id": "linking-words-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "Although the new sports centre is close to the school, ----.",
+          "choices": [
+            "it is also a short distance from the school",
+            "the school is near it as well",
+            "being close means being near",
+            "the centre has a building",
+            "some students cannot use it because the entrance fee is too high"
+          ],
+          "answer": 4,
+          "explanation": "Yakınlık avantajına rağmen ücret nedeniyle kullanamama anlamlı bir karşıtlıktır.",
+          "choiceExplanations": [
+            "İlk fikri tekrarlar; although karşıtlığını tamamlamaz.",
+            "Yalnızca aynı yer bilgisini ters yönde tekrar eder.",
+            "Tanım verir; beklenen karşıt bilgi yerine gelmez.",
+            "Konuya ilişkin yeni bir karşıtlık kurmaz.",
+            "Doğru seçenek. Yakınlık avantajına rağmen ücret nedeniyle kullanamama anlamlı bir karşıtlıktır."
+          ],
+          "tip": "Although bölümündeki beklentinin ana cümlede nasıl sınırlandığını bul."
+        },
+        {
+          "id": "linking-words-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "The group first read the information sheet. Then they discussed the questions in pairs. ---- At the end, they compared their answers with the teacher’s notes.",
+          "choices": [
+            "After that, each person wrote a short answer on their own.",
+            "Finally, they left without writing or discussing any answers.",
+            "However, the sheet contained no information and no questions.",
+            "Before this activity began, the teacher had cancelled the whole lesson.",
+            "Instead, they agreed not to produce any answers during the lesson."
+          ],
+          "answer": 0,
+          "explanation": "First, then, after that ve at the end, çalışma adımlarını sırayla bağlar.",
+          "choiceExplanations": [
+            "Doğru seçenek. First, then, after that ve at the end, çalışma adımlarını sırayla bağlar.",
+            "Sonraki cevap karşılaştırma adımına ve önceki tartışmaya uymaz.",
+            "İlk iki cümledeki okuma ve tartışma bilgisini reddeder.",
+            "Devam eden etkinlik adımlarını imkânsız kılar.",
+            "Sonraki their answers göndermesinin dayanağını kaldırır."
+          ],
+          "tip": "Bağlayıcıyı seçerken yalnızca dilbilgisine değil paragrafın ilerleme biçimine bak."
+        },
+        {
+          "id": "linking-words-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "Why did the writer try studying at the library?",
+          "choices": [
+            "The bus journey took several hours.",
+            "The brother worked at the library.",
+            "Home was often too distracting.",
+            "The library was completely empty at all times.",
+            "The writer had no bedroom."
+          ],
+          "answer": 2,
+          "explanation": "Evde televizyon ve telefon nedeniyle odaklanma zorluğu, kütüphaneyi deneme nedenidir.",
+          "choiceExplanations": [
+            "Yol on dakika sürer.",
+            "Kardeş evde televizyon izler; kütüphanede çalışmaz.",
+            "Doğru seçenek. Evde televizyon ve telefon nedeniyle odaklanma zorluğu, kütüphaneyi deneme nedenidir.",
+            "Kütüphane kalabalıktır ama sessizdir.",
+            "Yatak odasında alan hazırladığını söyler."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I used to study at home every evening, but I often found it difficult to concentrate. My brother was usually watching television, and my phone was always beside me. Because I wanted a quieter place, I decided to try the local library.\n\nAt first, I thought the journey would take too much time. However, the bus stop was near the entrance, and the ride only took ten minutes. Although the library was busy, everyone worked quietly. I could finish my reading more easily there than at home.\n\nIn addition, I met another student from my course. We started checking our answers together after studying alone. As a result, I felt more confident in class. Now I go twice a week. I still study at home sometimes, so I have also made a small, quiet space in my bedroom. Both places can work if I prepare well."
+        },
+        {
+          "id": "linking-words-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What can be understood from the final part of the passage?",
+          "choices": [
+            "Studying with another learner reduced the writer’s confidence.",
+            "Only one place can ever be useful for learning.",
+            "The library has stopped allowing students to enter.",
+            "The writer now uses both home and the library for study.",
+            "The writer never studies at home any more."
+          ],
+          "answer": 3,
+          "explanation": "Yazar haftada iki kez kütüphaneye gider ve bazen evde de çalışır.",
+          "choiceExplanations": [
+            "Daha özgüvenli hissettiği söylenir.",
+            "Both places can work sonucu bunun tersidir.",
+            "Böyle bir değişiklik anlatılmaz.",
+            "Doğru seçenek. Yazar haftada iki kez kütüphaneye gider ve bazen evde de çalışır.",
+            "Still study at home sometimes ifadesiyle çelişir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "I used to study at home every evening, but I often found it difficult to concentrate. My brother was usually watching television, and my phone was always beside me. Because I wanted a quieter place, I decided to try the local library.\n\nAt first, I thought the journey would take too much time. However, the bus stop was near the entrance, and the ride only took ten minutes. Although the library was busy, everyone worked quietly. I could finish my reading more easily there than at home.\n\nIn addition, I met another student from my course. We started checking our answers together after studying alone. As a result, I felt more confident in class. Now I go twice a week. I still study at home sometimes, so I have also made a small, quiet space in my bedroom. Both places can work if I prepare well."
         }
       ],
       "level": "B1"
@@ -1754,74 +3118,198 @@
       ],
       "quiz": [
         {
-          "prompt": "Which is a polite request?",
+          "id": "travel-english-yokdil-1",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "A visitor has a ticket but cannot find the correct platform. Which question is most useful?",
           "choices": [
-            "You give me a ticket.",
-            "Could I have a ticket, please?",
-            "I ticket want."
+            "Could you tell which platform me need?",
+            "Could you tell me which platform I need?",
+            "Could you tell me which platform do I need?",
+            "Could you tell me which platform I needed yesterday?",
+            "Which platform I need could tell me?"
           ],
           "answer": 1,
-          "explanation": "Could I have …, please? nazik ve doğal bir istek kalıbıdır."
-        },
-        {
-          "prompt": "I have a reservation ___ the name Demir.",
-          "choices": [
-            "under",
-            "below",
-            "between"
+          "explanation": "Could you tell me ardından which platform I need düz özne-fiil sırası gerekir.",
+          "choiceExplanations": [
+            "Özne ve nesne dizilimi yanlıştır.",
+            "Doğru seçenek. Could you tell me ardından which platform I need düz özne-fiil sırası gerekir.",
+            "Dolaylı soruda do I need yerine I need gerekir.",
+            "Şu anki ihtiyaç yerine dünü sorar.",
+            "Soru sözcük sırası hatalıdır."
           ],
-          "answer": 0,
-          "explanation": "Rezervasyonun hangi adla yapıldığını söylemek için under the name kullanılır."
+          "tip": "Nazik dolaylı soruda doğrudan sorunun devrik sırasını koruma."
         },
         {
-          "prompt": "Could you tell me where ___?",
+          "id": "travel-english-yokdil-2",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "A traveller did not understand the announcement. Which request best helps her get the information again?",
           "choices": [
-            "is the gate",
-            "does the gate",
-            "the gate is"
+            "How much does my room cost?",
+            "I would like a different colour of ticket.",
+            "Could you repeat that more slowly, please?",
+            "You must never speak to me again.",
+            "I have understood every word already."
           ],
           "answer": 2,
-          "explanation": "Dolaylı sorularda özne + fiil sırası korunur: where the gate is."
-        },
-        {
-          "prompt": "You want to change your booking. Which sentence is natural?",
-          "choices": [
-            "I’d like change my booking.",
-            "I’d like to change my booking.",
-            "I’d like changing to my booking."
+          "explanation": "Repeat that more slowly, bilgiyi tekrar ve daha yavaş istemeyi doğrudan karşılar.",
+          "choiceExplanations": [
+            "Duyuruyu tekrar istemez; oda fiyatı sorar.",
+            "Duyuru bilgisiyle ilişkili bir istek değildir.",
+            "Doğru seçenek. Repeat that more slowly, bilgiyi tekrar ve daha yavaş istemeyi doğrudan karşılar.",
+            "Bilgiyi yeniden almak yerine konuşmayı yasaklar.",
+            "Anlamama durumunun tersini söyler."
           ],
-          "answer": 1,
-          "explanation": "I’d like to + fiil nazik istek anlatır: I’d like to change."
+          "tip": "Anlamadığında kısa ve belirli bir tekrar isteği konuşmayı sürdürür."
         },
         {
-          "prompt": "Could you tell me what time ___?",
+          "id": "travel-english-yokdil-3",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The hotel room has no hot water. Which statement reports the problem and asks for help politely?",
           "choices": [
-            "the bus leaves",
-            "does the bus leave",
-            "leaves the bus"
+            "Could I check out yesterday?",
+            "The train leaves from platform three.",
+            "I have never stayed in a hotel in my life.",
+            "There is no hot water in my room. Could someone check it?",
+            "The room is perfect and needs no attention."
+          ],
+          "answer": 3,
+          "explanation": "Önce somut sorun, ardından nazik çözüm isteği verilir.",
+          "choiceExplanations": [
+            "Sorunu bildirmez ve geçmiş tarihli çıkış isteği tutarsızdır.",
+            "Otel sorunuyla ilgisizdir.",
+            "Şu anki oda sorununa çözüm istemez.",
+            "Doğru seçenek. Önce somut sorun, ardından nazik çözüm isteği verilir.",
+            "Sorunu açıklamak yerine her şeyin iyi olduğunu söyler."
+          ],
+          "tip": "Şikâyette neyin yanlış olduğunu ve hangi yardımı istediğini ayrı söyle."
+        },
+        {
+          "id": "travel-english-yokdil-4",
+          "type": "gap",
+          "instruction": "Choose the word or phrase that best completes the sentence.",
+          "typeLabel": "Cümlede boşluk doldurma",
+          "prompt": "The passenger wants to travel to the city and come back on the same ticket. She asks for a ----.",
+          "choices": [
+            "single ticket",
+            "room key",
+            "boarding time",
+            "departure gate",
+            "return ticket"
+          ],
+          "answer": 4,
+          "explanation": "Return ticket gidiş-dönüş yolculuğunu kapsar; single ticket tek yönlüdür.",
+          "choiceExplanations": [
+            "Tek yönlü bileti ifade eder.",
+            "Oda anahtarıdır; ulaşım bileti değildir.",
+            "Uçağa binme zamanıdır; bilet türü değildir.",
+            "Kalkış kapısıdır; gidiş-dönüş bileti değildir.",
+            "Doğru seçenek. Return ticket gidiş-dönüş yolculuğunu kapsar; single ticket tek yönlüdür."
+          ],
+          "tip": "Kelime sorusunda tanımı karşılayan işlevi seç; seyahatle ilgili her sözcük uygun değildir."
+        },
+        {
+          "id": "travel-english-yokdil-5",
+          "type": "sentence",
+          "instruction": "Choose the statement that best completes the sentence.",
+          "typeLabel": "Cümle tamamlama",
+          "prompt": "Because the train was delayed and the passenger might miss her bus, ----.",
+          "choices": [
+            "she asked the station worker about another way to reach her hotel",
+            "she was certain that every journey would finish on time",
+            "the delay had no possible effect on her plans",
+            "she no longer needed any information or help",
+            "the worker asked her to describe the colour of the sky"
           ],
           "answer": 0,
-          "explanation": "Dolaylı soruda düz cümle sırası vardır: the bus leaves. Does eklenmez."
-        },
-        {
-          "prompt": "You didn’t understand the receptionist. What should you say?",
-          "choices": [
-            "You speak wrong.",
-            "I don’t want your words.",
-            "Could you repeat that more slowly, please?"
+          "explanation": "Gecikme ve bağlantı riski, başka ulaşım yolu sormayı anlamlı kılar.",
+          "choiceExplanations": [
+            "Doğru seçenek. Gecikme ve bağlantı riski, başka ulaşım yolu sormayı anlamlı kılar.",
+            "Might miss kaygısının tersini kesinleştirir.",
+            "Verilen otobüs kaçırma ihtimalini yok sayar.",
+            "Sorunun olası çözümünü desteklemez.",
+            "Ulaşım sorunuyla ilgisizdir."
           ],
-          "answer": 2,
-          "explanation": "Tekrarı nazikçe istemek için could you repeat …, please? doğal ve açık bir kalıptır."
+          "tip": "Because bölümündeki soruna yanıt veren sonucu ara."
         },
         {
-          "prompt": "You need a ticket to go there and come back. Ask for a ___.",
+          "id": "travel-english-yokdil-6",
+          "type": "paragraph",
+          "instruction": "Choose the sentence that best completes the paragraph.",
+          "typeLabel": "Paragraf tamamlama",
+          "prompt": "A guest could not sleep because the people in the next room were very noisy. She explained the problem at reception. ---- She thanked the receptionist and took her bag upstairs.",
           "choices": [
-            "single room",
-            "return ticket",
-            "departure board"
+            "The receptionist explained that the guest had no room in the hotel.",
+            "The receptionist offered her a quieter room on another floor.",
+            "The receptionist asked her to return to the same noisy room without any help.",
+            "The guest was asked to leave her bag outside and spend the night elsewhere.",
+            "The receptionist said the only solution was to wait in the lobby all night."
           ],
           "answer": 1,
-          "explanation": "Return ticket gidiş ve dönüşü kapsar. Single room tek kişilik oda, departure board kalkış panosudur."
+          "explanation": "Daha sessiz oda, bildirilen gürültü sorununu çözer; teşekkür ve çantayı taşıma sonucu bunu izler.",
+          "choiceExplanations": [
+            "Misafirin mevcut gürültülü odasıyla çelişir.",
+            "Doğru seçenek. Daha sessiz oda, bildirilen gürültü sorununu çözer; teşekkür ve çantayı taşıma sonucu bunu izler.",
+            "Çözüm sonrası teşekkür ve çantasını taşıma akışını desteklemez.",
+            "Çantasıyla yukarı çıkmasıyla çelişir.",
+            "Misafirin yukarıya çıkışını açıklamaz."
+          ],
+          "tip": "Paragrafta problem → çözüm → tepki sırasını izlemek doğru seçeneği buldurur."
+        },
+        {
+          "id": "travel-english-yokdil-7",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "What was wrong with the first hotel room?",
+          "choices": [
+            "The room was dirty.",
+            "The room had no key.",
+            "There was no second floor.",
+            "The writer had no reservation.",
+            "The heating did not work."
+          ],
+          "answer": 4,
+          "explanation": "Cold room ve heating is not working sorunun ne olduğunu açıklar.",
+          "choiceExplanations": [
+            "Oda temiz olarak anlatılır.",
+            "Görevli anahtar vermiştir.",
+            "Odanın ikinci katta olduğu söylenir.",
+            "Kaya adına rezervasyon vardır.",
+            "Doğru seçenek. Cold room ve heating is not working sorunun ne olduğunu açıklar."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "When I arrived at my hotel, I was tired after a long train journey. “I have a reservation under the name Kaya,” I told the woman at the desk. She checked my name and gave me a key to a room on the second floor.\n\nThe room was clean, but it was very cold. I tried to turn on the heating, but nothing happened. I went downstairs and said, “Excuse me, the heating is not working. Could someone check it, please?” She apologised and called a member of staff.\n\nHe explained the problem, but he spoke quickly. “Could you say that again more slowly?” I asked. He said it would take an hour to repair. The woman offered me another room at the same price. I accepted and thanked her. Before going upstairs, I also asked what time breakfast started because I wanted to leave early the next morning."
+        },
+        {
+          "id": "travel-english-yokdil-8",
+          "type": "reading",
+          "instruction": "Answer the question according to the passage.",
+          "typeLabel": "Okuduğunu anlama",
+          "prompt": "How was the problem solved?",
+          "choices": [
+            "The guest accepted another room at the same price.",
+            "The guest paid twice as much for the same cold room.",
+            "The guest cancelled the whole journey immediately.",
+            "The repair was completed before the guest asked for help.",
+            "The receptionist refused to offer any help."
+          ],
+          "answer": 0,
+          "explanation": "Görevli aynı fiyata başka oda önerir ve misafir kabul eder.",
+          "choiceExplanations": [
+            "Doğru seçenek. Görevli aynı fiyata başka oda önerir ve misafir kabul eder.",
+            "Aynı fiyatla başka oda önerilir.",
+            "Misafir otelde kalmaya devam eder.",
+            "Tamirin bir saat süreceği sonradan açıklanır.",
+            "Özür, çalışan çağırma ve yeni oda önerisi yardım edildiğini gösterir."
+          ],
+          "tip": "Yalnızca metindeki kanıta dayan; doğru olabilecek ama metinde söylenmeyen bilgiyi seçme.",
+          "passage": "When I arrived at my hotel, I was tired after a long train journey. “I have a reservation under the name Kaya,” I told the woman at the desk. She checked my name and gave me a key to a room on the second floor.\n\nThe room was clean, but it was very cold. I tried to turn on the heating, but nothing happened. I went downstairs and said, “Excuse me, the heating is not working. Could someone check it, please?” She apologised and called a member of staff.\n\nHe explained the problem, but he spoke quickly. “Could you say that again more slowly?” I asked. He said it would take an hour to repair. The woman offered me another room at the same price. I accepted and thanked her. Before going upstairs, I also asked what time breakfast started because I wanted to leave early the next morning."
         }
       ],
       "level": "B1"

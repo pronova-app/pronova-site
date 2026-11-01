@@ -13,6 +13,15 @@ The homepage links to /english-studio/. The former b1-english and b2-english fol
 
 ## B1 lesson format
 
-The 12 B1 lessons use Turkish explanations, English models with Turkish translations, form/comparison tables and 8 vocabulary entries per lesson. Each lesson follows sections 1, 2, 3, 4, 7, 8 and 9 as requested. Each has a 120–180 word English reading passage with highlighted target forms and three English comprehension questions. Lessons are approximately 1,800–2,100 words including bilingual examples and reading translations. Quiz answer indexes and lesson IDs remain stable; two Turkish quiz items are translated into English.
+The 12 B1 lessons use Turkish explanations, English models with Turkish translations, form/comparison tables and 8 vocabulary entries per lesson. Each lesson follows sections 1, 2, 3, 4, 7, 8 and 9 as requested. Each has a 120–180 word English reading passage with highlighted target forms and three English comprehension questions. Lessons are approximately 1,800–2,100 words including bilingual examples and reading translations. Lesson IDs remain stable. B1 quizzes now contain eight original five-option questions per lesson, replacing the former quiz items. Existing progress remains stored; a new quiz attempt updates that lesson’s latest result.
 
 A section may provide `markdown` in place of plain `text`. The built-in renderer supports level-three headings, paragraphs, bold text, unordered lists and pipe tables. Model translations can use a literal <br> in a table cell. All content is escaped before rendering; arbitrary HTML is not accepted. Wide tables scroll within a keyboard-focusable region on small screens. A2/B2 retain their existing section rendering.
+
+
+## B1 YÖKDİL-style practice
+
+96 original questions: 48 sentence gaps, 12 sentence completions, 12 paragraph completions and 24 reading questions. Each B1 lesson has eight questions with five choices, Turkish explanations for all choices, and a learning note. Reading passages are the original lesson texts. The activity is adapted to B1 general English; it is not an official YÖKDİL paper or a complete exam simulation.
+
+Question fields: stable `id`, `type`, `instruction`, `typeLabel`, `prompt`, five `choices`, zero-based `answer`, `explanation`, five aligned `choiceExplanations`, `tip`, and optional plain-text `passage`. A2/B2 questions retain their original rendering.
+
+Format reference only: https://dokuman.osym.gov.tr/pdfdokuman/2025/YOKDIL-1/ing_sos_bil16022025.pdf. No exam questions or passages were copied.
