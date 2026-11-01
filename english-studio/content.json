@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "title": "A2 & B1 English Studio",
+  "title": "A2, B1 & B2 English Studio",
   "lessons": [
     {
       "id": "present-perfect",
@@ -3902,6 +3902,766 @@
           ],
           "answer": 0,
           "explanation": "Can sonrasında yalın fiil gelir: pay. To veya -ing eklenmez."
+        }
+      ]
+    },
+    {
+      "id": "b2-perfect-continuous",
+      "level": "B2",
+      "title": "Perfect Simple & Continuous",
+      "subtitle": "Sonuç, süreç ve geçmişteki öncelik.",
+      "category": "Zamanlar",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "achievement",
+          "meaning": "başarı"
+        },
+        {
+          "word": "ongoing",
+          "meaning": "devam eden"
+        },
+        {
+          "word": "exhausted",
+          "meaning": "bitkin"
+        },
+        {
+          "word": "deadline",
+          "meaning": "son teslim tarihi"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Sonuç mu, süreç mi?",
+          "text": "Present Perfect Simple tamamlanan sonuca veya sayıya; Continuous ise sürece ve süreye odaklanır. Süreç az önce bitmiş olabilir; etkisi şimdi görünür.",
+          "formula": "have/has + V3 | have/has been + V-ing",
+          "examples": [
+            {
+              "en": "I have written three reports. I have been writing all morning.",
+              "tr": "Üç rapor yazdım. Bütün sabah yazı yazıyorum."
+            }
+          ],
+          "tip": "Know ve believe gibi durum fiilleri normalde continuous kullanılmaz: I have known her for years."
+        },
+        {
+          "title": "Geçmişten daha önce",
+          "text": "Past Perfect geçmişteki bir referans noktasından önceki tamamlanmış işi anlatır. Past Perfect Continuous o noktaya kadar süren etkinliği vurgular.",
+          "formula": "had + V3 | had been + V-ing",
+          "examples": [
+            {
+              "en": "By the time the meeting started, we had been waiting for an hour.",
+              "tr": "Toplantı başladığında bir saattir bekliyorduk."
+            }
+          ],
+          "tip": "By the time ile verilen geçmiş olaydan önceki süreyi had been waiting ile anlatabilirsin."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "She ___ five applications so far.",
+          "choices": [
+            "has sent",
+            "has been sending",
+            "had send"
+          ],
+          "answer": 0,
+          "explanation": "Five applications tamamlanan sayıyı vurgular: has sent."
+        },
+        {
+          "prompt": "Your hands are covered in paint. ___?",
+          "choices": [
+            "Have you been painting",
+            "Had you paint",
+            "Do you painted"
+          ],
+          "answer": 0,
+          "explanation": "Şu an görünen bir etkinlik sonucu için Present Perfect Continuous kullanılır."
+        },
+        {
+          "prompt": "Before I arrived, they ___ all the tickets.",
+          "choices": [
+            "have sold",
+            "had sold",
+            "have been selling"
+          ],
+          "answer": 1,
+          "explanation": "Satış geçmişteki varıştan önce tamamlandı: had sold."
+        },
+        {
+          "prompt": "I ___ him since childhood.",
+          "choices": [
+            "have been knowing",
+            "am knowing",
+            "have known"
+          ],
+          "answer": 2,
+          "explanation": "Know bir durum fiilidir; burada have known kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "b2-mixed-conditionals",
+      "level": "B2",
+      "title": "Third & Mixed Conditionals",
+      "subtitle": "Geçmiş kararları ve bugünkü sonuçlarını tartış.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "regret",
+          "meaning": "pişmanlık"
+        },
+        {
+          "word": "outcome",
+          "meaning": "sonuç"
+        },
+        {
+          "word": "otherwise",
+          "meaning": "aksi takdirde"
+        },
+        {
+          "word": "opportunity",
+          "meaning": "fırsat"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Geçmişi farklı hayal et",
+          "text": "Third Conditional gerçekleşmemiş geçmiş koşulu ve yine geçmişteki olası sonucunu anlatır. Would yerine could olasılık veya yetenek, might daha belirsiz bir sonuç bildirebilir.",
+          "formula": "If + had + V3, would have + V3",
+          "examples": [
+            {
+              "en": "If we had left earlier, we would have caught the train.",
+              "tr": "Daha erken çıksaydık trene yetişirdik."
+            }
+          ],
+          "tip": "Standart koşul yan cümlesinde if we would have left yerine if we had left kullan."
+        },
+        {
+          "title": "Geçmişten bugüne sonuç",
+          "text": "Mixed Conditional ile geçmişteki bir olayın bugünkü varsayımsal sonucunu anlatırız. Zamanı now gibi ifadelerle açıkça belirt.",
+          "formula": "If + had + V3, would + fiil",
+          "examples": [
+            {
+              "en": "If I had accepted that job, I would live abroad now.",
+              "tr": "O işi kabul etseydim şimdi yurt dışında yaşıyor olurdum."
+            }
+          ],
+          "tip": "I wish I had studied harder geçmiş pişmanlık; I wish I knew the answer şu anki duruma yönelik dilektir."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "If she had saved the file, she ___ her work yesterday.",
+          "choices": [
+            "would not lose",
+            "would not have lost",
+            "will not lose"
+          ],
+          "answer": 1,
+          "explanation": "Geçmişteki varsayımsal sonuç would not have lost ile kurulur."
+        },
+        {
+          "prompt": "If I had taken that course, I ___ more confident now.",
+          "choices": [
+            "would be",
+            "would have been",
+            "had been"
+          ],
+          "answer": 0,
+          "explanation": "Now bugünkü sonucu gösterir: would be."
+        },
+        {
+          "prompt": "I wish I ___ more carefully before buying it last week.",
+          "choices": [
+            "think",
+            "would think",
+            "had thought"
+          ],
+          "answer": 2,
+          "explanation": "Geçmişteki bir karara yönelik pişmanlık had thought ile anlatılır."
+        },
+        {
+          "prompt": "If we ___ the warning, we might have avoided the delay.",
+          "choices": [
+            "had noticed",
+            "would notice",
+            "have noticed"
+          ],
+          "answer": 0,
+          "explanation": "Geçmişte gerçekleşmemiş koşul: if + had noticed."
+        }
+      ]
+    },
+    {
+      "id": "b2-modal-deduction",
+      "level": "B2",
+      "title": "Modals of Deduction",
+      "subtitle": "Kanıta dayanarak şimdi ve geçmiş hakkında çıkarım yap.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "evidence",
+          "meaning": "kanıt"
+        },
+        {
+          "word": "likelihood",
+          "meaning": "olasılık"
+        },
+        {
+          "word": "certain",
+          "meaning": "emin"
+        },
+        {
+          "word": "assumption",
+          "meaning": "varsayım"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Şimdiki durum hakkında çıkarım",
+          "text": "Must güçlü bir olumlu çıkarım, can’t güçlü bir olumsuz çıkarım anlatır. May, might ve could ise kesin olmayan ihtimalleri ifade eder. Bu kullanımda must bir zorunluluk değildir.",
+          "formula": "must / might / can’t + fiil",
+          "examples": [
+            {
+              "en": "The lights are on. Someone must be at home.",
+              "tr": "Işıklar açık. Evde biri olmalı."
+            }
+          ],
+          "tip": "Mustn’t yasak bildirir. “Olamaz” anlamındaki çıkarım için can’t kullan."
+        },
+        {
+          "title": "Geçmişi kanıtlardan yorumla",
+          "text": "Geçmişte ne olmuş olabileceğini anlatırken modal sonrasında have ve V3 kullan. Should have ise çoğunlukla yapılması beklenen ama yapılmamış bir işi veya eleştiriyi anlatır.",
+          "formula": "must / might / can’t have + V3",
+          "examples": [
+            {
+              "en": "She might have missed the bus; I am not sure.",
+              "tr": "Otobüsü kaçırmış olabilir; emin değilim."
+            }
+          ],
+          "tip": "Must have forgotten güçlü çıkarımdır; should have remembered eleştiri veya beklenti ifade eder."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "He has just eaten a huge meal. He ___ be hungry already.",
+          "choices": [
+            "must",
+            "can’t",
+            "should"
+          ],
+          "answer": 1,
+          "explanation": "Bağlam güçlü olumsuz çıkarım gerektirir: can’t be hungry."
+        },
+        {
+          "prompt": "The ground is wet. It ___ rained overnight.",
+          "choices": [
+            "must have",
+            "must be",
+            "must to"
+          ],
+          "answer": 0,
+          "explanation": "Geçmiş yağmur hakkında güçlü çıkarım: must have rained."
+        },
+        {
+          "prompt": "I am not sure where my keys are. I ___ left them at work.",
+          "choices": [
+            "can’t have",
+            "must to have",
+            "might have"
+          ],
+          "answer": 2,
+          "explanation": "Belirsiz bir geçmiş olasılık için might have kullanılır."
+        },
+        {
+          "prompt": "You ___ checked the address; we went to the wrong building.",
+          "choices": [
+            "should have",
+            "mustn’t",
+            "can have"
+          ],
+          "answer": 0,
+          "explanation": "Geçmişte yapılması gereken kontrol için should have checked kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "b2-passive-causative",
+      "level": "B2",
+      "title": "Advanced Passive & Causative",
+      "subtitle": "Resmî bilgi aktar ve yaptırdığın işleri anlat.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "estimate",
+          "meaning": "tahmin etmek"
+        },
+        {
+          "word": "renovate",
+          "meaning": "yenilemek"
+        },
+        {
+          "word": "arrange",
+          "meaning": "ayarlamak"
+        },
+        {
+          "word": "reliable",
+          "meaning": "güvenilir"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Edilgen raporlama",
+          "text": "Resmî haberlerde bilgiyi kimin söylediğinden çok aktarılan iddia öne çıkar. It is believed that… yapısı veya özne + is believed to… yapısı kullanılabilir.",
+          "formula": "It is believed that… | Subject + is believed to + fiil",
+          "examples": [
+            {
+              "en": "The building is believed to be over two hundred years old.",
+              "tr": "Binanın iki yüz yıldan daha eski olduğu düşünülüyor."
+            }
+          ],
+          "tip": "Daha önceki bir olayı anlatırken perfect infinitive kullan: He is believed to have left."
+        },
+        {
+          "title": "Bir işi başkasına yaptırmak",
+          "text": "Have/get something done, işi senin değil başka birinin yaptığını anlatır. Zaman have/get üzerinde gösterilir. Bu yapı bazen kişinin başına gelen istenmeyen olayı da anlatabilir.",
+          "formula": "have / get + nesne + V3",
+          "examples": [
+            {
+              "en": "We are having our kitchen renovated next month.",
+              "tr": "Gelecek ay mutfağımızı yeniletiyoruz."
+            }
+          ],
+          "tip": "I cut my hair işi kendim yaptım; I had my hair cut bir başkasına kestirdim anlamına gelir."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "The painting is believed ___ in the eighteenth century.",
+          "choices": [
+            "to have been created",
+            "to create",
+            "creating"
+          ],
+          "answer": 0,
+          "explanation": "Geçmişte yaratılma için edilgen perfect infinitive gerekir."
+        },
+        {
+          "prompt": "I had my laptop ___ by a technician.",
+          "choices": [
+            "repair",
+            "repairing",
+            "repaired"
+          ],
+          "answer": 2,
+          "explanation": "Have + nesne + V3: had my laptop repaired."
+        },
+        {
+          "prompt": "It ___ that the company will expand.",
+          "choices": [
+            "believes",
+            "is expected",
+            "has expected"
+          ],
+          "answer": 1,
+          "explanation": "Resmî edilgen raporlama yapısı it is expected that şeklindedir."
+        },
+        {
+          "prompt": "Tomorrow we will ___ the windows cleaned.",
+          "choices": [
+            "have",
+            "be",
+            "do"
+          ],
+          "answer": 0,
+          "explanation": "Başkasına yaptırılan iş: will have the windows cleaned."
+        }
+      ]
+    },
+    {
+      "id": "b2-relative-participle",
+      "level": "B2",
+      "title": "Relative & Participle Clauses",
+      "subtitle": "Ayrıntılı bilgileri daha akıcı cümlelere dönüştür.",
+      "category": "Dil bilgisi",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "applicant",
+          "meaning": "başvuran kişi"
+        },
+        {
+          "word": "resident",
+          "meaning": "bölge sakini"
+        },
+        {
+          "word": "proposal",
+          "meaning": "öneri"
+        },
+        {
+          "word": "relevant",
+          "meaning": "ilgili"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Tanımlayan ve ek bilgi veren cümleler",
+          "text": "Defining relative clause hangi kişi veya şeyden söz edildiğini belirler. Non-defining clause virgülle ayrılır ve ek bilgi verir; bu yapıda that kullanılmaz. Whose sahiplik belirtir.",
+          "formula": "noun + who / which / whose…",
+          "examples": [
+            {
+              "en": "My sister, who lives in Ankara, is a translator.",
+              "tr": "Ankara’da yaşayan kız kardeşim çevirmen."
+            }
+          ],
+          "tip": "Nesne olan zamir defining yapılarda atılabilir: the book (that) I bought. Özne olan zamiri tek başına atma."
+        },
+        {
+          "title": "Etken ve edilgen kısaltmalar",
+          "text": "Öznesi nitelenen isim olan bazı relative clause yapıları kısaltılabilir. Etken anlamda -ing, edilgen anlamda V3 kullanılır. Her relative clause mekanik olarak kısaltılamaz; zaman ve anlam korunmalıdır.",
+          "formula": "people working… | documents written…",
+          "examples": [
+            {
+              "en": "The documents attached to this email contain the details.",
+              "tr": "Bu e-postaya eklenen belgeler ayrıntıları içeriyor."
+            }
+          ],
+          "tip": "The people who work here → the people working here; the report which was published → the report published."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "The candidate ___ experience impressed us got the job.",
+          "choices": [
+            "who",
+            "whose",
+            "which"
+          ],
+          "answer": 1,
+          "explanation": "Adayın deneyimi: sahiplik bildiren whose gerekir."
+        },
+        {
+          "prompt": "The report, ___ was published yesterday, is available online.",
+          "choices": [
+            "that",
+            "what",
+            "which"
+          ],
+          "answer": 2,
+          "explanation": "Virgülle ayrılan non-defining yapıda which kullanılır; that kullanılmaz."
+        },
+        {
+          "prompt": "People ___ near the airport often complain about noise.",
+          "choices": [
+            "living",
+            "lived",
+            "are living"
+          ],
+          "answer": 0,
+          "explanation": "People who live near… etken kısaltması people living near… olur."
+        },
+        {
+          "prompt": "The equipment ___ in this laboratory is very expensive.",
+          "choices": [
+            "using",
+            "used",
+            "uses"
+          ],
+          "answer": 1,
+          "explanation": "Laboratuvarda kullanılan ekipman edilgendir: equipment used."
+        }
+      ]
+    },
+    {
+      "id": "b2-reported-speech",
+      "level": "B2",
+      "title": "Reported Speech & Reporting Verbs",
+      "subtitle": "İddiaları, önerileri ve soruları doğru aktar.",
+      "category": "İletişim",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "deny",
+          "meaning": "inkâr etmek"
+        },
+        {
+          "word": "admit",
+          "meaning": "kabul etmek"
+        },
+        {
+          "word": "persuade",
+          "meaning": "ikna etmek"
+        },
+        {
+          "word": "recommend",
+          "meaning": "önermek"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Dolaylı soru ve zaman ilişkisi",
+          "text": "Dolaylı sorularda soru sözcüğünden sonra düz cümle sırası kullanılır. Evet/hayır soruları if veya whether ile aktarılır. Geçmiş bir reporting verb sonrasında zaman sıklıkla geriye kayar; hâlâ geçerli bilgilerde bu kayma her zaman zorunlu değildir.",
+          "formula": "asked + if / whether / question word + subject + verb",
+          "examples": [
+            {
+              "en": "She asked where I had bought the book.",
+              "tr": "Kitabı nereden aldığımı sordu."
+            }
+          ],
+          "tip": "She asked where did I buy… kullanma; dolaylı soruda did ile devrik sıra kurulmaz."
+        },
+        {
+          "title": "Fiile göre tamamlayıcı seç",
+          "text": "Reporting verb sonrasındaki yapı fiile bağlıdır. Deny/admit/suggest + -ing; promise/offer + to-infinitive; advise/warn + nesne + to-infinitive yaygın kalıplardır.",
+          "formula": "deny doing | promise to do | advise someone to do",
+          "examples": [
+            {
+              "en": "He denied sharing the confidential file.",
+              "tr": "Gizli dosyayı paylaştığını inkâr etti."
+            }
+          ],
+          "tip": "Suggest me to go yerine suggest going veya suggest that I go kullan."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "She asked me where ___ .",
+          "choices": [
+            "did I live",
+            "I lived",
+            "do I live"
+          ],
+          "answer": 1,
+          "explanation": "Dolaylı soruda özne + fiil sırası gerekir: I lived."
+        },
+        {
+          "prompt": "He denied ___ the window.",
+          "choices": [
+            "breaking",
+            "to break",
+            "break"
+          ],
+          "answer": 0,
+          "explanation": "Deny sonrasında -ing kullanılır."
+        },
+        {
+          "prompt": "They promised ___ us the next day.",
+          "choices": [
+            "calling",
+            "call",
+            "to call"
+          ],
+          "answer": 2,
+          "explanation": "Promise + to-infinitive: promised to call."
+        },
+        {
+          "prompt": "The doctor advised me ___ more rest.",
+          "choices": [
+            "getting",
+            "to get",
+            "get"
+          ],
+          "answer": 1,
+          "explanation": "Advise + nesne + to-infinitive yapısı kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "b2-linking-arguments",
+      "level": "B2",
+      "title": "Linking Ideas & Arguments",
+      "subtitle": "Karşıtlık, neden ve sonuç ilişkileri kur.",
+      "category": "Yazma",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "nevertheless",
+          "meaning": "yine de"
+        },
+        {
+          "word": "whereas",
+          "meaning": "oysa; -iken"
+        },
+        {
+          "word": "consequently",
+          "meaning": "sonuç olarak"
+        },
+        {
+          "word": "drawback",
+          "meaning": "dezavantaj"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Karşıtlığı doğru bağla",
+          "text": "Although/even though sonrasında özne ve fiil içeren cümle gelir. Despite/in spite of sonrasında isim veya -ing yapısı gelir. Whereas iki durumu karşılaştırır.",
+          "formula": "although + clause | despite + noun / V-ing",
+          "examples": [
+            {
+              "en": "Despite being expensive, the course was popular.",
+              "tr": "Pahalı olmasına rağmen kurs popülerdi."
+            }
+          ],
+          "tip": "Despite of kullanma. In spite of doğrudur. Despite the fact that sonrasında tam cümle gelebilir."
+        },
+        {
+          "title": "Tutarlı paragraf kur",
+          "text": "However ve nevertheless bir önceki fikre karşıtlık; therefore ve consequently sonuç ekler. Bunlar iki bağımsız cümleyi yalnızca virgülle birleştiren bağlaçlar değildir. Öncesinde nokta veya noktalı virgül kullan.",
+          "formula": "Claim. However, contrast. Therefore, result.",
+          "examples": [
+            {
+              "en": "Public transport is affordable. However, services are limited at night.",
+              "tr": "Toplu taşıma uygun fiyatlıdır. Ancak gece seferleri sınırlıdır."
+            }
+          ],
+          "tip": "Bir görüş paragrafında ana fikri belirt, gerekçe sun, somut örnek ver ve sonucu bağla. Bağlayıcıları gereksiz yere her cümlede kullanma."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "___ the heavy rain, the match continued.",
+          "choices": [
+            "Although",
+            "Despite",
+            "Even though"
+          ],
+          "answer": 1,
+          "explanation": "The heavy rain bir isim grubudur: despite gerekir."
+        },
+        {
+          "prompt": "___ it was raining heavily, the match continued.",
+          "choices": [
+            "Although",
+            "Despite",
+            "In spite of"
+          ],
+          "answer": 0,
+          "explanation": "It was raining tam cümledir: although gerekir."
+        },
+        {
+          "prompt": "The road was closed. ___, we had to take a different route.",
+          "choices": [
+            "Nevertheless",
+            "Whereas",
+            "Consequently"
+          ],
+          "answer": 2,
+          "explanation": "Yolun kapanmasının sonucunu consequently bağlar."
+        },
+        {
+          "prompt": "Which sentence is correctly punctuated?",
+          "choices": [
+            "It was costly, however we agreed.",
+            "It was costly. However, we agreed.",
+            "Despite it was costly, we agreed."
+          ],
+          "answer": 1,
+          "explanation": "However öncesinde nokta ve sonrasında virgül iki fikri açıkça ayırır."
+        }
+      ]
+    },
+    {
+      "id": "b2-work-discussion",
+      "level": "B2",
+      "title": "Workplace Discussions & Collocations",
+      "subtitle": "İş ortamında görüş bildir, nazikçe karşı çık ve çözüm öner.",
+      "category": "İletişim",
+      "icon": "✧",
+      "minutes": 15,
+      "words": [
+        {
+          "word": "meet a deadline",
+          "meaning": "son teslim tarihine yetişmek"
+        },
+        {
+          "word": "reach an agreement",
+          "meaning": "anlaşmaya varmak"
+        },
+        {
+          "word": "raise a concern",
+          "meaning": "bir endişeyi dile getirmek"
+        },
+        {
+          "word": "take responsibility",
+          "meaning": "sorumluluk almak"
+        }
+      ],
+      "sections": [
+        {
+          "title": "Nazikçe karşı çık ve açıklama iste",
+          "text": "B2 düzeyinde yalnızca fikir belirtmek değil, karşı görüşü kabul ederek kendi gerekçeni açıklamak da önemlidir. I see your point, but… nazik bir geçiş; Could you clarify…? ayrıntı istemek için kullanılır.",
+          "formula": "I see your point, but… | Could you clarify what you mean by…?",
+          "examples": [
+            {
+              "en": "I see your point, but extending the deadline may increase costs.",
+              "tr": "Ne demek istediğini anlıyorum ama süreyi uzatmak maliyetleri artırabilir."
+            }
+          ],
+          "tip": "Kesin bir reddetme yerine gerekçe ve alternatif sun: Would it be possible to reduce the scope?"
+        },
+        {
+          "title": "Doğal kelime birliktelikleri",
+          "text": "İş İngilizcesinde fiil ve isim birlikte öğrenilmelidir: meet a deadline, make a decision, reach an agreement ve take responsibility. Bir toplantıyı özetlerken kararı, sorumlu kişiyi ve sonraki adımı açıkça belirt.",
+          "formula": "make a decision | meet a deadline | reach an agreement",
+          "examples": [
+            {
+              "en": "We reached an agreement: Deniz will send the revised proposal by Friday.",
+              "tr": "Bir anlaşmaya vardık: Deniz gözden geçirilmiş öneriyi cumaya kadar gönderecek."
+            }
+          ],
+          "tip": "Kendin dene: Bir toplantıda ek süre iste ve nedenini açıkla. Örnek: Could we extend the deadline so that we can review the figures? Bu açık uçlu prova otomatik puanlanmaz."
+        }
+      ],
+      "quiz": [
+        {
+          "prompt": "We need to ___ a decision before noon.",
+          "choices": [
+            "do",
+            "make",
+            "take up"
+          ],
+          "answer": 1,
+          "explanation": "Standart kelime birlikteliği make a decision şeklindedir."
+        },
+        {
+          "prompt": "The team worked late to ___ the deadline.",
+          "choices": [
+            "meet",
+            "reach to",
+            "make"
+          ],
+          "answer": 0,
+          "explanation": "Son teslim tarihine yetişmek meet the deadline ile ifade edilir."
+        },
+        {
+          "prompt": "Choose the most constructive disagreement.",
+          "choices": [
+            "You are wrong. Stop talking.",
+            "That makes no sense at all.",
+            "I see your point, but could we consider the costs?"
+          ],
+          "answer": 2,
+          "explanation": "Karşı görüşü kabul edip somut endişeyi dile getirmek yapıcıdır."
+        },
+        {
+          "prompt": "Could you ___ what you mean by “flexible hours”?",
+          "choices": [
+            "clarify",
+            "claim",
+            "deny"
+          ],
+          "answer": 0,
+          "explanation": "Clarify, anlamı açıklığa kavuşturmak demektir."
         }
       ]
     }
